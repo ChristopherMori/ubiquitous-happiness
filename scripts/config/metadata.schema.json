@@ -1,5 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Transcript Metadata",
   "type": "object",
   "required": ["title", "youtube_id"],
   "properties": {
@@ -8,16 +9,64 @@
     "date_published": { "type": "string" },
     "duration": { "type": "string" },
     "description": { "type": "string" },
+
+    "creator": { "type": "string" },
+    "channel": { "type": "string" },
+    "language": { "type": "string" },
+
     "entities": {
       "type": "object",
       "properties": {
-        "people": { "type": "array", "items": { "type": "string" } },
-        "places": { "type": "array", "items": { "type": "string" } },
-        "organizations": { "type": "array", "items": { "type": "string" } }
+        "people": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+        "places": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+        "organizations": { "type": "array", "items": { "type": "string" }, "uniqueItems": true }
       },
       "additionalProperties": false
     },
-    "tags": { "type": "array", "items": { "type": "string" } }
+
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+
+    "cases": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "summary"],
+        "properties": {
+          "title": { "type": "string" },
+          "date": { "type": ["string", "null"] },
+          "location": { "type": ["string", "null"] },
+          "vessel": { "type": ["string", "null"] },
+          "witness": { "type": ["string", "null"] },
+          "witnesses": { "type": "array", "items": { "type": "string" } },
+          "org": { "type": ["string", "null"] },
+          "referenced_in": { "type": ["string", "null"] },
+          "summary": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+
+    "links": {
+      "type": "object",
+      "properties": {
+        "youtube": { "type": "string" },
+        "sources": {
+          "type": "array",
+          "items": { "type": "string" },
+          "uniqueItems": true
+        }
+      },
+      "additionalProperties": false
+    },
+
+    "notes": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
   },
   "additionalProperties": false
 }
