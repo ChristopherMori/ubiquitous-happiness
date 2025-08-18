@@ -1,0 +1,183 @@
+# docs/assets/transcripts/uso-casebook-unidentified-submerged-objects-throughout-history/metadata.yml
+title: USO Case Book: Unidentified Submerged Objects Throughout History
+youtube_id: Yn-83KbgRN8   # 11 chars, confirmed
+# Optional but helpful:
+# date_published:            # unknown from transcript; add YYYY-MM-DD if/when known
+duration: "28:09"           # computed from transcript end time (~1689s)
+description: >
+  Documentary-style overview of Unidentified Submerged Objects (USOs): historical “maritime
+  lightwheels,” mid-20th-century merchant-ship encounters logged by Blue Book, and Soviet/Russian
+  naval case files. Emphasizes transmedium behavior (seamless air-sea transitions), extreme
+  underwater speeds without cavitation, bioluminescent effects, and radar/sonar anomalies. Includes
+  notable merchant, military, and scientific witnesses across the Persian Gulf, South China Sea,
+  Atlantic and Pacific, Barents Sea, and Australian waters.
+creator: UAP Gerb
+channel: UAP Gerb
+language: en
+links:
+  youtube: https://www.youtube.com/watch?v=Yn-83KbgRN8
+#  sources:                  # keep for provenance if you track external mirrors/indexers
+#    - https://ufosdb.com/video/Yn-83KbgRN8/uso-case-book-unidentified-submerged-objects-throughout-history
+
+entities:
+  people:
+    - Lou Elizondo
+    - Kevin Knuth
+    - Paul Stonehill
+    - Philip Mantle
+    - Vladimir G. Asaza          # transliteration as spoken in video
+    - Pyotr Novoitsev
+    - Admiral Nikolai Ivanovich Smirnov
+    - Captain Tarantyn
+    - Captain R. F. Moore
+    - J. E. Pringle
+    - Captain Avern
+    - Mr. Manning
+    - Captain Breyer
+    - C. Adams
+    - Les Hendy
+    - Frederick Walter
+    - Emma Flavel
+    - George Knapp
+  places:
+    - Persian Gulf
+    - South China Sea
+    - Barents Sea
+    - Ascension Island (South Atlantic)
+    - Kamchatka Peninsula
+    - Cape Race, Newfoundland
+    - Malabar Coast, India
+    - Gulf of Guinea
+    - Yokohama–Hawaiian Islands route (North Pacific)
+    - Port Augusta, South Australia
+    - Groote Eylandt area, Northern Territory, Australia
+    - Fraser Island area, Queensland, Australia
+    - Gulf of Guayaquil, Ecuador
+  organizations:
+    - United States Navy
+    - Royal Australian Air Force (RAAF)
+    - United States Air Force – ATIC / Project Blue Book
+    - Soviet Navy
+    - Danish Meteorological Institute
+    - Australian Department of Works
+    - Sol Foundation
+    - JANAP-146C
+    - OPNAV 3820
+
+tags:
+  - USO
+  - maritime lightwheels
+  - transmedium
+  - Blue Book
+  - Soviet files
+  - sonar anomaly
+  - radar track
+  - historical cases
+  - naval encounters
+
+cases:
+  - title: MV Marcala USO
+    date: 1950-08-04
+    location: North Atlantic
+    vessel: MV Marcala
+    referenced_in: Project Blue Book
+    summary: >
+      Multiple bridge crew observed a bright object performing rapid maneuvers over the sea for ~1 minute.
+  - title: SS City of Almaco encounter
+    date: 1959-11-07
+    location: North Pacific (Yokohama to Los Angeles route, N of Hawaii)
+    vessel: SS City of Almaco
+    referenced_in: Project Blue Book
+    summary: >
+      Crew witnessed a rotary, wobbling luminous object skimming over the water at high speed.
+  - title: Operation Range Vessel “Whiskey”
+    date: 1960-06-25
+    location: Near Ascension Island, South Atlantic
+    vessel: Range vessel “Whiskey”
+    referenced_in: Missile test recovery log (described)
+    summary: >
+      Recovery team observed a massive luminous object emerging from the sea while retrieving a floating
+      data cassette “1802” from a missile test.
+  - title: SS Morgantown Victory “cigar” USO
+    date: 1966-01-11
+    location: ~1,000 miles SE of Tokyo
+    vessel: SS Morgantown Victory
+    referenced_in: Project Blue Book
+    summary: >
+      Large glowing cigar-shaped object approached the ship and paced it; described engine effects and
+      extraordinary maneuverability.
+  - title: Submarine Volga multi-disc event
+    date: 1977-10-07
+    location: Barents Sea
+    vessel: Soviet Submarine Volga
+    referenced_in: Soviet Navy reporting; directive by Adm. N. I. Smirnov
+    summary: >
+      Radar/visual of nine bright discs moving in formation; elevated Navy concern led to mandatory reporting policy.
+  - title: Kamchatka hydrologists’ lake USO
+    date: 1970-08
+    location: Kamchatka Lake, Russia
+    witnesses: Hydrologists on motorboat
+    referenced_in: Russia’s “USO Secrets” and Soviet UFO chronicles
+    summary: >
+      Boiling water phenomenon and fast-moving submerged light/object observed at close range.
+  - title: HMS Vulture lightwheels
+    date: 1879-05-15
+    location: Persian Gulf
+    vessel: HMS Vulture
+    witness: J. E. Pringle (Royal Navy hydrographer)
+    summary: >
+      “Luminous waves or pulsations” forming wheel-like patterns moving at great speed around the vessel.
+  - title: SS Patna double lightwheels
+    date: 1880-05
+    location: Arabian Sea
+    vessel: SS Patna (British India Steam Navigation Co.)
+    witnesses: Captain Avern, Third Officer Mr. Manning, others
+    summary: >
+      Two enormous rotating luminous wheels flanking the ship; coherent geometry and sustained duration.
+  - title: SS Shahjahan lightwheel
+    date: 1880-01-05
+    location: Off the Malabar Coast, India
+    vessel: SS Shahjahan
+    summary: >
+      Milky white circular glow encircling the ship, rotating and moving with the vessel at ~60 mph.
+  - title: SS Bintang rotating wheel
+    date: 1909-06-10
+    location: Strait of Malacca
+    vessel: SS Bintang
+    summary: >
+      Vast revolving wheel of light under the water; spoke-like shafts rotating coherently.
+  - title: SS Valencien hovering wheel
+    date: 1910
+    location: South China Sea
+    vessel: SS Valencien
+    summary: >
+      Horizontal wheel of light seen hovering just above the water surface by captain and officers.
+  - title: SS Siberian near Cape Race
+    date: 1887-11-12
+    location: Off Cape Race, Newfoundland
+    vessel: SS Siberian
+    witness: Captain R. F. Moore
+    summary: >
+      Brilliant submerged light rose to ~50 ft, moved toward the ship, then sped away against current.
+  - title: Fort Salisbury “cigar” sink
+    date: 1902
+    location: Gulf of Guinea
+    vessel: Fort Salisbury
+    summary: >
+      Immense cigar-shaped object ~200 m x 300 m “sank” vertically into the ocean with no surf disturbance.
+  - title: Port Augusta multi-object departure
+    date: 1947
+    location: Port Augusta, South Australia
+    witnesses: Frederick Walter, Emma Flavel
+    summary: >
+      Five gray oblong objects rose from the sea and executed controlled maneuvers before departing.
+  - title: Australian Blue Book – Groote Eylandt & Fraser Island lights
+    date: 1964-01-23 and 1967
+    location: Northern Territory & Queensland, Australia
+    org: Royal Australian Air Force (first official “unknown”)
+    summary: >
+      Large lighted “vessels” and rotating sea-surface lightwheels observed and officially logged; later compared with JANAP-146C/OPNAV 3820 reporting gaps.
+
+notes:
+  - Details extracted from the uploaded transcript; some proper names follow the spellings used in-video.
+  - Duration derived from transcript end time; update if YouTube lists a different runtime.
