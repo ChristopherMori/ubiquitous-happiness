@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["title", "youtube_id"],
+  "properties": {
+    "title": { "type": "string", "minLength": 3 },
+    "youtube_id": { "type": "string", "pattern": "^[\\w-]{11}$" },
+    "date_published": { "type": "string" },
+    "duration": { "type": "string" },
+    "description": { "type": "string" },
+    "entities": {
+      "type": "object",
+      "properties": {
+        "people": { "type": "array", "items": { "type": "string" } },
+        "places": { "type": "array", "items": { "type": "string" } },
+        "organizations": { "type": "array", "items": { "type": "string" } }
+      },
+      "additionalProperties": false
+    },
+    "tags": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": false
+}

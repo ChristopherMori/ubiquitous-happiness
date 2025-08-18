@@ -1,0 +1,28 @@
+site_name: UAP Gerb Archive
+site_url: https://<your-username>.github.io/uap-gerb-archive
+theme:
+  name: material
+  features:
+  - navigation.instant
+  - navigation.expand
+  - content.code.annotate
+  - content.tabs.link
+  - search.highlight
+  - search.share
+markdown_extensions:
+- admonition
+- toc:
+    permalink: true
+- def_list
+- footnotes
+- meta
+- attr_list
+- pymdownx.details
+- pymdownx.superfences
+plugins:
+- search
+nav:
+- Home: index.md
+- Videos:
+  - Example Video: videopages/example-video.md
+- Entities: entities_index.md
