@@ -2,7 +2,7 @@
 title: US Special Forces Confession – I Recovered Crashed UFOs (Fact or Fiction?)
 youtube_id: DcvuglS7ps4   # 11 chars, confirmed
 # Optional but helpful:
-# date_published:            # not available in transcript
+# date_published:
 duration: "16:46"           # ~1006s from transcript
 description: >
   Alleged testimony of a former US Special Forces soldier claiming direct involvement in recovery
@@ -36,7 +36,7 @@ entities:
     - New Mexico
     - Roswell
     - Wright-Patterson Air Force Base
-    - "Crash sites" (undisclosed global locations)
+    - "Crash sites (undisclosed global locations)"
   organizations:
     - United States Army Special Forces (Green Berets)
     - Central Intelligence Agency (CIA)

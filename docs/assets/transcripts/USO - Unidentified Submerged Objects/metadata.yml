@@ -1,9 +1,8 @@
 # docs/assets/transcripts/uso-unidentified-submerged-objects/metadata.yml
 title: USO – Unidentified Submerged Objects
-youtube_id: U-jrx_giINA   # 11 chars, confirmed
-# Optional but helpful:
-# date_published:            # not available in transcript
-duration: "15:27"           # ~927s from transcript
+youtube_id: U-jrx_giINA
+# date_published:
+duration: "15:27"
 description: >
   Overview of Unidentified Submerged Objects (USOs), covering centuries of maritime encounters
   involving luminous wheels, underwater lights, and anomalous craft. Examines naval and civilian
@@ -62,40 +61,41 @@ tags:
 
 cases:
   - title: Christopher Columbus’s log entry
-    date: 1492-10
+    date: "1492-10"
     location: Caribbean Sea
     vessel: Santa María
     witness: Christopher Columbus and crew
     summary: >
       Crew observed strange lights rising and falling over the horizon during voyage to the Americas.
   - title: HMS Vulture “lightwheel”
-    date: 1879-05-15
+    date: "1879-05-15"
     location: Persian Gulf
     vessel: HMS Vulture
     witness: Royal Navy crew including J. E. Pringle
     summary: >
       Described massive luminous wheel-like formations circling the vessel at high speed.
   - title: Soviet Submarine Volga disc formation
-    date: 1977-10-07
+    date: "1977-10-07"
     location: Barents Sea
     vessel: Soviet Submarine Volga
     referenced_in: Soviet Navy records
     summary: >
       Radar/visual observation of multiple discs maneuvering in formation; led to heightened Soviet naval reporting.
   - title: Puerto Rico Trench USO reports
-    date: 1960s–1980s
+    date: "1960s–1980s"
     location: Puerto Rico Trench
     referenced_in: Ivan T. Sanderson’s catalog and later USO studies
     summary: >
       Numerous accounts of luminous craft entering and leaving the deep trench at extraordinary speed.
   - title: Lake Baikal divers’ encounter
-    date: 1982
+    date: "1982"
     location: Lake Baikal, Russia
-    witnesses: Soviet Navy divers
+    witnesses:
+      - Soviet Navy divers
     summary: >
       Divers reported humanoid figures in silvery suits and pursuit by anomalous underwater craft.
   - title: Great Lakes sonar anomalies
-    date: Various (20th century)
+    date: "Various (20th century)"
     location: North American Great Lakes
     referenced_in: Carl Feindt’s USO research
     summary: >
@@ -104,4 +104,4 @@ cases:
 notes:
   - Duration based on transcript timing (~927s).
   - Many examples overlap with other USO compilations; some proper names are referenced indirectly.
-  - Case list condensed to most notable examples in transcript.
+  - Case list condensed to notable examples in transcript.
