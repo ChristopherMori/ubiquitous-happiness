@@ -1,0 +1,107 @@
+# docs/assets/transcripts/uso-unidentified-submerged-objects/metadata.yml
+title: USO – Unidentified Submerged Objects
+youtube_id: U-jrx_giINA
+# date_published:
+duration: "15:27"
+description: >
+  Overview of Unidentified Submerged Objects (USOs), covering centuries of maritime encounters
+  involving luminous wheels, underwater lights, and anomalous craft. Examines naval and civilian
+  sightings with emphasis on transmedium capabilities, extreme underwater speeds, and anomalous
+  sonar/radar returns. Frames USOs as a persistent global phenomenon tied to both folklore and
+  modern military case files.
+creator: UAP Gerb
+channel: UAP Gerb
+language: en
+links:
+  youtube: https://www.youtube.com/watch?v=U-jrx_giINA
+#  sources:
+#    - https://ufosdb.com/video/U-jrx_giINA/uso-unidentified-submerged-objects
+
+entities:
+  people:
+    - Christopher Columbus (historical reference)
+    - Ivan T. Sanderson
+    - Carl Feindt
+    - Paul Stonehill
+    - Philip Mantle
+    - Kevin Knuth
+    - Vladimir Azhazha
+    - Admiral Nikolai Smirnov
+  places:
+    - Atlantic Ocean
+    - Pacific Ocean
+    - Barents Sea
+    - Persian Gulf
+    - South China Sea
+    - Indian Ocean
+    - Gulf of Mexico
+    - Great Lakes
+    - Puerto Rico Trench
+    - Lake Baikal, Russia
+  organizations:
+    - United States Navy
+    - Soviet Navy
+    - Project Blue Book (USAF)
+    - Royal Navy
+    - Sol Foundation
+    - JANAP-146C
+    - OPNAV 3820
+
+tags:
+  - USO
+  - maritime anomalies
+  - transmedium craft
+  - sonar anomaly
+  - radar anomaly
+  - historical sightings
+  - naval reports
+  - lightwheels
+  - Soviet files
+  - folklore
+
+cases:
+  - title: Christopher Columbus’s log entry
+    date: "1492-10"
+    location: Caribbean Sea
+    vessel: Santa María
+    witness: Christopher Columbus and crew
+    summary: >
+      Crew observed strange lights rising and falling over the horizon during voyage to the Americas.
+  - title: HMS Vulture “lightwheel”
+    date: "1879-05-15"
+    location: Persian Gulf
+    vessel: HMS Vulture
+    witness: Royal Navy crew including J. E. Pringle
+    summary: >
+      Described massive luminous wheel-like formations circling the vessel at high speed.
+  - title: Soviet Submarine Volga disc formation
+    date: "1977-10-07"
+    location: Barents Sea
+    vessel: Soviet Submarine Volga
+    referenced_in: Soviet Navy records
+    summary: >
+      Radar/visual observation of multiple discs maneuvering in formation; led to heightened Soviet naval reporting.
+  - title: Puerto Rico Trench USO reports
+    date: "1960s–1980s"
+    location: Puerto Rico Trench
+    referenced_in: Ivan T. Sanderson’s catalog and later USO studies
+    summary: >
+      Numerous accounts of luminous craft entering and leaving the deep trench at extraordinary speed.
+  - title: Lake Baikal divers’ encounter
+    date: "1982"
+    location: Lake Baikal, Russia
+    witnesses:
+      - Soviet Navy divers
+    summary: >
+      Divers reported humanoid figures in silvery suits and pursuit by anomalous underwater craft.
+  - title: Great Lakes sonar anomalies
+    date: "Various (20th century)"
+    location: North American Great Lakes
+    referenced_in: Carl Feindt’s USO research
+    summary: >
+      Reports of radar/sonar contacts and lights under the water without known explanation.
+
+notes:
+  - Duration based on transcript timing (~927s).
+  - Many examples overlap with other USO compilations; some proper names are referenced indirectly.
+  - Case list condensed to notable examples in transcript.
