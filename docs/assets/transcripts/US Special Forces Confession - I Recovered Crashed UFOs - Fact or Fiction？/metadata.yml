@@ -1,0 +1,89 @@
+# docs/assets/transcripts/us-special-forces-confession-recovered-crashed-ufos/metadata.yml
+title: US Special Forces Confession – I Recovered Crashed UFOs (Fact or Fiction?)
+youtube_id: DcvuglS7ps4   # 11 chars, confirmed
+# Optional but helpful:
+# date_published:            # not available in transcript
+duration: "16:46"           # ~1006s from transcript
+description: >
+  Alleged testimony of a former US Special Forces soldier claiming direct involvement in recovery
+  operations of crashed UFOs and non-human bodies. Narrative explores covert military retrieval
+  missions, security protocols, and witness credibility, while weighing skeptical counterarguments.
+  Frames the story within the broader debate of whistleblower accounts and UFO crash retrieval lore.
+creator: UAP Gerb
+channel: UAP Gerb
+language: en
+links:
+  youtube: https://www.youtube.com/watch?v=DcvuglS7ps4
+#  sources:
+#    - https://ufosdb.com/video/DcvuglS7ps4/us-special-forces-confession-recovered-crashed-ufos
+
+entities:
+  people:
+    - Anonymous Special Forces soldier (pseudonymous)
+    - Steven Greer
+    - Ross Coulthart
+    - Richard Dolan
+    - Luis Elizondo
+    - David Grusch
+    - Bob Lazar
+    - Eric Davis
+    - Admiral Thomas Wilson
+    - Dr. Garry Nolan
+  places:
+    - United States
+    - Nevada desert
+    - Area 51 (alleged reference)
+    - New Mexico
+    - Roswell
+    - Wright-Patterson Air Force Base
+    - “Crash sites” (undisclosed global locations)
+  organizations:
+    - United States Army Special Forces (Green Berets)
+    - Central Intelligence Agency (CIA)
+    - National Security Agency (NSA)
+    - Department of Defense (DoD)
+    - Project Blue Book (historical reference)
+    - UAP Disclosure movement
+    - Sol Foundation
+
+tags:
+  - UFO crash retrieval
+  - US Special Forces
+  - whistleblower
+  - military secrecy
+  - disclosure
+  - alien bodies
+  - covert operations
+  - testimony credibility
+  - skepticism
+  - folklore vs fact
+
+cases:
+  - title: Alleged Special Forces UFO recovery mission
+    date: Undisclosed (claimed 1990s–2000s)
+    location: Nevada desert (exact site withheld)
+    witnesses: Anonymous US Special Forces member
+    referenced_in: Testimony featured in documentary-style video
+    summary: >
+      Soldier describes recovery of a crashed UFO under high secrecy, with military cordon, rapid
+      transport of wreckage, and observation of non-human biological entities.
+  - title: Roswell parallels
+    date: 1947-07
+    location: Roswell, New Mexico
+    referenced_in: Historical case, compared by narrator
+    summary: >
+      Transcript situates alleged modern recovery claims within context of Roswell and subsequent
+      crash retrieval folklore.
+  - title: Wright-Patterson AFB storage claims
+    date: Ongoing (post-1947 references)
+    location: Wright-Patterson Air Force Base, Ohio
+    referenced_in: UFO crash retrieval lore
+    summary: >
+      Narration includes speculation that UFO materials and bodies from recovery operations may have
+      been stored at Wright-Patterson.
+
+notes:
+  - Transcript duration derived from end time (~1006s).
+  - Many names and comparisons are referenced as context, not direct witnesses.
+  - Soldier’s account is anonymous; credibility remains disputed, framed against other disclosure
+    testimony.
