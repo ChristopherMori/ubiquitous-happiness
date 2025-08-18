@@ -1,0 +1,6 @@
+mkdocs
+mkdocs-material
+pyyaml
+jsonschema
+python-slugify
+spacy
