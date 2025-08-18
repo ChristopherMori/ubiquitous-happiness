@@ -36,7 +36,7 @@ entities:
     - New Mexico
     - Roswell
     - Wright-Patterson Air Force Base
-    - “Crash sites” (undisclosed global locations)
+    - "Crash sites" (undisclosed global locations)
   organizations:
     - United States Army Special Forces (Green Berets)
     - Central Intelligence Agency (CIA)
@@ -60,22 +60,23 @@ tags:
 
 cases:
   - title: Alleged Special Forces UFO recovery mission
-    date: Undisclosed (claimed 1990s–2000s)
+    date: "Undisclosed (claimed 1990s–2000s)"
     location: Nevada desert (exact site withheld)
-    witnesses: Anonymous US Special Forces member
+    witnesses:
+      - Anonymous US Special Forces member
     referenced_in: Testimony featured in documentary-style video
     summary: >
       Soldier describes recovery of a crashed UFO under high secrecy, with military cordon, rapid
       transport of wreckage, and observation of non-human biological entities.
   - title: Roswell parallels
-    date: 1947-07
+    date: "1947-07"
     location: Roswell, New Mexico
     referenced_in: Historical case, compared by narrator
     summary: >
       Transcript situates alleged modern recovery claims within context of Roswell and subsequent
       crash retrieval folklore.
   - title: Wright-Patterson AFB storage claims
-    date: Ongoing (post-1947 references)
+    date: "Ongoing (post-1947 references)"
     location: Wright-Patterson Air Force Base, Ohio
     referenced_in: UFO crash retrieval lore
     summary: >
