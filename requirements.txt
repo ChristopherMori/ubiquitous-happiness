@@ -4,3 +4,4 @@ pyyaml
 jsonschema
 python-slugify
 spacy
+requests
