@@ -1,0 +1,78 @@
+---
+title: "FASTWALKERS \u2013 UFOs Outside Earth"
+---
+
+# FASTWALKERS – UFOs Outside Earth
+
+![thumbnail](../videos/Tubx-CaAaOs-fastwalkers-ufos-outside-earth/thumb.jpg)
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/Tubx-CaAaOs" frameborder="0" allowfullscreen></iframe>
+
+**Published:** 2024-02-28  ·  **Duration:** 22:16  ·  **Channel:** UAP Gerb
+
+??? note "Description"
+    Today let's take a look at the term known as Fastwalkers, a designation for UFOs detected entering or leaving Earth's atmosphere. The terms Fastwalker and Slowwalker have conveniently been utilized by USNORTHCOM and NORAD to avoid any sort of declassification through FOIA requests or other means by Executive Order.
+    
+    In this video, we will cover 3 instances in which NORAD, Space Force, and the USG denied access to data on fastwalkers and UFOs in space. The Trail does not end here, however. NORAD's interest in UAP was outed by the infamous J. Allen Hynek in the 60s. Fastwalkers also appear within the 2016 Hillary Clinton email leaks where communications between campaign manager John Podesta and USG Contractor Bob Fish. Fish discusses the Defense Support Program's (DSP) role in monitoring UFO/UAP/Fastwalker. 
+    
+    Following down this rabbit hole we can stumble onto 2 shocking cases allegedly involving UAP detection from DSP - one UFO performing impossible maneuvers in space, and another offering confirmation to the 1976 Tehran UFO incident. 
+    
+    The Rabbit Hole of DSP and Fastwalkers goes deeper with ties to the Aerospace Corporation, one of the companies suggested by Jacques Vallee and Ross Coulthart participating in "real" UFO research. 
+    
+    0:00 Intro
+    0:59 Terminology 
+    1:37 Greenwald FOIA Denial
+    3:42 1979 NORAD FOIA Denial
+    4:47 Orbit Determination of Sunlight Illuminated Objects Detected By Overhead Platforms
+    5:53 Defense Support Program 
+    6:22 Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors
+    7:59 Leaked Fastwalker Emails
+    10:58 1984 Fastwalker DSP Case
+    14:05 1976 Tehran UFO DSP Connection
+    19:54 The Aerospace Corporation 
+    20:24 Conclusion 
+    
+    2023 Black Vault FOIA Denial: https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/ 
+    
+    FOIA Exemption 1: https://www.justice.gov/archive/oip/foia_guide09/exemption1.pdf
+    
+    Black Vault 2013 Fastwalker NORAD Denial: https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf  
+    
+    Orbit Determination of Sunlight Illuminated Objects Detected By Overhead Platforms: https://documents.theblackvault.com/documents/ufos/fastwalkers/a209227.pdf 
+    
+    Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors: https://documents.theblackvault.com/documents/ufos/fastwalkers/ADA478890.pdf 
+    
+    Clear intent: the government coverup of the UFO experience: https://archive.org/details/clearintentgover00fawc/mode/2up
+    
+    Podesta Fish Email: https://web.archive.org/web/20200501044117/https://wikileaks.org/podesta-emails/emailid/54211 
+    
+    2014 DSP Fact Sheet: https://web.archive.org/web/20140720060107/http://www.losangeles.af.mil/library/factsheets/factsheet.asp?id=5323 
+    
+    Ross Coulthart on Fish: https://www.ufojoe.net/bob-fish/
+    
+    TOP SECRET SPY SATELLITES SPOT UFOS Mentioned By Fish: https://web.archive.org/web/20180102111818/http://ufodigest.com/shadowmag/extra/topsecret.html
+    
+    Space Force X DSP: https://www.spaceforce.mil/About-Us/Fact-Sheets/Article/2197774/defense-support-program-satellites/ 
+    
+    1984 Fastwalker: https://web.archive.org/web/20040225055544/http:/www.debshome.com/FastWalker.html
+    
+    NICAP 1985 Fastwalker Report: https://www.nicap.org/reports/840505orbit_report.htm
+    
+    Cosmic Conspiracy: Part Five, The 80s Six Decades of Government UFO Cover-Ups: https://web.archive.org/web/20030308070428/http:/www.anomalies.net/ufo/gov/dsp/
+    
+    Joe Stefula: https://www.vlm.cem.va.gov/JOSEPHJOHNSTEFULA/5EEC8
+    
+    NICAP 1976 Tehran: https://www.nicap.org/760919tehran_dir.htm
+    
+    DSP Connection Email: https://web.archive.org/web/20060615035006/http:/www.virtuallystrange.net/ufo/updates/1998/apr/m05-009.shtml
+    
+    Tehran DSP Image: https://web.archive.org/web/19990428103840/http:/ufo-world.simplenet.com/iran_dsp.html
+    
+    Tehran DSP Claims Controversy: https://web.archive.org/web/20060717010735/https:/www.cohenufo.org/dsp_claims.html
+    
+    Music By the Always Talented: https://www.youtube.com/channel/UCz71_7z7NphLPZ0l_7G3Llg
+    
+    #ufo #uap #uapnukes #uapdisclosure #ufology #ufonews #ufosightings #uapsightings #ufofootage #uapfootage #hynek #condoncomittee #Jallenhynek #projectsign #projectgrudge #projectbluebook #bluebook #ufocongress #SOL #solfoundation #karlnell #Battelle #UFOreverseengineering #lockheed #skunkworks #lockheedmartin #rosscoulthart #fastwalker #blackvault #slowwalker
+
+## Transcript
+> _Transcript coming soon (pending local Whisper run)._
