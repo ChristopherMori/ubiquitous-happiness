@@ -12,6 +12,8 @@ jobs:
       contents: write
       pages: write
       id-token: write
+    env:
+      YT_API_KEY: ${{ secrets.YT_API_KEY }}
     steps:
       - uses: actions/checkout@v4
 
@@ -27,14 +29,13 @@ jobs:
           python -m spacy download en_core_web_sm || true
 
       - name: (Optional) Fetch metadata via API
-        if: ${{ secrets.YT_API_KEY != '' }}
-        env:
-          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        if: ${{ env.YT_API_KEY != '' }}
         run: |
           python scripts/ingest_via_api.py "@UAPGerb"
 
-      - name: Generate site content
+      - name: Generate site content (NER disabled by default)
         run: |
+          export ENABLE_NER=0
           python scripts/build.py
 
       - name: Build MkDocs
