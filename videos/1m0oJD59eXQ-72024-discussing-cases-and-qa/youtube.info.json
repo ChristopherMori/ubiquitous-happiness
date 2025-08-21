@@ -1,0 +1,98 @@
+{
+  "fromPlaylist": {
+    "videoId": "1m0oJD59eXQ",
+    "title": "7/20/24 Discussing Cases and Q&A",
+    "publishedAt": "2024-07-21T13:51:21Z",
+    "thumbs": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/1m0oJD59eXQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/1m0oJD59eXQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/1m0oJD59eXQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/1m0oJD59eXQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/1m0oJD59eXQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "description": "Short live chatting & discussing cases. Nothing too serious",
+    "channelTitle": "UAP Gerb",
+    "tags": []
+  },
+  "videosList": {
+    "kind": "youtube#video",
+    "etag": "aSuUkLLm-WmGvoDKxlKCCMg0bfI",
+    "id": "1m0oJD59eXQ",
+    "snippet": {
+      "publishedAt": "2024-07-21T13:51:21Z",
+      "channelId": "UCXr8USOuzZN_3y_efZpryrg",
+      "title": "7/20/24 Discussing Cases and Q&A",
+      "description": "Short live chatting & discussing cases. Nothing too serious",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1m0oJD59eXQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1m0oJD59eXQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1m0oJD59eXQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1m0oJD59eXQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1m0oJD59eXQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "UAP Gerb",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "7/20/24 Discussing Cases and Q&A",
+        "description": "Short live chatting & discussing cases. Nothing too serious"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1H36M21S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4251",
+      "likeCount": "232",
+      "favoriteCount": "0",
+      "commentCount": "24"
+    }
+  }
+}

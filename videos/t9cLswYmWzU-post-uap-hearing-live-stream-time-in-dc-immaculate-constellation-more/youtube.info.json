@@ -1,0 +1,103 @@
+{
+  "fromPlaylist": {
+    "videoId": "t9cLswYmWzU",
+    "title": "Post UAP Hearing Live Stream: Time in DC, Immaculate Constellation, & More",
+    "publishedAt": "2024-11-15T02:47:35Z",
+    "thumbs": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/t9cLswYmWzU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/t9cLswYmWzU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/t9cLswYmWzU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/t9cLswYmWzU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/t9cLswYmWzU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "description": "Joined by Frognbadger, excellent UAP researcher & friend of the channel who help with SAIC research for the NSWC Crane project\r\n\r\nFrognbadger Reddit: https://www.reddit.com/user/frognbadger/",
+    "channelTitle": "UAP Gerb",
+    "tags": []
+  },
+  "videosList": {
+    "kind": "youtube#video",
+    "etag": "x1m_w4f21PlUVxOJ7dFPlt46BvM",
+    "id": "t9cLswYmWzU",
+    "snippet": {
+      "publishedAt": "2024-11-15T02:47:35Z",
+      "channelId": "UCXr8USOuzZN_3y_efZpryrg",
+      "title": "Post UAP Hearing Live Stream: Time in DC, Immaculate Constellation, & More",
+      "description": "Joined by Frognbadger, excellent UAP researcher & friend of the channel who help with SAIC research for the NSWC Crane project\r\n\r\nFrognbadger Reddit: https://www.reddit.com/user/frognbadger/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t9cLswYmWzU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t9cLswYmWzU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t9cLswYmWzU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/t9cLswYmWzU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/t9cLswYmWzU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "UAP Gerb",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Post UAP Hearing Live Stream: Time in DC, Immaculate Constellation, & More",
+        "description": "Joined by Frognbadger, excellent UAP researcher & friend of the channel who help with SAIC research for the NSWC Crane project\r\n\r\nFrognbadger Reddit: https://www.reddit.com/user/frognbadger/"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT2H17M11S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "6075",
+      "likeCount": "245",
+      "favoriteCount": "0",
+      "commentCount": "52"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Society"
+      ]
+    }
+  }
+}

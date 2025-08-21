@@ -1,0 +1,103 @@
+{
+  "fromPlaylist": {
+    "videoId": "3iWLTyhdyf4",
+    "title": "9/8/24 Discussing Steven Greer London Live Event",
+    "publishedAt": "2024-09-08T23:12:27Z",
+    "thumbs": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/3iWLTyhdyf4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/3iWLTyhdyf4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/3iWLTyhdyf4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/3iWLTyhdyf4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/3iWLTyhdyf4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "description": "I bought the 9/8/24 Steven Greer London lecture Pay Per View. Let's break it down.",
+    "channelTitle": "UAP Gerb",
+    "tags": []
+  },
+  "videosList": {
+    "kind": "youtube#video",
+    "etag": "UDRma1wQDZ8mNy9-n6kXylMcJX8",
+    "id": "3iWLTyhdyf4",
+    "snippet": {
+      "publishedAt": "2024-09-08T23:12:27Z",
+      "channelId": "UCXr8USOuzZN_3y_efZpryrg",
+      "title": "9/8/24 Discussing Steven Greer London Live Event",
+      "description": "I bought the 9/8/24 Steven Greer London lecture Pay Per View. Let's break it down.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3iWLTyhdyf4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3iWLTyhdyf4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3iWLTyhdyf4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3iWLTyhdyf4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3iWLTyhdyf4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "UAP Gerb",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "9/8/24 Discussing Steven Greer London Live Event",
+        "description": "I bought the 9/8/24 Steven Greer London lecture Pay Per View. Let's break it down."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT2H33M9S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "11582",
+      "likeCount": "431",
+      "favoriteCount": "0",
+      "commentCount": "97"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    }
+  }
+}

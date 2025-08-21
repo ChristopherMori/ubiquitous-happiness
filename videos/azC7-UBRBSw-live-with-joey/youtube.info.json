@@ -1,0 +1,98 @@
+{
+  "fromPlaylist": {
+    "videoId": "azC7-UBRBSw",
+    "title": "Live with Joey",
+    "publishedAt": "2024-06-23T23:35:15Z",
+    "thumbs": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/azC7-UBRBSw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/azC7-UBRBSw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/azC7-UBRBSw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/azC7-UBRBSw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/azC7-UBRBSw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "description": "Short live featuring Joeyisnotmyname discussing Michael Herrera, UAP, anything, and everything. Stop by and say hi!",
+    "channelTitle": "UAP Gerb",
+    "tags": []
+  },
+  "videosList": {
+    "kind": "youtube#video",
+    "etag": "lVZT41IWzCqUKeBIFs0OZkQ-soU",
+    "id": "azC7-UBRBSw",
+    "snippet": {
+      "publishedAt": "2024-06-23T23:35:15Z",
+      "channelId": "UCXr8USOuzZN_3y_efZpryrg",
+      "title": "Live with Joey",
+      "description": "Short live featuring Joeyisnotmyname discussing Michael Herrera, UAP, anything, and everything. Stop by and say hi!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/azC7-UBRBSw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/azC7-UBRBSw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/azC7-UBRBSw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/azC7-UBRBSw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/azC7-UBRBSw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "UAP Gerb",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Live with Joey",
+        "description": "Short live featuring Joeyisnotmyname discussing Michael Herrera, UAP, anything, and everything. Stop by and say hi!"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1H28M47S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4593",
+      "likeCount": "261",
+      "favoriteCount": "0",
+      "commentCount": "56"
+    }
+  }
+}

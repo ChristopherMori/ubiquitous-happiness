@@ -1,0 +1,97 @@
+{
+  "fromPlaylist": {
+    "videoId": "2Goib1eosJQ",
+    "title": "UAP Gerb Live Stream",
+    "publishedAt": "2024-06-20T20:32:50Z",
+    "thumbs": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/2Goib1eosJQ/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/2Goib1eosJQ/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/2Goib1eosJQ/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/2Goib1eosJQ/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/2Goib1eosJQ/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "description": "",
+    "channelTitle": "UAP Gerb",
+    "tags": []
+  },
+  "videosList": {
+    "kind": "youtube#video",
+    "etag": "Ri3xHAdARJuO7Kjam3fTOW34YIc",
+    "id": "2Goib1eosJQ",
+    "snippet": {
+      "publishedAt": "2024-06-20T20:32:50Z",
+      "channelId": "UCXr8USOuzZN_3y_efZpryrg",
+      "title": "UAP Gerb Live Stream",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2Goib1eosJQ/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2Goib1eosJQ/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2Goib1eosJQ/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2Goib1eosJQ/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2Goib1eosJQ/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "UAP Gerb",
+      "categoryId": "22",
+      "liveBroadcastContent": "upcoming",
+      "localized": {
+        "title": "UAP Gerb Live Stream",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D",
+      "dimension": "2d",
+      "definition": "sd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "0",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}
