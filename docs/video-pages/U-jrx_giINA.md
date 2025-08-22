@@ -442,3 +442,7 @@ title: USO - Unidentified Submerged Objects
     
 
 **Download transcripts:** [SRT](../videos/U-jrx_giINA-uso---unidentified-submerged-objects/transcript.srt) · [VTT](../videos/U-jrx_giINA-uso---unidentified-submerged-objects/transcript.vtt) · [JSON](../videos/U-jrx_giINA-uso---unidentified-submerged-objects/transcript.json) · [TSV](../videos/U-jrx_giINA-uso---unidentified-submerged-objects/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

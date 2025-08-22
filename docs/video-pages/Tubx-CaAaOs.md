@@ -349,3 +349,7 @@ title: "FASTWALKERS \u2013 UFOs Outside Earth"
     
 
 **Download transcripts:** [SRT](../videos/Tubx-CaAaOs-fastwalkers-ufos-outside-earth/transcript.srt) · [VTT](../videos/Tubx-CaAaOs-fastwalkers-ufos-outside-earth/transcript.vtt) · [JSON](../videos/Tubx-CaAaOs-fastwalkers-ufos-outside-earth/transcript.json) · [TSV](../videos/Tubx-CaAaOs-fastwalkers-ufos-outside-earth/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

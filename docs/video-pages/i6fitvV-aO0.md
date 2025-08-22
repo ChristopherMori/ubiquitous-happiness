@@ -220,3 +220,7 @@ title: Incredible UFO Footage - METAPOD
     
 
 **Download transcripts:** [SRT](../videos/i6fitvV-aO0-incredible-ufo-footage---metapod/transcript.srt) · [VTT](../videos/i6fitvV-aO0-incredible-ufo-footage---metapod/transcript.vtt) · [JSON](../videos/i6fitvV-aO0-incredible-ufo-footage---metapod/transcript.json) · [TSV](../videos/i6fitvV-aO0-incredible-ufo-footage---metapod/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

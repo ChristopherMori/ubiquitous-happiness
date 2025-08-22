@@ -927,3 +927,7 @@ title: Live with Joey
     
 
 **Download transcripts:** [SRT](../videos/azC7-UBRBSw-live-with-joey/transcript.srt) · [VTT](../videos/azC7-UBRBSw-live-with-joey/transcript.vtt) · [JSON](../videos/azC7-UBRBSw-live-with-joey/transcript.json) · [TSV](../videos/azC7-UBRBSw-live-with-joey/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

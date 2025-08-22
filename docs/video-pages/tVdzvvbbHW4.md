@@ -409,3 +409,7 @@ title: UFOs in the Private Sector - Lockheed Martin
     
 
 **Download transcripts:** [SRT](../videos/tVdzvvbbHW4-ufos-in-the-private-sector---lockheed-martin/transcript.srt) · [VTT](../videos/tVdzvvbbHW4-ufos-in-the-private-sector---lockheed-martin/transcript.vtt) · [JSON](../videos/tVdzvvbbHW4-ufos-in-the-private-sector---lockheed-martin/transcript.json) · [TSV](../videos/tVdzvvbbHW4-ufos-in-the-private-sector---lockheed-martin/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

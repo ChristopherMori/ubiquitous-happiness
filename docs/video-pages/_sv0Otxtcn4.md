@@ -1012,3 +1012,7 @@ title: Philip J. Corso - US Army UFO Technology Research & Development
     
 
 **Download transcripts:** [SRT](../videos/_sv0Otxtcn4-philip-j-corso---us-army-ufo-technology-research-development/transcript.srt) · [VTT](../videos/_sv0Otxtcn4-philip-j-corso---us-army-ufo-technology-research-development/transcript.vtt) · [JSON](../videos/_sv0Otxtcn4-philip-j-corso---us-army-ufo-technology-research-development/transcript.json) · [TSV](../videos/_sv0Otxtcn4-philip-j-corso---us-army-ufo-technology-research-development/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

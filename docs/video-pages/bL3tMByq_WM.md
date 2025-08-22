@@ -745,3 +745,7 @@ title: The 1974 Coyame, Mexico UFO Crash
     
 
 **Download transcripts:** [SRT](../videos/bL3tMByq_WM-the-1974-coyame-mexico-ufo-crash/transcript.srt) · [VTT](../videos/bL3tMByq_WM-the-1974-coyame-mexico-ufo-crash/transcript.vtt) · [JSON](../videos/bL3tMByq_WM-the-1974-coyame-mexico-ufo-crash/transcript.json) · [TSV](../videos/bL3tMByq_WM-the-1974-coyame-mexico-ufo-crash/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

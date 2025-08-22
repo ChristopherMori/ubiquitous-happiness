@@ -1057,3 +1057,7 @@ title: Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs
     
 
 **Download transcripts:** [SRT](../videos/7Ats0lIy3Lo-deep-underground-military-bases-dumbs---ufo-legacy-programs/transcript.srt) · [VTT](../videos/7Ats0lIy3Lo-deep-underground-military-bases-dumbs---ufo-legacy-programs/transcript.vtt) · [JSON](../videos/7Ats0lIy3Lo-deep-underground-military-bases-dumbs---ufo-legacy-programs/transcript.json) · [TSV](../videos/7Ats0lIy3Lo-deep-underground-military-bases-dumbs---ufo-legacy-programs/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

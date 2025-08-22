@@ -187,3 +187,7 @@ title: The First Commercial Flight Grounded Due to UFOs
     
 
 **Download transcripts:** [SRT](../videos/K_BZkOAw6E0-the-first-commercial-flight-grounded-due-to-ufos/transcript.srt) · [VTT](../videos/K_BZkOAw6E0-the-first-commercial-flight-grounded-due-to-ufos/transcript.vtt) · [JSON](../videos/K_BZkOAw6E0-the-first-commercial-flight-grounded-due-to-ufos/transcript.json) · [TSV](../videos/K_BZkOAw6E0-the-first-commercial-flight-grounded-due-to-ufos/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

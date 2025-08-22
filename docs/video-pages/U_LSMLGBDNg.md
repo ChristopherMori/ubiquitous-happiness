@@ -599,3 +599,7 @@ title: UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2]
     
 
 **Download transcripts:** [SRT](../videos/U_LSMLGBDNg-uap-reverse-engineering-at-edwards-air-force-base-redacted-list-vol2/transcript.srt) · [VTT](../videos/U_LSMLGBDNg-uap-reverse-engineering-at-edwards-air-force-base-redacted-list-vol2/transcript.vtt) · [JSON](../videos/U_LSMLGBDNg-uap-reverse-engineering-at-edwards-air-force-base-redacted-list-vol2/transcript.json) · [TSV](../videos/U_LSMLGBDNg-uap-reverse-engineering-at-edwards-air-force-base-redacted-list-vol2/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

@@ -140,6 +140,29 @@ def build_page(meta, folder: Path) -> str:
     if dlinks:
         lines += ["**Download transcripts:** " + " · ".join(dlinks), ""]
 
+    # Comments section (Utterances by default). Set COMMENTS_PROVIDER=none to disable.
+    provider = os.environ.get("COMMENTS_PROVIDER", "utterances").lower()
+    if provider != "none":
+        # Default to this repo; can be overridden via COMMENTS_REPO env var
+        repo = os.environ.get("COMMENTS_REPO", "christophermori/ubiquitous-happiness")
+        theme = os.environ.get("COMMENTS_THEME", "github-light")
+        if provider == "utterances" and repo:
+            script_block = (
+                '<script src="https://utteranc.es/client.js" '
+                f'repo="{repo}" '
+                'issue-term="pathname" '
+                'label="comments" '
+                f'theme="{theme}" '
+                'crossorigin="anonymous" '
+                'async></script>'
+            )
+            lines += [
+                "## Comments",
+                "",
+                script_block,
+                "",
+            ]
+
     return "\n".join(lines).rstrip() + "\n"
 
 def extract_entities(text: str) -> Dict[str, List[str]]:
@@ -310,6 +333,80 @@ def build_entities_index(catalog) -> str:
         lines += [""]
     return "\n".join(lines).rstrip() + "\n"
 
+def should_preserve_homepage(idx_path: Path) -> bool:
+    """Detect a custom homepage we shouldn't overwrite.
+    Preserves if the file exists and contains either 'template: home' or 'custom_home: true'.
+    """
+    if not idx_path.exists():
+        return False
+    try:
+        txt = idx_path.read_text(encoding="utf-8")
+    except Exception:
+        return False
+    return ("template: home" in txt) or ("custom_home: true" in txt)
+
+def resolve_thumb(folder: Path) -> Path | None:
+    for ext in (".jpg", ".png", ".webp", ".jpeg"):
+        p = folder / f"thumb{ext}"
+        if p.exists():
+            return p
+    return None
+
+def build_latest_grid(catalog, limit: int = 12, columns: int = 3) -> str:
+    """Return HTML for a thumbnail grid of the latest N videos."""
+    rows = []
+    row = []
+    count = 0
+    for v in catalog["videos"]:
+        if count >= limit:
+            break
+        folder = resolve_folder_from_entry(v)
+        if not folder:
+            continue
+        thumb = resolve_thumb(folder)
+        if not thumb:
+            continue
+        title = read_yaml(folder / "metadata.yml").get("title", v["id"]).strip()
+        page = f"video-pages/{v['id']}.md"
+        img = rel_from_page(thumb).replace("../", "")  # from index.md root
+        cell = (
+            f'<td style="vertical-align:top; padding:10px; text-align:center;">'
+            f'<a href="{page}"><img src="{img}" alt="{title}" width="240" style="border-radius:6px;"/></a><br/>'
+            f'<a href="{page}"><small>{title}</small></a>'
+            f"</td>"
+        )
+        row.append(cell)
+        count += 1
+        if len(row) == columns:
+            rows.append("<tr>" + "".join(row) + "</tr>")
+            row = []
+    if row:
+        rows.append("<tr>" + "".join(row) + "</tr>")
+    if not rows:
+        return ""
+    table = (
+        '<table style="width:100%; border-collapse:separate; border-spacing:0 0;">' + "\n" +
+        "\n".join(rows) + "\n" +
+        "</table>"
+    )
+    return table
+
+def inject_latest_grid_into_home(catalog):
+    """Replace content between markers with a fresh latest grid."""
+    idx = DOCS / "index.md"
+    if not idx.exists():
+        return
+    txt = idx.read_text(encoding="utf-8")
+    start = "<!-- latest-grid:start -->"
+    end = "<!-- latest-grid:end -->"
+    if start not in txt or end not in txt:
+        return
+    grid = build_latest_grid(catalog, limit=12, columns=3)
+    replacement = f"{start}\n{grid}\n{end}"
+    new_txt = re.sub(r"<!-- latest-grid:start -->[\s\S]*?<!-- latest-grid:end -->", replacement, txt, flags=re.MULTILINE)
+    if new_txt != txt:
+        idx.write_text(new_txt, encoding="utf-8")
+
 def resolve_folder_from_entry(entry: dict):
     rel = entry.get("rel_path")
     if rel:
@@ -344,9 +441,12 @@ def main():
 
     index_md = build_index(cat)
     (DOCS / "video-index.md").write_text(index_md, encoding="utf-8")
-    # Ensure a homepage exists at root so '/' is not a 404 when hosted
-    # on GitHub Pages or any static host.
-    (DOCS / "index.md").write_text(index_md, encoding="utf-8")
+    # Write homepage only if not customized
+    idx = DOCS / "index.md"
+    if not should_preserve_homepage(idx):
+        idx.write_text(index_md, encoding="utf-8")
+    # Update latest grid in homepage if markers present
+    inject_latest_grid_into_home(cat)
     (DOCS / "entities.md").write_text(build_entities_index(cat), encoding="utf-8")
     print(f"Built {len(cat['videos'])} pages + index")
 

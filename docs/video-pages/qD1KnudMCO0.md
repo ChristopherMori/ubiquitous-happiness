@@ -258,3 +258,7 @@ title: Incredible UFO Footage - FLYBY
     
 
 **Download transcripts:** [SRT](../videos/qD1KnudMCO0-incredible-ufo-footage---flyby/transcript.srt) · [VTT](../videos/qD1KnudMCO0-incredible-ufo-footage---flyby/transcript.vtt) · [JSON](../videos/qD1KnudMCO0-incredible-ufo-footage---flyby/transcript.json) · [TSV](../videos/qD1KnudMCO0-incredible-ufo-footage---flyby/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

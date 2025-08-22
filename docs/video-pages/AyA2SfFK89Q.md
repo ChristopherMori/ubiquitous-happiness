@@ -21,3 +21,7 @@ title: Livestream and Q&A with Michael Herrera 10/6/24
 
 ## Transcript
 > _Transcript coming soon (pending local Whisper run)._
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

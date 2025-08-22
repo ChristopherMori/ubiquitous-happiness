@@ -32,3 +32,7 @@ title: The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs
 > _Transcript coming soon (pending local Whisper run)._
 
 **Download transcripts:** [SRT](../videos/yIqkazIZh9I-the-wilson-davis-memo-and-us-secret-ufo-reverse-engineering-programs/transcript.srt) · [VTT](../videos/yIqkazIZh9I-the-wilson-davis-memo-and-us-secret-ufo-reverse-engineering-programs/transcript.vtt) · [JSON](../videos/yIqkazIZh9I-the-wilson-davis-memo-and-us-secret-ufo-reverse-engineering-programs/transcript.json) · [TSV](../videos/yIqkazIZh9I-the-wilson-davis-memo-and-us-secret-ufo-reverse-engineering-programs/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

@@ -301,3 +301,7 @@ title: The Origin of the UFO Stigma
     
 
 **Download transcripts:** [SRT](../videos/xKArN8S9bnM-the-origin-of-the-ufo-stigma/transcript.srt) · [VTT](../videos/xKArN8S9bnM-the-origin-of-the-ufo-stigma/transcript.vtt) · [JSON](../videos/xKArN8S9bnM-the-origin-of-the-ufo-stigma/transcript.json) · [TSV](../videos/xKArN8S9bnM-the-origin-of-the-ufo-stigma/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

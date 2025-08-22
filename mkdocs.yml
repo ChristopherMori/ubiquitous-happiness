@@ -1,9 +1,19 @@
 site_name: UAP Gerb Archive
-site_url: https://enisi.github.io/ubiquitous-happiness/
+site_url: https://christophermori.github.io/ubiquitous-happiness/
 theme:
   name: material
+  features:
+  - navigation.tabs
+  - navigation.top
+  - content.code.copy
+  - content.tabs.link
+  - toc.integrate
+  - search.suggest
+  - search.highlight
+  - content.action.edit
 nav:
 - Video Index: video-index.md
+- Entities: entities.md
 - Videos:
   - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE: video-pages/ShoUyC1aip0.md
   - The 1948 Aztec, New Mexico UFO Crash Retrieval: video-pages/QJxbyu-9Tj0.md
@@ -58,10 +68,12 @@ nav:
   - The Alien and UFO Obscure Oddities Iceberg (Level 2): video-pages/9FL04mqyZxk.md
   - The Alien and UFO Obscure Oddities Iceberg (Level 1): video-pages/1en219Vk9K4.md
   - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs: video-pages/yIqkazIZh9I.md
-- Entities: entities.md
 markdown_extensions:
 - meta
 - admonition
 - pymdownx.details
+- pymdownx.superfences
+- pymdownx.tabbed
+- toc
 plugins:
 - search

@@ -1572,3 +1572,7 @@ title: 10K Live! UAPDA, Crash Retrieval Research, Q&A and More
     
 
 **Download transcripts:** [SRT](../videos/jNC-0dmH5BQ-10k-live-uapda-crash-retrieval-research-qa-and-more/transcript.srt) · [VTT](../videos/jNC-0dmH5BQ-10k-live-uapda-crash-retrieval-research-qa-and-more/transcript.vtt) · [JSON](../videos/jNC-0dmH5BQ-10k-live-uapda-crash-retrieval-research-qa-and-more/transcript.json) · [TSV](../videos/jNC-0dmH5BQ-10k-live-uapda-crash-retrieval-research-qa-and-more/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

@@ -1789,3 +1789,7 @@ title: 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY
     
 
 **Download transcripts:** [SRT](../videos/ShoUyC1aip0-1997-alien-reproduction-vehicle-encounter-at-29-palms-ca---the-testimony-of-sgt-roderick-castle/transcript.srt) · [VTT](../videos/ShoUyC1aip0-1997-alien-reproduction-vehicle-encounter-at-29-palms-ca---the-testimony-of-sgt-roderick-castle/transcript.vtt) · [JSON](../videos/ShoUyC1aip0-1997-alien-reproduction-vehicle-encounter-at-29-palms-ca---the-testimony-of-sgt-roderick-castle/transcript.json) · [TSV](../videos/ShoUyC1aip0-1997-alien-reproduction-vehicle-encounter-at-29-palms-ca---the-testimony-of-sgt-roderick-castle/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

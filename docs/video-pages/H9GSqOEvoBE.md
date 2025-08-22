@@ -1280,3 +1280,7 @@ title: US Navy UFO Crash Retrieval & Reverse Engineering Programs
     
 
 **Download transcripts:** [SRT](../videos/H9GSqOEvoBE-us-navy-ufo-crash-retrieval-reverse-engineering-programs/transcript.srt) · [VTT](../videos/H9GSqOEvoBE-us-navy-ufo-crash-retrieval-reverse-engineering-programs/transcript.vtt) · [JSON](../videos/H9GSqOEvoBE-us-navy-ufo-crash-retrieval-reverse-engineering-programs/transcript.json) · [TSV](../videos/H9GSqOEvoBE-us-navy-ufo-crash-retrieval-reverse-engineering-programs/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

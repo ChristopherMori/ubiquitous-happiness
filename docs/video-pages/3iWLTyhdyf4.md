@@ -2563,3 +2563,7 @@ title: 9/8/24 Discussing Steven Greer London Live Event
     
 
 **Download transcripts:** [SRT](../videos/3iWLTyhdyf4-9824-discussing-steven-greer-london-live-event/transcript.srt) · [VTT](../videos/3iWLTyhdyf4-9824-discussing-steven-greer-london-live-event/transcript.vtt) · [JSON](../videos/3iWLTyhdyf4-9824-discussing-steven-greer-london-live-event/transcript.json) · [TSV](../videos/3iWLTyhdyf4-9824-discussing-steven-greer-london-live-event/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

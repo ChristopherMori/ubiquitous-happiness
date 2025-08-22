@@ -1107,3 +1107,7 @@ title: The 1965 Kecksburg, Pennsylvania UFO Crash
     
 
 **Download transcripts:** [SRT](../videos/rgBTMzFd-hg-the-1965-kecksburg-pennsylvania-ufo-crash/transcript.srt) · [VTT](../videos/rgBTMzFd-hg-the-1965-kecksburg-pennsylvania-ufo-crash/transcript.vtt) · [JSON](../videos/rgBTMzFd-hg-the-1965-kecksburg-pennsylvania-ufo-crash/transcript.json) · [TSV](../videos/rgBTMzFd-hg-the-1965-kecksburg-pennsylvania-ufo-crash/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>
