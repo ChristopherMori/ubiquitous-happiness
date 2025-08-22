@@ -75,7 +75,7 @@ def front_matter(title: str) -> str:
     fm = yaml.safe_dump({"title": title}, sort_keys=False).strip()
     return f"---\n{fm}\n---\n"
 
-def build_page(meta, folder: Path) -> str:
+def build_page(meta, folder: Path, nav: Dict[str, Tuple[str, str]] | None = None, related: List[Tuple[str, str]] | None = None) -> str:
     vid = meta["youtube_id"]
     desc = (meta.get("description") or "").strip()
     txt  = read_transcript(folder)
@@ -139,6 +139,25 @@ def build_page(meta, folder: Path) -> str:
             dlinks.append(f"[{label}]({rel_from_page(p)})")
     if dlinks:
         lines += ["**Download transcripts:** " + " · ".join(dlinks), ""]
+
+    # Related videos
+    if related:
+        lines += ["## Related videos", ""]
+        for rid, rtitle in related[:5]:
+            lines += [f"- [{rtitle}](video-pages/{rid}.md)"]
+        lines += [""]
+
+    # Newer/Older navigation
+    if nav:
+        newer = nav.get("newer")
+        older = nav.get("older")
+        nav_line_parts: List[str] = []
+        if newer:
+            nav_line_parts.append(f"← Newer: [{newer[1]}](video-pages/{newer[0]}.md)")
+        if older:
+            nav_line_parts.append(f"Older: [{older[1]}](video-pages/{older[0]}.md) →")
+        if nav_line_parts:
+            lines += ["---", "", " · ".join(nav_line_parts), ""]
 
     # Comments section (Utterances by default). Set COMMENTS_PROVIDER=none to disable.
     provider = os.environ.get("COMMENTS_PROVIDER", "utterances").lower()
@@ -426,18 +445,63 @@ def resolve_folder_from_entry(entry: dict):
 
 def main():
     cat = json.loads((ROOT / "data" / "catalog.json").read_text(encoding="utf-8"))
+
+    # Preload minimal metadata for navigation and related
+    id_list: List[str] = [v["id"] for v in cat["videos"]]
+    id_to_title: Dict[str, str] = {}
+    id_to_tags: Dict[str, List[str]] = {}
+    id_to_folder: Dict[str, Path] = {}
+
     for entry in cat["videos"]:
         folder = resolve_folder_from_entry(entry)
+        if not folder:
+            continue
+        id_to_folder[entry["id"]] = folder
+        meta = read_yaml(folder / "metadata.yml")
+        id_to_title[entry["id"]] = (meta.get("title") or entry["id"]).strip()
+        id_to_tags[entry["id"]] = [t.strip() for t in (meta.get("tags") or []) if isinstance(t, str) and t.strip()]
+
+    # Compute newer/older navigation (catalog assumed newest -> oldest)
+    nav_map: Dict[str, Dict[str, Tuple[str, str]]] = {}
+    for idx, vid in enumerate(id_list):
+        newer = (id_list[idx - 1], id_to_title[id_list[idx - 1]]) if idx > 0 else None
+        older = (id_list[idx + 1], id_to_title[id_list[idx + 1]]) if idx < len(id_list) - 1 else None
+        entry_nav: Dict[str, Tuple[str, str]] = {}
+        if newer:
+            entry_nav["newer"] = newer
+        if older:
+            entry_nav["older"] = older
+        nav_map[vid] = entry_nav
+
+    # Compute related by tag overlap
+    related_map: Dict[str, List[Tuple[str, str]]] = {}
+    tag_sets: Dict[str, set] = {vid: set(tags) for vid, tags in id_to_tags.items()}
+    for i, vid in enumerate(id_list):
+        scores: List[Tuple[int, int, str]] = []  # (-overlap, index, other_vid)
+        for j, other in enumerate(id_list):
+            if other == vid:
+                continue
+            overlap = len(tag_sets.get(vid, set()) & tag_sets.get(other, set()))
+            if overlap > 0:
+                scores.append((-overlap, j, other))
+        scores.sort()
+        top_related: List[Tuple[str, str]] = [(ov, id_to_title[ov]) for _, __, ov in scores[:5]]
+        related_map[vid] = top_related
+
+    # Build each page with navigation and related
+    for entry in cat["videos"]:
+        vid = entry["id"]
+        folder = id_to_folder.get(vid)
         if not folder:
             continue
         meta = read_yaml(folder / "metadata.yml")
         # Opportunistically import transcripts if provided externally
         try:
-            maybe_import_transcripts(meta.get("youtube_id", entry["id"]), folder)
+            maybe_import_transcripts(meta.get("youtube_id", vid), folder)
         except Exception:
             pass
-        out_md = build_page(meta, folder)
-        (PAGES / f"{entry['id']}.md").write_text(out_md, encoding="utf-8")
+        out_md = build_page(meta, folder, nav=nav_map.get(vid), related=related_map.get(vid) or [])
+        (PAGES / f"{vid}.md").write_text(out_md, encoding="utf-8")
 
     index_md = build_index(cat)
     (DOCS / "video-index.md").write_text(index_md, encoding="utf-8")
