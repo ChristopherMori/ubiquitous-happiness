@@ -11,12 +11,12 @@ title: Livestream and Q&A with Michael Herrera 10/6/24
 **Published:** 2024-10-07  ·  **Duration:** 2:39:40  ·  **Channel:** UAP Gerb
 
 ??? note "Description"
-    In-person live stream and Q&A with AARO Whistleblower Michael Herrera. Seeing as I have made 3 projects focused on his testimony, I thought it right to give the community a chance to ask him questions!
-    
-    See previous Herrera projects below: 
-    
-    https://www.youtube.com/watch?v=6DyTfIV87Ck&t=456s
-    
+    In-person live stream and Q&A with AARO Whistleblower Michael Herrera. Seeing as I have made 3 projects focused on his testimony, I thought it right to give the community a chance to ask him questions!
+    
+    See previous Herrera projects below: 
+    
+    https://www.youtube.com/watch?v=6DyTfIV87Ck&t=456s
+    
     https://www.youtube.com/watch?v=4EMO38JUfVE&t=1410s
 
 ## Transcript

@@ -194,7 +194,11 @@ def main():
         out_md = build_page(meta, folder)
         (PAGES / f"{entry['id']}.md").write_text(out_md, encoding="utf-8")
 
-    (DOCS / "video-index.md").write_text(build_index(cat), encoding="utf-8")
+    index_md = build_index(cat)
+    (DOCS / "video-index.md").write_text(index_md, encoding="utf-8")
+    # Ensure a homepage exists at root so '/' is not a 404 when hosted
+    # on GitHub Pages or any static host.
+    (DOCS / "index.md").write_text(index_md, encoding="utf-8")
     (DOCS / "entities.md").write_text(build_entities_index(cat), encoding="utf-8")
     print(f"Built {len(cat['videos'])} pages + index")
 

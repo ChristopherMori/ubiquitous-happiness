@@ -1,4 +1,5 @@
 site_name: UAP Gerb Archive
+site_url: https://enisi.github.io/ubiquitous-happiness/
 theme:
   name: material
 nav:
@@ -59,5 +60,8 @@ nav:
   - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs: video-pages/yIqkazIZh9I.md
 - Entities: entities.md
 markdown_extensions:
+- meta
 - admonition
 - pymdownx.details
+plugins:
+- search

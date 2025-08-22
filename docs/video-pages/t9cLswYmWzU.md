@@ -11,8 +11,8 @@ title: 'Post UAP Hearing Live Stream: Time in DC, Immaculate Constellation, & Mo
 **Published:** 2024-11-15  ·  **Duration:** 2:17:11  ·  **Channel:** UAP Gerb
 
 ??? note "Description"
-    Joined by Frognbadger, excellent UAP researcher & friend of the channel who help with SAIC research for the NSWC Crane project
-    
+    Joined by Frognbadger, excellent UAP researcher & friend of the channel who help with SAIC research for the NSWC Crane project
+    
     Frognbadger Reddit: https://www.reddit.com/user/frognbadger/
 
 ## Transcript
