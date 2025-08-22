@@ -194,8 +194,93 @@ def extract_entities(text: str) -> Dict[str, List[str]]:
       - Ignore very generic terms (UFO, UAP, etc.)
       - Optional overrides from data/entity_overrides.yml with keys: people, places, orgs, ignore
     """
+    # If spaCy is unavailable, use a lightweight heuristic fallback
     if not _NLP:
-        return {"people": [], "places": [], "orgs": []}
+        def _normalize(name: str) -> str:
+            name = name.strip().strip('"\'\u201c\u201d').strip()
+            name = re.sub(r"\s+", " ", name)
+            return name
+
+        OVERRIDES_P = ROOT / "data" / "entity_overrides.yml"
+        overrides = {"people": set(), "places": set(), "orgs": set(), "ignore": set()}
+        if OVERRIDES_P.exists():
+            try:
+                raw = yaml.safe_load(OVERRIDES_P.read_text(encoding="utf-8")) or {}
+                for k in overrides.keys():
+                    vals = raw.get(k) or []
+                    overrides[k] = {v.lower() for v in vals if isinstance(v, str) and v.strip()}
+            except Exception:
+                pass
+
+        TITLE_TOKENS = {"dr", "mr", "mrs", "ms", "sgt", "lt", "maj", "gen", "col", "cmdr", "capt", "prof", "sir"}
+        ORG_KEYWORDS = {
+            "inc", "corp", "llc", "company", "co.", "university", "college", "institute", "laboratories", "labs",
+            "agency", "department", "ministry", "office", "committee", "foundation", "academy",
+            "air force", "navy", "marine corps", "army", "usaf", "us navy", "us army", "cia", "nsa", "darpa", "nro",
+            "saic", "battelle", "lockheed", "skunk works", "lockheed martin", "northrop", "northrop grumman", "boeing",
+        }
+        PLACE_KEYWORDS = {
+            "afb", "air force base", "base", "county", "city", "lake", "mount", "mountain", "valley", "area",
+            "edwards", "kingman", "kecksburg", "coyame", "peru", "mexico", "italy", "arizona", "texas", "pennsylvania",
+            "dugway proving ground", "magenta", "del rio",
+        }
+        GENERIC_IGNORE = {"ufo", "uap", "ufos", "uaps", "intro"}
+
+        def looks_like_person(name: str) -> bool:
+            t = name.lower()
+            if any(t.startswith(x + " ") for x in TITLE_TOKENS):
+                return True
+            parts = name.split()
+            return len(parts) in (2, 3) and all(p[:1].isupper() for p in parts if p)
+
+        def looks_like_org(name: str) -> bool:
+            t = name.lower()
+            return any(k in t for k in ORG_KEYWORDS)
+
+        def looks_like_place(name: str) -> bool:
+            t = name.lower()
+            return any(k in t for k in PLACE_KEYWORDS)
+
+        candidates: set[str] = set()
+        # Title + name patterns (e.g., Dr. John Doe)
+        title_pat = r"\b(?:Dr|Mr|Mrs|Ms|Sgt|Lt|Maj|Gen|Col|Cmdr|Capt|Prof|Sir)\.?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+){0,2}\b"
+        for m in re.finditer(title_pat, text):
+            candidates.add(_normalize(m.group(0)))
+        # Multi-word capitalized sequences (e.g., John Doe, Edwards Air Force Base)
+        multi_pat = r"\b[A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,3}\b"
+        for m in re.finditer(multi_pat, text):
+            candidates.add(_normalize(m.group(0)))
+        # Single capitalized tokens that are likely org/place keywords (e.g., Navy)
+        single_pat = r"\b[A-Z][a-z]+\b"
+        for m in re.finditer(single_pat, text):
+            tok = _normalize(m.group(0))
+            lt = tok.lower()
+            if any(k in lt for k in ORG_KEYWORDS) or any(k in lt for k in PLACE_KEYWORDS):
+                candidates.add(tok)
+
+        people: set[str] = set()
+        places: set[str] = set()
+        orgs: set[str] = set()
+        for nm in candidates:
+            low = nm.lower()
+            if low in overrides["ignore"] or low in GENERIC_IGNORE:
+                continue
+            if low in overrides["people"]:
+                people.add(nm); continue
+            if low in overrides["places"]:
+                places.add(nm); continue
+            if low in overrides["orgs"]:
+                orgs.add(nm); continue
+            if looks_like_person(nm):
+                people.add(nm)
+            elif looks_like_org(nm):
+                orgs.add(nm)
+            elif looks_like_place(nm):
+                places.add(nm)
+
+        def _norm_list(s):
+            return sorted({x for x in s if x and not x.isnumeric()})
+        return {"people": _norm_list(people), "places": _norm_list(places), "orgs": _norm_list(orgs)}
 
     def _normalize(name: str) -> str:
         name = name.strip().strip('"\'\u201c\u201d').strip()
@@ -345,11 +430,18 @@ def build_entities_index(catalog) -> str:
         if not block:
             continue
         lines += [f"## {header}"]
+        # Group by first letter for easier scanning
+        by_letter: Dict[str, List[str]] = {}
         for name in sorted(block.keys(), key=lambda s: s.lower()):
-            refs = block[name]
-            links = ", ".join([f"[{title}](video-pages/{vid}.md)" for title, vid in refs])
-            lines += [f"- **{name}**: {links}"]
-        lines += [""]
+            first = name[:1].upper()
+            by_letter.setdefault(first, []).append(name)
+        for letter in sorted(by_letter.keys()):
+            lines += [f"### {letter}"]
+            for name in by_letter[letter]:
+                refs = block[name]
+                links = ", ".join([f"[{title}](video-pages/{vid}.md)" for title, vid in refs])
+                lines += [f"- **{name}**: {links}"]
+            lines += [""]
     return "\n".join(lines).rstrip() + "\n"
 
 def should_preserve_homepage(idx_path: Path) -> bool:
