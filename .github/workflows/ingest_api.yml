@@ -16,6 +16,8 @@ permissions:
 jobs:
   ingest_build:
     runs-on: ubuntu-latest
+    env:
+      YT_API_KEY: ${{ secrets.YT_API_KEY }}
     steps:
     - name: Checkout
       uses: actions/checkout@v4
@@ -32,11 +34,9 @@ jobs:
         python -m spacy download en_core_web_sm || true
 
     - name: Ingest from YouTube API
-      if: ${{ secrets.YT_API_KEY != '' }}
-      env:
-        YT_API_KEY: ${{ secrets.YT_API_KEY }}
+      if: ${{ env.YT_API_KEY != '' }}
       run: |
-        python scripts/ingest_via_api.py "${{ inputs.channel_handle || '@UAPGerb' }}"
+        python scripts/ingest_via_api.py "${{ inputs.channel_handle }}"
 
     - name: Build pages and nav
       run: |
@@ -49,46 +49,5 @@ jobs:
         git add -A
         git diff --staged --quiet || git commit -m "chore(ci): ingest/build site content"
         git push
-
-name: Ingest YouTube metadata via API (no Whisper)
-
-on:
-  schedule:
-    - cron: "0 3 * * 1"
-  workflow_dispatch: {}
-
-jobs:
-  ingest:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install deps
-        run: |
-          pip install -r requirements.txt
-          python -m spacy download en_core_web_sm || true
-
-      - name: Fetch metadata via API
-        env:
-          YT_API_KEY: ${{ secrets.YT_API_KEY }}
-        run: |
-          python scripts/ingest_via_api.py "@UAPGerb"
-
-      - name: Generate pages and update nav
-        run: |
-          python scripts/build.py
-
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "docs/** data/catalog.json mkdocs.yml"
-          message: "Ingest (API): update video catalog and pages"
 
 
