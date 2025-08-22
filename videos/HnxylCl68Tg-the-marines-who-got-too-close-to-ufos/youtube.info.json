@@ -36,7 +36,7 @@
   },
   "videosList": {
     "kind": "youtube#video",
-    "etag": "qE7Oc4KItuKvLl4C2vOIZPH25Us",
+    "etag": "11vaUgOVUQe3BOWtubPbVUqyNB0",
     "id": "HnxylCl68Tg",
     "snippet": {
       "publishedAt": "2024-01-19T01:11:33Z",
@@ -73,10 +73,12 @@
       "channelTitle": "UAP Gerb",
       "categoryId": "22",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
       "localized": {
         "title": "The Marines Who Got too Close to UFOs",
         "description": "A short documentary on two former USMC soldiers who encountered UFOs and were met with threats by shadowy figures within the US Government and military\n\nJohnathan Weygandt Interview:\nhttps://www.youtube.com/watch?v=VHOwe9dsOwI&t=1309s\n\nMichael Herrera's speech (01:05:00 - 01:22:00):\nhttps://www.youtube.com/watch?v=zDY7t6HihCw&t=4315s\n\n#ufo #iceberg #alien #aliens #uap #uapnukes #icebergexplained #grusch #extraterrestrial #conspiracy #USMC #marines"
-      }
+      },
+      "defaultAudioLanguage": "en"
     },
     "contentDetails": {
       "duration": "PT16M54S",
@@ -88,10 +90,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "15554",
-      "likeCount": "798",
+      "viewCount": "15632",
+      "likeCount": "801",
       "favoriteCount": "0",
-      "commentCount": "177"
+      "commentCount": "178"
     },
     "topicDetails": {
       "topicCategories": [

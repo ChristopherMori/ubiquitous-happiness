@@ -36,7 +36,7 @@
   },
   "videosList": {
     "kind": "youtube#video",
-    "etag": "WRhsZWptAEj3aqrj9MlIIH4fFhg",
+    "etag": "fMi3NZTaPtw4F7wVSbv9nVNyggk",
     "id": "jNC-0dmH5BQ",
     "snippet": {
       "publishedAt": "2024-09-23T00:17:39Z",
@@ -73,6 +73,7 @@
       "channelTitle": "UAP Gerb",
       "categoryId": "22",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
       "localized": {
         "title": "10K Live! UAPDA, Crash Retrieval Research, Q&A and More",
         "description": "Live to celebrate and thank you all so much for 10,000 subscribers! Beyond grateful for every single person in this community. Today we will discuss:\r\n\r\n- Killing of the UAPDA\r\n- (Underwater) Crash Retrievals\r\n- New Anonymous Reddit \"Whistleblower Testimony\"\r\n- Q&A"
@@ -89,7 +90,7 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "4871",
+      "viewCount": "4875",
       "likeCount": "239",
       "favoriteCount": "0",
       "commentCount": "27"
