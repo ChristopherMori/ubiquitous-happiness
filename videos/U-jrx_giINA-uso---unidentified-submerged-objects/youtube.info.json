@@ -36,7 +36,7 @@
   },
   "videosList": {
     "kind": "youtube#video",
-    "etag": "p44RWVBhzJJPjnpcj33imlf9bWQ",
+    "etag": "v3XHKBaG0hDLakHoqvDe2tdzylg",
     "id": "U-jrx_giINA",
     "snippet": {
       "publishedAt": "2024-04-17T23:08:50Z",
@@ -90,8 +90,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "43633",
-      "likeCount": "1525",
+      "viewCount": "43635",
+      "likeCount": "1526",
       "favoriteCount": "0",
       "commentCount": "318"
     }
