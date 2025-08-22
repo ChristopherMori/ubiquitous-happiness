@@ -36,7 +36,7 @@
   },
   "videosList": {
     "kind": "youtube#video",
-    "etag": "DDAjTb3YRZjetII3Tu9Kg8q_Pf8",
+    "etag": "IBAZhKOUgejNslweZ9pt2FtOMz8",
     "id": "1en219Vk9K4",
     "snippet": {
       "publishedAt": "2024-01-12T23:29:05Z",
@@ -73,10 +73,12 @@
       "channelTitle": "UAP Gerb",
       "categoryId": "22",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
       "localized": {
         "title": "The Alien and UFO Obscure Oddities Iceberg (Level 1)",
         "description": "Strange crafts, extraterrestrials, Conspiracy & more!\n\nPlease join me as we dive into the first level of the \"Alien and UFO Obscure Oddities Iceberg\" created by Reddit user u/Blyke-sama (link below). I had a lot of fun making this, stay tuned for parts 2-6.\n\n0:00 Intro\n1:44 Extraterrestrial Life\n2:16 Crop Circles\n3:34 McMinnville UFO Photographs\n5:43 Alien Invasion\n7:14 Panspermia\n8:28 Men In Black\n11:07 Nazca Lines\n13:10 Betty & Barney Hill Incident\n18:19 Raelism\n19:32 Kardishev Scale\n21:25 Phoenix Lights\n23:16 The Battle Of Los Angeles\n25:04 Reptilians\n26:32 Pentagon UFO Videos\n28:28 Area 51\n30:39 Nordic Aliens\n32:34 Grey Aliens\n35:22 Little Green Men\n36:00 Hoia Baciu\n36:27 1952 Washington, D.C., UFO Incident \n38:44 Closing Remarks\n\n\n\n\n#ufo #iceberg #alien #aliens #uap #uapnukes #icebergexplained #grusch #extraterrestrial"
-      }
+      },
+      "defaultAudioLanguage": "en"
     },
     "contentDetails": {
       "duration": "PT39M16S",
@@ -88,7 +90,7 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "26526",
+      "viewCount": "26530",
       "likeCount": "1349",
       "favoriteCount": "0",
       "commentCount": "213"

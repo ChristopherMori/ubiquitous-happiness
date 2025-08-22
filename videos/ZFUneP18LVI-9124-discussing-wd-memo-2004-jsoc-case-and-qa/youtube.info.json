@@ -36,7 +36,7 @@
   },
   "videosList": {
     "kind": "youtube#video",
-    "etag": "llJgFLv__DeIoinWGZLqnPPa-Kc",
+    "etag": "DOTS11ttsLazXXKCU4XjE1MCN8c",
     "id": "ZFUneP18LVI",
     "snippet": {
       "publishedAt": "2024-09-02T01:22:34Z",
@@ -73,6 +73,7 @@
       "channelTitle": "UAP Gerb",
       "categoryId": "22",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
       "localized": {
         "title": "9/1/24 Discussing WD Memo, 2004 JSOC Case and Q&A",
         "description": "Live discussing news around the Wilson Davis Memo and Ross Coulthart's comments on the 2004 Blue on Blue Incident, and more. Nothing too serious"
@@ -89,7 +90,7 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "6137",
+      "viewCount": "6138",
       "likeCount": "298",
       "favoriteCount": "0",
       "commentCount": "58"
