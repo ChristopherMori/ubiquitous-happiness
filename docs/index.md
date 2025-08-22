@@ -1,6 +1,5 @@
 ---
 title: UAP Gerb Archive
-template: home
 custom_home: true
 ---
 
