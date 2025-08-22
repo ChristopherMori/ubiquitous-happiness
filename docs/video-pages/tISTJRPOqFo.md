@@ -280,3 +280,7 @@ title: UFOs in the Private Sector - Battelle Memorial Institute
     
 
 **Download transcripts:** [SRT](../videos/tISTJRPOqFo-ufos-in-the-private-sector---battelle-memorial-institute/transcript.srt) · [VTT](../videos/tISTJRPOqFo-ufos-in-the-private-sector---battelle-memorial-institute/transcript.vtt) · [JSON](../videos/tISTJRPOqFo-ufos-in-the-private-sector---battelle-memorial-institute/transcript.json) · [TSV](../videos/tISTJRPOqFo-ufos-in-the-private-sector---battelle-memorial-institute/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

@@ -35,3 +35,7 @@ title: The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies
 > _Transcript coming soon (pending local Whisper run)._
 
 **Download transcripts:** [SRT](../videos/hK24ZdkvwN4-the-modern-day-ufo-disinformation-agent---dr-sean-kirkpatricks-lies/transcript.srt) · [VTT](../videos/hK24ZdkvwN4-the-modern-day-ufo-disinformation-agent---dr-sean-kirkpatricks-lies/transcript.vtt) · [JSON](../videos/hK24ZdkvwN4-the-modern-day-ufo-disinformation-agent---dr-sean-kirkpatricks-lies/transcript.json) · [TSV](../videos/hK24ZdkvwN4-the-modern-day-ufo-disinformation-agent---dr-sean-kirkpatricks-lies/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

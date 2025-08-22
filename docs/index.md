@@ -1,57 +1,35 @@
-# UAP Gerb – Video Index
+---
+title: UAP Gerb Archive
+template: home
+custom_home: true
+---
 
-_Total videos: 53_
+# UAP Gerb Archive
 
-- ✅ **[1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE](video-pages/ShoUyC1aip0.md)** — 2025-08-17
-- ✅ **[The 1948 Aztec, New Mexico UFO Crash Retrieval](video-pages/QJxbyu-9Tj0.md)** — 2025-07-19
-- ✅ **[UFO Legacy Programs - Science Applications International Corporation (SAIC)](video-pages/9p99lTsC7wQ.md)** — 2025-06-21
-- ✅ **[1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt](video-pages/7Jc2G5aEH0A.md)** — 2025-05-16
-- ✅ **[US Navy UFO Crash Retrieval & Reverse Engineering Programs](video-pages/H9GSqOEvoBE.md)** — 2025-04-11
-- ✅ **[Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs](video-pages/7Ats0lIy3Lo.md)** — 2025-03-18
-- ✅ **[Dugway Proving Ground - UFO Legacy Programs](video-pages/rePrVmR6a68.md)** — 2025-02-20
-- ✅ **[UFO Legacy Programs - Northrop Grumman](video-pages/E-GleS2aGj0.md)** — 2025-01-27
-- ✅ **[Philip J. Corso - US Army UFO Technology Research & Development](video-pages/_sv0Otxtcn4.md)** — 2025-01-03
-- ✅ **[Alien Reproduction Vehicle - TR-3B and the Flying Triangles](video-pages/B7JP0uX0GwY.md)** — 2024-12-01
-- ✅ **[Post UAP Hearing Live Stream: Time in DC, Immaculate Constellation, & More](video-pages/t9cLswYmWzU.md)** — 2024-11-15
-- ✅ **[Alien Reproduction Vehicle - the Testimony of Mark McCandlish](video-pages/wF07QMm6joE.md)** — 2024-10-21
-- 🕓 **[Livestream and Q&A with Michael Herrera 10/6/24](video-pages/AyA2SfFK89Q.md)** — 2024-10-07
-- ✅ **[UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2]](video-pages/U_LSMLGBDNg.md)** — 2024-10-02
-- ✅ **[9/29/24 Bush/Cheney Historical Connections to UFO Legacy Crash Retrieval Programs Ft. VolarRecords](video-pages/t85t8QpTsD4.md)** — 2024-09-30
-- ✅ **[10K Live! UAPDA, Crash Retrieval Research, Q&A and More](video-pages/jNC-0dmH5BQ.md)** — 2024-09-23
-- ✅ **[The 1965 Kecksburg, Pennsylvania UFO Crash](video-pages/rgBTMzFd-hg.md)** — 2024-09-12
-- ✅ **[9/8/24 Discussing Steven Greer London Live Event](video-pages/3iWLTyhdyf4.md)** — 2024-09-08
-- ✅ **[9/1/24 Discussing WD Memo, 2004 JSOC Case and Q&A](video-pages/ZFUneP18LVI.md)** — 2024-09-02
-- ✅ **[The Majestic-12 Documents [With Ryan S. Wood]](video-pages/vzB87RJkQVU.md)** — 2024-08-25
-- ✅ **[The 1974 Coyame, Mexico UFO Crash](video-pages/bL3tMByq_WM.md)** — 2024-08-09
-- ✅ **[7/20/24 Discussing Cases and Q&A](video-pages/1m0oJD59eXQ.md)** — 2024-07-21
-- ✅ **[Off-World Technologies Division – UAP Technology Reverse Engineering](video-pages/QJ215I85d5M.md)** — 2024-07-18
-- ✅ **[Michael Herrera - Insights into UAP Encounter and Black Program Insiders](video-pages/4EMO38JUfVE.md)** — 2024-06-30
-- ✅ **[Live with Joey](video-pages/azC7-UBRBSw.md)** — 2024-06-23
-- 🕓 **[UAP Gerb Live Stream](video-pages/2Goib1eosJQ.md)** — 2024-06-20
-- ✅ **["US Special Forces Confession - I Recovered Crashed UFOs": Fact or Fiction?](video-pages/DcvuglS7ps4.md)** — 2024-06-16
-- ✅ **[UFO Whistleblowers [Vol.2]](video-pages/9Xk4X41yl2M.md)** — 2024-05-26
-- ✅ **[The 1950s Del Rio, Texas UFO Crashes](video-pages/8S9qdRWSnD8.md)** — 2024-05-17
-- ✅ **[UFO Whistleblowers [Vol.1]](video-pages/EKEZ2BClIb0.md)** — 2024-05-05
-- ✅ **[USO Case Book: Unidentified Submerged Objects Throughout History](video-pages/Yn-83KbgRN8.md)** — 2024-04-26
-- ✅ **[USO - Unidentified Submerged Objects](video-pages/U-jrx_giINA.md)** — 2024-04-17
-- ✅ **[Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group](video-pages/R7DyJRf14nU.md)** — 2024-04-08
-- ✅ **[Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)](video-pages/6DyTfIV87Ck.md)** — 2024-03-28
-- ✅ **[The 1933 Magenta, Italy UFO Crash](video-pages/FGiwgyLY7Aw.md)** — 2024-03-18
-- ✅ **[The Physics of UFOs– Dr. Kevin Knuth](video-pages/inyw4Vfu7Z0.md)** — 2024-03-10
-- ✅ **[The 1953 Kingman, Arizona UFO Crash](video-pages/41V4Pf_8oo4.md)** — 2024-03-06
-- ✅ **[FASTWALKERS – UFOs Outside Earth](video-pages/Tubx-CaAaOs.md)** — 2024-02-28
-- ✅ **[UFOs in the Private Sector - Lockheed Martin](video-pages/tVdzvvbbHW4.md)** — 2024-02-23
-- ✅ **[UFOs in the Private Sector - Battelle Memorial Institute](video-pages/tISTJRPOqFo.md)** — 2024-02-19
-- ✅ **[SOL Foundation: Karl Nell - A Key Figure in UAP Disclosure](video-pages/kKbSIfc7N7Q.md)** — 2024-02-14
-- ✅ **[Incredible UFO Footage - METAPOD](video-pages/i6fitvV-aO0.md)** — 2024-02-13
-- ✅ **[The Origin of the UFO Stigma](video-pages/xKArN8S9bnM.md)** — 2024-02-10
-- ✅ **[Incredible UFO Footage - FLYBY](video-pages/qD1KnudMCO0.md)** — 2024-02-05
-- ✅ **[Global Air Force UFO Encounters You've Probably Never Heard of](video-pages/6cVe-hdMTCE.md)** — 2024-02-02
-- ✅ **[UFOs and Nuclear Weapons - A Fascinating Connection](video-pages/-DK2u8HlhDE.md)** — 2024-01-29
-- ✅ **[The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies](video-pages/hK24ZdkvwN4.md)** — 2024-01-26
-- ✅ **[MOON DUST - The Pentagon's Secret UFO Programs](video-pages/6ZuHLgVtKu8.md)** — 2024-01-25
-- ✅ **[The First Commercial Flight Grounded Due to UFOs](video-pages/K_BZkOAw6E0.md)** — 2024-01-22
-- ✅ **[The Marines Who Got too Close to UFOs](video-pages/HnxylCl68Tg.md)** — 2024-01-19
-- ✅ **[The Alien and UFO Obscure Oddities Iceberg (Level 2)](video-pages/9FL04mqyZxk.md)** — 2024-01-17
-- ✅ **[The Alien and UFO Obscure Oddities Iceberg (Level 1)](video-pages/1en219Vk9K4.md)** — 2024-01-12
-- ✅ **[The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs](video-pages/yIqkazIZh9I.md)** — 2024-01-09
+Welcome to an independent archive of videos, transcripts, and research materials. Use the search at the top or jump into the latest videos below.
+
+## Latest uploads
+
+- See the full [Video Index](video-index.md) for all entries.
+
+<!-- latest-grid:start -->
+<table style="width:100%; border-collapse:separate; border-spacing:0 0;">
+<tr><td style="vertical-align:top; padding:10px; text-align:center;"><a href="video-pages/ShoUyC1aip0.md"><img src="videos/ShoUyC1aip0-1997-alien-reproduction-vehicle-encounter-at-29-palms-ca---the-testimony-of-sgt-roderick-castle/thumb.jpg" alt="1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE" width="240" style="border-radius:6px;"/></a><br/><a href="video-pages/ShoUyC1aip0.md"><small>1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE</small></a></td><td style="vertical-align:top; padding:10px; text-align:center;"><a href="video-pages/QJxbyu-9Tj0.md"><img src="videos/QJxbyu-9Tj0-the-1948-aztec-new-mexico-ufo-crash-retrieval/thumb.jpg" alt="The 1948 Aztec, New Mexico UFO Crash Retrieval" width="240" style="border-radius:6px;"/></a><br/><a href="video-pages/QJxbyu-9Tj0.md"><small>The 1948 Aztec, New Mexico UFO Crash Retrieval</small></a></td><td style="vertical-align:top; padding:10px; text-align:center;"><a href="video-pages/9p99lTsC7wQ.md"><img src="videos/9p99lTsC7wQ-ufo-legacy-programs---science-applications-international-corporation-saic/thumb.jpg" alt="UFO Legacy Programs - Science Applications International Corporation (SAIC)" width="240" style="border-radius:6px;"/></a><br/><a href="video-pages/9p99lTsC7wQ.md"><small>UFO Legacy Programs - Science Applications International Corporation (SAIC)</small></a></td></tr>
+<tr><td style="vertical-align:top; padding:10px; text-align:center;"><a href="video-pages/7Jc2G5aEH0A.md"><img src="videos/7Jc2G5aEH0A-1997-peru-ufo-crash-retrieval---the-story-of-jonathan-weygandt/thumb.jpg" alt="1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt" width="240" style="border-radius:6px;"/></a><br/><a href="video-pages/7Jc2G5aEH0A.md"><small>1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt</small></a></td><td style="vertical-align:top; padding:10px; text-align:center;"><a href="video-pages/H9GSqOEvoBE.md"><img src="videos/H9GSqOEvoBE-us-navy-ufo-crash-retrieval-reverse-engineering-programs/thumb.jpg" alt="US Navy UFO Crash Retrieval & Reverse Engineering Programs" width="240" style="border-radius:6px;"/></a><br/><a href="video-pages/H9GSqOEvoBE.md"><small>US Navy UFO Crash Retrieval & Reverse Engineering Programs</small></a></td><td style="vertical-align:top; padding:10px; text-align:center;"><a href="video-pages/7Ats0lIy3Lo.md"><img src="videos/7Ats0lIy3Lo-deep-underground-military-bases-dumbs---ufo-legacy-programs/thumb.jpg" alt="Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs" width="240" style="border-radius:6px;"/></a><br/><a href="video-pages/7Ats0lIy3Lo.md"><small>Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs</small></a></td></tr>
+<tr><td style="vertical-align:top; padding:10px; text-align:center;"><a href="video-pages/rePrVmR6a68.md"><img src="videos/rePrVmR6a68-dugway-proving-ground---ufo-legacy-programs/thumb.jpg" alt="Dugway Proving Ground - UFO Legacy Programs" width="240" style="border-radius:6px;"/></a><br/><a href="video-pages/rePrVmR6a68.md"><small>Dugway Proving Ground - UFO Legacy Programs</small></a></td><td style="vertical-align:top; padding:10px; text-align:center;"><a href="video-pages/E-GleS2aGj0.md"><img src="videos/E-GleS2aGj0-ufo-legacy-programs---northrop-grumman/thumb.jpg" alt="UFO Legacy Programs - Northrop Grumman" width="240" style="border-radius:6px;"/></a><br/><a href="video-pages/E-GleS2aGj0.md"><small>UFO Legacy Programs - Northrop Grumman</small></a></td><td style="vertical-align:top; padding:10px; text-align:center;"><a href="video-pages/_sv0Otxtcn4.md"><img src="videos/_sv0Otxtcn4-philip-j-corso---us-army-ufo-technology-research-development/thumb.jpg" alt="Philip J. Corso - US Army UFO Technology Research & Development" width="240" style="border-radius:6px;"/></a><br/><a href="video-pages/_sv0Otxtcn4.md"><small>Philip J. Corso - US Army UFO Technology Research & Development</small></a></td></tr>
+<tr><td style="vertical-align:top; padding:10px; text-align:center;"><a href="video-pages/B7JP0uX0GwY.md"><img src="videos/B7JP0uX0GwY-alien-reproduction-vehicle---tr-3b-and-the-flying-triangles/thumb.jpg" alt="Alien Reproduction Vehicle - TR-3B and the Flying Triangles" width="240" style="border-radius:6px;"/></a><br/><a href="video-pages/B7JP0uX0GwY.md"><small>Alien Reproduction Vehicle - TR-3B and the Flying Triangles</small></a></td><td style="vertical-align:top; padding:10px; text-align:center;"><a href="video-pages/t9cLswYmWzU.md"><img src="videos/t9cLswYmWzU-post-uap-hearing-live-stream-time-in-dc-immaculate-constellation-more/thumb.jpg" alt="Post UAP Hearing Live Stream: Time in DC, Immaculate Constellation, & More" width="240" style="border-radius:6px;"/></a><br/><a href="video-pages/t9cLswYmWzU.md"><small>Post UAP Hearing Live Stream: Time in DC, Immaculate Constellation, & More</small></a></td><td style="vertical-align:top; padding:10px; text-align:center;"><a href="video-pages/wF07QMm6joE.md"><img src="videos/wF07QMm6joE-alien-reproduction-vehicle---the-testimony-of-mark-mccandlish/thumb.jpg" alt="Alien Reproduction Vehicle - the Testimony of Mark McCandlish" width="240" style="border-radius:6px;"/></a><br/><a href="video-pages/wF07QMm6joE.md"><small>Alien Reproduction Vehicle - the Testimony of Mark McCandlish</small></a></td></tr>
+</table>
+<!-- latest-grid:end -->
+
+??? info "What is this site?"
+    This is a static archive built with MkDocs + Material. It mirrors public uploads and enriches them with transcripts and entity extraction for easier research.
+
+## Browse by topic
+
+- [Entities](entities.md): People, Places, and Organizations referenced across transcripts.
+- Videos: head to the [Video Index](video-index.md) or the left nav.
+
+## Contribute / Feedback
+
+- Report issues or suggest corrections via GitHub.
+- If you spot miscategorized entities, add them to `data/entity_overrides.yml` and open a PR.

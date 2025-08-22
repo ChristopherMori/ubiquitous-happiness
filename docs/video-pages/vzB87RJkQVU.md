@@ -1022,3 +1022,7 @@ title: The Majestic-12 Documents [With Ryan S. Wood]
     
 
 **Download transcripts:** [SRT](../videos/vzB87RJkQVU-the-majestic-12-documents-with-ryan-s-wood/transcript.srt) · [VTT](../videos/vzB87RJkQVU-the-majestic-12-documents-with-ryan-s-wood/transcript.vtt) · [JSON](../videos/vzB87RJkQVU-the-majestic-12-documents-with-ryan-s-wood/transcript.json) · [TSV](../videos/vzB87RJkQVU-the-majestic-12-documents-with-ryan-s-wood/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

@@ -885,3 +885,7 @@ title: Alien Reproduction Vehicle - TR-3B and the Flying Triangles
     
 
 **Download transcripts:** [SRT](../videos/B7JP0uX0GwY-alien-reproduction-vehicle---tr-3b-and-the-flying-triangles/transcript.srt) · [VTT](../videos/B7JP0uX0GwY-alien-reproduction-vehicle---tr-3b-and-the-flying-triangles/transcript.vtt) · [JSON](../videos/B7JP0uX0GwY-alien-reproduction-vehicle---tr-3b-and-the-flying-triangles/transcript.json) · [TSV](../videos/B7JP0uX0GwY-alien-reproduction-vehicle---tr-3b-and-the-flying-triangles/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

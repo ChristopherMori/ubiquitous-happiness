@@ -209,3 +209,7 @@ title: MOON DUST - The Pentagon's Secret UFO Programs
     
 
 **Download transcripts:** [SRT](../videos/6ZuHLgVtKu8-moon-dust---the-pentagons-secret-ufo-programs/transcript.srt) · [VTT](../videos/6ZuHLgVtKu8-moon-dust---the-pentagons-secret-ufo-programs/transcript.vtt) · [JSON](../videos/6ZuHLgVtKu8-moon-dust---the-pentagons-secret-ufo-programs/transcript.json) · [TSV](../videos/6ZuHLgVtKu8-moon-dust---the-pentagons-secret-ufo-programs/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

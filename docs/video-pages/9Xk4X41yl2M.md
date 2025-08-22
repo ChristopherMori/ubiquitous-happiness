@@ -84,3 +84,7 @@ title: UFO Whistleblowers [Vol.2]
 > _Transcript coming soon (pending local Whisper run)._
 
 **Download transcripts:** [SRT](../videos/9Xk4X41yl2M-ufo-whistleblowers-vol2/transcript.srt) · [VTT](../videos/9Xk4X41yl2M-ufo-whistleblowers-vol2/transcript.vtt) · [JSON](../videos/9Xk4X41yl2M-ufo-whistleblowers-vol2/transcript.json) · [TSV](../videos/9Xk4X41yl2M-ufo-whistleblowers-vol2/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

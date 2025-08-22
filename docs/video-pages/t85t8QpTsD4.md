@@ -1604,3 +1604,7 @@ title: 9/29/24 Bush/Cheney Historical Connections to UFO Legacy Crash Retrieval 
     
 
 **Download transcripts:** [SRT](../videos/t85t8QpTsD4-92924-bushcheney-historical-connections-to-ufo-legacy-crash-retrieval-programs-ft-volarrecords/transcript.srt) · [VTT](../videos/t85t8QpTsD4-92924-bushcheney-historical-connections-to-ufo-legacy-crash-retrieval-programs-ft-volarrecords/transcript.vtt) · [JSON](../videos/t85t8QpTsD4-92924-bushcheney-historical-connections-to-ufo-legacy-crash-retrieval-programs-ft-volarrecords/transcript.json) · [TSV](../videos/t85t8QpTsD4-92924-bushcheney-historical-connections-to-ufo-legacy-crash-retrieval-programs-ft-volarrecords/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

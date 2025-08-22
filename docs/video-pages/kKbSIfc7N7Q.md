@@ -277,3 +277,7 @@ title: 'SOL Foundation: Karl Nell - A Key Figure in UAP Disclosure'
     
 
 **Download transcripts:** [SRT](../videos/kKbSIfc7N7Q-sol-foundation-karl-nell---a-key-figure-in-uap-disclosure/transcript.srt) · [VTT](../videos/kKbSIfc7N7Q-sol-foundation-karl-nell---a-key-figure-in-uap-disclosure/transcript.vtt) · [JSON](../videos/kKbSIfc7N7Q-sol-foundation-karl-nell---a-key-figure-in-uap-disclosure/transcript.json) · [TSV](../videos/kKbSIfc7N7Q-sol-foundation-karl-nell---a-key-figure-in-uap-disclosure/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

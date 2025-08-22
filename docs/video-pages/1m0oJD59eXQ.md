@@ -1333,3 +1333,7 @@ title: 7/20/24 Discussing Cases and Q&A
     
 
 **Download transcripts:** [SRT](../videos/1m0oJD59eXQ-72024-discussing-cases-and-qa/transcript.srt) · [VTT](../videos/1m0oJD59eXQ-72024-discussing-cases-and-qa/transcript.vtt) · [JSON](../videos/1m0oJD59eXQ-72024-discussing-cases-and-qa/transcript.json) · [TSV](../videos/1m0oJD59eXQ-72024-discussing-cases-and-qa/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

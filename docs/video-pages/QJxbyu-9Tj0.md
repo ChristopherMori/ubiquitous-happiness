@@ -1536,3 +1536,7 @@ title: The 1948 Aztec, New Mexico UFO Crash Retrieval
     
 
 **Download transcripts:** [SRT](../videos/QJxbyu-9Tj0-the-1948-aztec-new-mexico-ufo-crash-retrieval/transcript.srt) · [VTT](../videos/QJxbyu-9Tj0-the-1948-aztec-new-mexico-ufo-crash-retrieval/transcript.vtt) · [JSON](../videos/QJxbyu-9Tj0-the-1948-aztec-new-mexico-ufo-crash-retrieval/transcript.json) · [TSV](../videos/QJxbyu-9Tj0-the-1948-aztec-new-mexico-ufo-crash-retrieval/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

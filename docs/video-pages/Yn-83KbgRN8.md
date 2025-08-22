@@ -538,3 +538,7 @@ title: 'USO Case Book: Unidentified Submerged Objects Throughout History'
     
 
 **Download transcripts:** [SRT](../videos/Yn-83KbgRN8-uso-case-book-unidentified-submerged-objects-throughout-history/transcript.srt) · [VTT](../videos/Yn-83KbgRN8-uso-case-book-unidentified-submerged-objects-throughout-history/transcript.vtt) · [JSON](../videos/Yn-83KbgRN8-uso-case-book-unidentified-submerged-objects-throughout-history/transcript.json) · [TSV](../videos/Yn-83KbgRN8-uso-case-book-unidentified-submerged-objects-throughout-history/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

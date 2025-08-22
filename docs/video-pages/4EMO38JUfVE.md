@@ -2303,3 +2303,7 @@ title: Michael Herrera - Insights into UAP Encounter and Black Program Insiders
     
 
 **Download transcripts:** [SRT](../videos/4EMO38JUfVE-michael-herrera---insights-into-uap-encounter-and-black-program-insiders/transcript.srt) · [VTT](../videos/4EMO38JUfVE-michael-herrera---insights-into-uap-encounter-and-black-program-insiders/transcript.vtt) · [JSON](../videos/4EMO38JUfVE-michael-herrera---insights-into-uap-encounter-and-black-program-insiders/transcript.json) · [TSV](../videos/4EMO38JUfVE-michael-herrera---insights-into-uap-encounter-and-black-program-insiders/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

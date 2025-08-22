@@ -1572,3 +1572,7 @@ title: 'Post UAP Hearing Live Stream: Time in DC, Immaculate Constellation, & Mo
     
 
 **Download transcripts:** [SRT](../videos/t9cLswYmWzU-post-uap-hearing-live-stream-time-in-dc-immaculate-constellation-more/transcript.srt) · [VTT](../videos/t9cLswYmWzU-post-uap-hearing-live-stream-time-in-dc-immaculate-constellation-more/transcript.vtt) · [JSON](../videos/t9cLswYmWzU-post-uap-hearing-live-stream-time-in-dc-immaculate-constellation-more/transcript.json) · [TSV](../videos/t9cLswYmWzU-post-uap-hearing-live-stream-time-in-dc-immaculate-constellation-more/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

@@ -2125,3 +2125,7 @@ title: 9/1/24 Discussing WD Memo, 2004 JSOC Case and Q&A
     
 
 **Download transcripts:** [SRT](../videos/ZFUneP18LVI-9124-discussing-wd-memo-2004-jsoc-case-and-qa/transcript.srt) · [VTT](../videos/ZFUneP18LVI-9124-discussing-wd-memo-2004-jsoc-case-and-qa/transcript.vtt) · [JSON](../videos/ZFUneP18LVI-9124-discussing-wd-memo-2004-jsoc-case-and-qa/transcript.json) · [TSV](../videos/ZFUneP18LVI-9124-discussing-wd-memo-2004-jsoc-case-and-qa/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

@@ -315,3 +315,7 @@ title: The 1933 Magenta, Italy UFO Crash
     
 
 **Download transcripts:** [SRT](../videos/FGiwgyLY7Aw-the-1933-magenta-italy-ufo-crash/transcript.srt) · [VTT](../videos/FGiwgyLY7Aw-the-1933-magenta-italy-ufo-crash/transcript.vtt) · [JSON](../videos/FGiwgyLY7Aw-the-1933-magenta-italy-ufo-crash/transcript.json) · [TSV](../videos/FGiwgyLY7Aw-the-1933-magenta-italy-ufo-crash/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

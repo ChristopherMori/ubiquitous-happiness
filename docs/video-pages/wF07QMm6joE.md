@@ -658,3 +658,7 @@ title: Alien Reproduction Vehicle - the Testimony of Mark McCandlish
     
 
 **Download transcripts:** [SRT](../videos/wF07QMm6joE-alien-reproduction-vehicle---the-testimony-of-mark-mccandlish/transcript.srt) · [VTT](../videos/wF07QMm6joE-alien-reproduction-vehicle---the-testimony-of-mark-mccandlish/transcript.vtt) · [JSON](../videos/wF07QMm6joE-alien-reproduction-vehicle---the-testimony-of-mark-mccandlish/transcript.json) · [TSV](../videos/wF07QMm6joE-alien-reproduction-vehicle---the-testimony-of-mark-mccandlish/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

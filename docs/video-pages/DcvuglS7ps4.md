@@ -562,3 +562,7 @@ title: '"US Special Forces Confession - I Recovered Crashed UFOs": Fact or Ficti
     
 
 **Download transcripts:** [SRT](../videos/DcvuglS7ps4-us-special-forces-confession---i-recovered-crashed-ufos-fact-or-fiction/transcript.srt) · [VTT](../videos/DcvuglS7ps4-us-special-forces-confession---i-recovered-crashed-ufos-fact-or-fiction/transcript.vtt) · [JSON](../videos/DcvuglS7ps4-us-special-forces-confession---i-recovered-crashed-ufos-fact-or-fiction/transcript.json) · [TSV](../videos/DcvuglS7ps4-us-special-forces-confession---i-recovered-crashed-ufos-fact-or-fiction/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

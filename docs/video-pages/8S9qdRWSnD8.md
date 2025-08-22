@@ -403,3 +403,7 @@ title: The 1950s Del Rio, Texas UFO Crashes
     
 
 **Download transcripts:** [SRT](../videos/8S9qdRWSnD8-the-1950s-del-rio-texas-ufo-crashes/transcript.srt) · [VTT](../videos/8S9qdRWSnD8-the-1950s-del-rio-texas-ufo-crashes/transcript.vtt) · [JSON](../videos/8S9qdRWSnD8-the-1950s-del-rio-texas-ufo-crashes/transcript.json) · [TSV](../videos/8S9qdRWSnD8-the-1950s-del-rio-texas-ufo-crashes/transcript.tsv)
+
+## Comments
+
+<script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>
