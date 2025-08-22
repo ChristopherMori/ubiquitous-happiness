@@ -120,20 +120,17 @@ def build_page(meta, folder: Path) -> str:
 
     ents = extract_entities(txt) if txt else {"people": [], "places": [], "orgs": []}
     if any(ents.values()):
-        lines += ["## Entities"]
-        if ents["people"]:
-            lines += ["- People:"]
-            for name in ents["people"]:
-                lines += [f"  - {name}"]
-        if ents["places"]:
-            lines += ["- Places:"]
-            for name in ents["places"]:
-                lines += [f"  - {name}"]
-        if ents["orgs"]:
-            lines += ["- Organizations:"]
-            for name in ents["orgs"]:
-                lines += [f"  - {name}"]
-        lines += [""]
+        lines += ["## Entities", ""]
+        for key, label in [("people", "People"), ("places", "Places"), ("orgs", "Organizations")]:
+            names = ents.get(key) or []
+            if not names:
+                continue
+            count = len(names)
+            # Collapsible section per category using pymdownx.details (Material)
+            lines += [f"??? info \"{label} ({count})\"", ""]
+            for name in names:
+                lines += [f"    - {name}"]
+            lines += [""]
 
     dlinks = []
     for ext,label in [(".srt","SRT"),(".vtt","VTT"),(".json","JSON"),(".tsv","TSV")]:
