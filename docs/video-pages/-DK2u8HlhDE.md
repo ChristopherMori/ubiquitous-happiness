@@ -47,3 +47,5 @@ title: UFOs and Nuclear Weapons - A Fascinating Connection
 
 ## Transcript
 > _Transcript coming soon (pending local Whisper run)._
+
+**Download transcripts:** [SRT](../videos/-DK2u8HlhDE-ufos-and-nuclear-weapons---a-fascinating-connection/transcript.srt) · [VTT](../videos/-DK2u8HlhDE-ufos-and-nuclear-weapons---a-fascinating-connection/transcript.vtt) · [JSON](../videos/-DK2u8HlhDE-ufos-and-nuclear-weapons---a-fascinating-connection/transcript.json) · [TSV](../videos/-DK2u8HlhDE-ufos-and-nuclear-weapons---a-fascinating-connection/transcript.tsv)

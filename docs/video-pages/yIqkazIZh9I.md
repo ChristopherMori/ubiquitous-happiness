@@ -30,3 +30,5 @@ title: The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs
 
 ## Transcript
 > _Transcript coming soon (pending local Whisper run)._
+
+**Download transcripts:** [SRT](../videos/yIqkazIZh9I-the-wilson-davis-memo-and-us-secret-ufo-reverse-engineering-programs/transcript.srt) · [VTT](../videos/yIqkazIZh9I-the-wilson-davis-memo-and-us-secret-ufo-reverse-engineering-programs/transcript.vtt) · [JSON](../videos/yIqkazIZh9I-the-wilson-davis-memo-and-us-secret-ufo-reverse-engineering-programs/transcript.json) · [TSV](../videos/yIqkazIZh9I-the-wilson-davis-memo-and-us-secret-ufo-reverse-engineering-programs/transcript.tsv)

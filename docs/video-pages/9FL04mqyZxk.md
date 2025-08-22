@@ -46,3 +46,5 @@ title: The Alien and UFO Obscure Oddities Iceberg (Level 2)
 
 ## Transcript
 > _Transcript coming soon (pending local Whisper run)._
+
+**Download transcripts:** [SRT](../videos/9FL04mqyZxk-the-alien-and-ufo-obscure-oddities-iceberg-level-2/transcript.srt) · [VTT](../videos/9FL04mqyZxk-the-alien-and-ufo-obscure-oddities-iceberg-level-2/transcript.vtt) · [JSON](../videos/9FL04mqyZxk-the-alien-and-ufo-obscure-oddities-iceberg-level-2/transcript.json) · [TSV](../videos/9FL04mqyZxk-the-alien-and-ufo-obscure-oddities-iceberg-level-2/transcript.tsv)

@@ -33,3 +33,5 @@ title: The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies
 
 ## Transcript
 > _Transcript coming soon (pending local Whisper run)._
+
+**Download transcripts:** [SRT](../videos/hK24ZdkvwN4-the-modern-day-ufo-disinformation-agent---dr-sean-kirkpatricks-lies/transcript.srt) · [VTT](../videos/hK24ZdkvwN4-the-modern-day-ufo-disinformation-agent---dr-sean-kirkpatricks-lies/transcript.vtt) · [JSON](../videos/hK24ZdkvwN4-the-modern-day-ufo-disinformation-agent---dr-sean-kirkpatricks-lies/transcript.json) · [TSV](../videos/hK24ZdkvwN4-the-modern-day-ufo-disinformation-agent---dr-sean-kirkpatricks-lies/transcript.tsv)

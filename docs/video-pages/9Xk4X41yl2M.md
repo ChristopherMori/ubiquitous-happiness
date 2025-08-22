@@ -82,3 +82,5 @@ title: UFO Whistleblowers [Vol.2]
 
 ## Transcript
 > _Transcript coming soon (pending local Whisper run)._
+
+**Download transcripts:** [SRT](../videos/9Xk4X41yl2M-ufo-whistleblowers-vol2/transcript.srt) · [VTT](../videos/9Xk4X41yl2M-ufo-whistleblowers-vol2/transcript.vtt) · [JSON](../videos/9Xk4X41yl2M-ufo-whistleblowers-vol2/transcript.json) · [TSV](../videos/9Xk4X41yl2M-ufo-whistleblowers-vol2/transcript.tsv)

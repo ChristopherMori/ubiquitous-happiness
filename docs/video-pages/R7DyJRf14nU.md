@@ -70,3 +70,5 @@ title: Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Gro
 
 ## Transcript
 > _Transcript coming soon (pending local Whisper run)._
+
+**Download transcripts:** [SRT](../videos/R7DyJRf14nU-dr-robert-sarbacher-the-us-governments-secret-ufo-crash-retrieval-group/transcript.srt) · [VTT](../videos/R7DyJRf14nU-dr-robert-sarbacher-the-us-governments-secret-ufo-crash-retrieval-group/transcript.vtt) · [JSON](../videos/R7DyJRf14nU-dr-robert-sarbacher-the-us-governments-secret-ufo-crash-retrieval-group/transcript.json) · [TSV](../videos/R7DyJRf14nU-dr-robert-sarbacher-the-us-governments-secret-ufo-crash-retrieval-group/transcript.tsv)

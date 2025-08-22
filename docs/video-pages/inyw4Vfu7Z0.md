@@ -59,3 +59,5 @@ title: "The Physics of UFOs\u2013 Dr. Kevin Knuth"
 
 ## Transcript
 > _Transcript coming soon (pending local Whisper run)._
+
+**Download transcripts:** [SRT](../videos/inyw4Vfu7Z0-the-physics-of-ufos-dr-kevin-knuth/transcript.srt) · [VTT](../videos/inyw4Vfu7Z0-the-physics-of-ufos-dr-kevin-knuth/transcript.vtt) · [JSON](../videos/inyw4Vfu7Z0-the-physics-of-ufos-dr-kevin-knuth/transcript.json) · [TSV](../videos/inyw4Vfu7Z0-the-physics-of-ufos-dr-kevin-knuth/transcript.tsv)

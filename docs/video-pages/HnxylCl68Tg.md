@@ -23,3 +23,5 @@ title: The Marines Who Got too Close to UFOs
 
 ## Transcript
 > _Transcript coming soon (pending local Whisper run)._
+
+**Download transcripts:** [SRT](../videos/HnxylCl68Tg-the-marines-who-got-too-close-to-ufos/transcript.srt) · [VTT](../videos/HnxylCl68Tg-the-marines-who-got-too-close-to-ufos/transcript.vtt) · [JSON](../videos/HnxylCl68Tg-the-marines-who-got-too-close-to-ufos/transcript.json) · [TSV](../videos/HnxylCl68Tg-the-marines-who-got-too-close-to-ufos/transcript.tsv)

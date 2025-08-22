@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # scripts/generate_pages.py
 import json, yaml
+import os, re, shutil
 from pathlib import Path
 from typing import Dict, List, Tuple
 
@@ -15,6 +16,7 @@ DOCS = ROOT / "docs"
 VID_ROOT = DOCS / "videos"
 PAGES = DOCS / "video-pages"
 PAGES.mkdir(parents=True, exist_ok=True)
+TRANSCRIPTS_ROOT = os.environ.get("TRANSCRIPTS_ROOT") and Path(os.environ["TRANSCRIPTS_ROOT"]) or None
 
 def read_yaml(p): 
     return yaml.safe_load(p.read_text(encoding="utf-8"))
@@ -25,6 +27,45 @@ def read_transcript(folder: Path):
         return p_md.read_text(encoding="utf-8")
     p_txt = folder / "transcript.txt"
     return p_txt.read_text(encoding="utf-8") if p_txt.exists() else ""
+
+def _copy_if_exists(src: Path, dest: Path):
+    try:
+        if src.exists():
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(src, dest)
+            return True
+    except Exception:
+        pass
+    return False
+
+def maybe_import_transcripts(vid: str, dest_folder: Path):
+    """If TRANSCRIPTS_ROOT is set, try to locate files named like
+    *[<vid>].ext and copy them into dest_folder with canonical names.
+    """
+    if not TRANSCRIPTS_ROOT or not TRANSCRIPTS_ROOT.exists():
+        return
+    # Search recursively for files that end with [<vid>].ext (robust against unicode titles)
+    exts = ("txt", "md", "srt", "vtt", "json", "tsv")
+    patterns = [re.compile(r"\[" + re.escape(vid) + r"\]\." + ext + r"$", re.IGNORECASE) for ext in exts]
+    found: dict[str, Path] = {}
+    for p in TRANSCRIPTS_ROOT.rglob("*"):
+        if not p.is_file():
+            continue
+        name = p.name
+        for ext, pat in zip(exts, patterns):
+            if pat.search(name):
+                found[ext] = p
+                break
+    if not found:
+        return
+    # Prefer md over txt for main transcript body
+    if "md" in found:
+        _copy_if_exists(found["md"], dest_folder / "transcript.md")
+    if "txt" in found and not (dest_folder / "transcript.md").exists():
+        _copy_if_exists(found["txt"], dest_folder / "transcript.txt")
+    for ext in ("srt", "vtt", "json", "tsv"):
+        if ext in found:
+            _copy_if_exists(found[ext], dest_folder / f"transcript.{ext}")
 
 def rel_from_page(path_in_docs: Path) -> str:
     rel = path_in_docs.relative_to(DOCS)
@@ -191,6 +232,11 @@ def main():
         if not folder:
             continue
         meta = read_yaml(folder / "metadata.yml")
+        # Opportunistically import transcripts if provided externally
+        try:
+            maybe_import_transcripts(meta.get("youtube_id", entry["id"]), folder)
+        except Exception:
+            pass
         out_md = build_page(meta, folder)
         (PAGES / f"{entry['id']}.md").write_text(out_md, encoding="utf-8")
 

@@ -48,6 +48,25 @@ This writes pages to `docs/video-pages/`, generates `docs/video-index.md` and `d
 mkdocs serve
 ```
 
+### Importing transcripts (SRT/VTT/TXT/JSON/TSV)
+
+If you have local transcript exports named like `Anything [<YouTubeID>].ext` (for example: `My Video [QJ215I85d5M].srt`), you can bulk-import them:
+
+```bash
+# Example PowerShell path pointing to your transcript root
+python scripts/import_transcripts.py "C:\\Users\\enisi\\Documents\\UAPGERB\\transcripts" --overwrite
+python scripts/build.py
+```
+
+The importer copies files into each `docs/videos/<id>-<slug>/` folder and renames them to canonical names:
+- `transcript.txt`
+- `transcript.srt`
+- `transcript.vtt`
+- `transcript.json`
+- `transcript.tsv`
+
+After import, re-run `python scripts/build.py` so pages show transcripts and download links.
+
 ## GitHub Actions
 
 `.github/workflows/ingest_api.yml` ingests and rebuilds pages/nav on a schedule or manually, and commits changes.
