@@ -75,6 +75,10 @@ title: UFO Whistleblowers [Vol.1]
 
 **Download transcripts:** [SRT](../videos/EKEZ2BClIb0-ufo-whistleblowers-vol1/transcript.srt) · [VTT](../videos/EKEZ2BClIb0-ufo-whistleblowers-vol1/transcript.vtt) · [JSON](../videos/EKEZ2BClIb0-ufo-whistleblowers-vol1/transcript.json) · [TSV](../videos/EKEZ2BClIb0-ufo-whistleblowers-vol1/transcript.tsv)
 
+---
+
+← Newer: [The 1950s Del Rio, Texas UFO Crashes](video-pages/8S9qdRWSnD8.md) · Older: [USO Case Book: Unidentified Submerged Objects Throughout History](video-pages/Yn-83KbgRN8.md) →
+
 ## Comments
 
 <script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

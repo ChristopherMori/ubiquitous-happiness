@@ -537,7 +537,117 @@ title: 'USO Case Book: Unidentified Submerged Objects Throughout History'
     I'll catch you on the next video.
     
 
+## Entities
+
+??? info "People (82)"
+
+    - Arabian Sea
+    - Ari Harris
+    - Ascension Island
+    - Atlantic Oceans
+    - Australian Intelligence
+    - Barents Sea
+    - Blue Book
+    - British India Company
+    - British Navy
+    - Cape Race
+    - Captain Avern
+    - Captain Breyer
+    - Captain Evans
+    - Captain Gabe
+    - Captain Hosean
+    - Captain Ledman
+    - Captain Tarantyn
+    - Christopher Columbus
+    - Dame School
+    - Danish Meteorological Institute
+    - Eastern Hemisphere
+    - Emma Flavel
+    - Felix Ziggle
+    - Flying Saucer Review
+    - Fort Salisbury
+    - Fraser Island
+    - Frederick Walter
+    - From Blue Book
+    - George Knapp
+    - Groot Island
+    - Hawaiian Islands
+    - Hydrographic Bureau
+    - In Africa
+    - Jacques Valais
+    - Kamchatka Lake
+    - Kamchatka Peninsula
+    - Kevin Knuth
+    - Les Hendy
+    - Lieutenant Commander
+    - Lou Elizondo
+    - Manning Third Officer
+    - Maritime Light Wheel
+    - Mr. Les Hendy
+    - National Library
+    - Nautical Meteorological Annual
+    - Naval Deputy Chief
+    - Naval Intelligence
+    - New Zealand
+    - Nikolai Ivanovich Smirnov
+    - North Atlantic
+    - On June
+    - On March
+    - On November
+    - On October
+    - Operation Range Vessel
+    - Pacific Ocean
+    - Paul Stonehill
+    - Persian Gulf
+    - Philip Mantle
+    - Port Augusta
+    - Project Blue Book
+    - Project Sine
+    - Scientific American
+    - Seabrae Hotel
+    - Seoul Foundation
+    - Sol Foundation
+    - South Australia
+    - South China Sea
+    - Soviet Files
+    - Soviet Navy
+    - Soviet Union
+    - Staff Pyotr Novoitsev
+    - The Almaco
+    - The Australian
+    - The United States
+    - The Volga
+    - United States
+    - Unusual Aerial Sighting
+    - Valentin Solomchakov
+    - Vladimir Vorobyev
+    - Western Australia
+    - World War
+
+??? info "Places (4)"
+
+    - City
+    - Flakes
+    - Kingman
+    - Lake
+
+??? info "Organizations (9)"
+
+    - Air Force Technical Intelligence
+    - Company
+    - Department
+    - Foundation
+    - Institute
+    - Mr. Manning Third Officer
+    - Navy
+    - Officer
+    - Royal Australian Air Force
+
 **Download transcripts:** [SRT](../videos/Yn-83KbgRN8-uso-case-book-unidentified-submerged-objects-throughout-history/transcript.srt) · [VTT](../videos/Yn-83KbgRN8-uso-case-book-unidentified-submerged-objects-throughout-history/transcript.vtt) · [JSON](../videos/Yn-83KbgRN8-uso-case-book-unidentified-submerged-objects-throughout-history/transcript.json) · [TSV](../videos/Yn-83KbgRN8-uso-case-book-unidentified-submerged-objects-throughout-history/transcript.tsv)
+
+---
+
+← Newer: [UFO Whistleblowers [Vol.1]](video-pages/EKEZ2BClIb0.md) · Older: [USO - Unidentified Submerged Objects](video-pages/U-jrx_giINA.md) →
 
 ## Comments
 

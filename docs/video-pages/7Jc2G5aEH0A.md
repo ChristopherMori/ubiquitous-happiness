@@ -1319,7 +1319,76 @@ title: 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt
     everybody on the next episode thank you so very much for joining me goodbye everybody
     
 
+## Entities
+
+??? info "People (39)"
+
+    - Air Force
+    - Air Force Colonel
+    - Although Hawk
+    - Army Green Berets
+    - Army Special Forces
+    - Cherry Point
+    - Defense Support Program
+    - Drug Enforcement Agency
+    - Fort Bragg
+    - Green Berets
+    - Iquitos Peru
+    - James Foxx
+    - Jonathan Wagan
+    - Lance Corporal
+    - Lance Corporal Wagan
+    - Laser Strike
+    - Latin American
+    - Marine Corps
+    - Martin Willis
+    - National Guard
+    - North Carolina
+    - Operation Green Clover
+    - Operation Laser Strike
+    - Peruvian Air Force
+    - Sergeant Adkins
+    - Sergeant Allen
+    - Sergeant Ankins
+    - South America
+    - South American
+    - Southern Command
+    - Special Forces
+    - Special Forces Command
+    - Special Forces Group
+    - Special Operations Command
+    - Staff Sergeant Monteligre
+    - Stephen Greer
+    - Steven Greer
+    - The Army
+    - Waygant Allen
+
+??? info "Places (2)"
+
+    - Peru
+    - Peruvian
+
+??? info "Organizations (13)"
+
+    - Agency
+    - Army
+    - Corporal
+    - Corps
+    - Department
+    - Joint Special Operations Command
+    - Lance Corporal Jonathan Wagan
+    - Marine Corps Air Control
+    - Marine Corps Air Station
+    - Marine Lance Corporal Jonathan
+    - Navy
+    - Since
+    - Special
+
 **Download transcripts:** [SRT](../videos/7Jc2G5aEH0A-1997-peru-ufo-crash-retrieval---the-story-of-jonathan-weygandt/transcript.srt) · [VTT](../videos/7Jc2G5aEH0A-1997-peru-ufo-crash-retrieval---the-story-of-jonathan-weygandt/transcript.vtt) · [JSON](../videos/7Jc2G5aEH0A-1997-peru-ufo-crash-retrieval---the-story-of-jonathan-weygandt/transcript.json) · [TSV](../videos/7Jc2G5aEH0A-1997-peru-ufo-crash-retrieval---the-story-of-jonathan-weygandt/transcript.tsv)
+
+---
+
+← Newer: [UFO Legacy Programs - Science Applications International Corporation (SAIC)](video-pages/9p99lTsC7wQ.md) · Older: [US Navy UFO Crash Retrieval & Reverse Engineering Programs](video-pages/H9GSqOEvoBE.md) →
 
 ## Comments
 

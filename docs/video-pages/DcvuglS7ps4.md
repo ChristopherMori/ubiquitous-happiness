@@ -561,7 +561,135 @@ title: '"US Special Forces Confession - I Recovered Crashed UFOs": Fact or Ficti
     will catch everybody on the next show thank you
     
 
+## Entities
+
+??? info "People (85)"
+
+    - Admiral Wilson
+    - Advanced Studies
+    - Aerospace Corp
+    - Air Force
+    - Air Force Base
+    - An American
+    - Argentinian Air Force
+    - Battelle Memorial Institute
+    - Bernard Haish
+    - Betul Corps
+    - Bin Long
+    - Bob Berry
+    - Bob Jacobs
+    - Bob Pratt
+    - Bonhomme Richard
+    - Boyle Ireland
+    - Calvary Division
+    - Canadian Controller
+    - Captain Carlos Lima
+    - Captain Robert Salas
+    - Cold War
+    - Communication Technician Radio
+    - Dan Burish
+    - David Grush
+    - David Gruss
+    - Development Board
+    - Dong Ha
+    - Dr. Eric Walker
+    - Dr. Steven Greer
+    - Dugway Proving Ground
+    - Eastern Cambodia
+    - Eric Tabor
+    - Eric Taper
+    - Eric Walker
+    - General Curtis
+    - General Roger Raimi
+    - In Aero
+    - In June
+    - In March
+    - Jacques Valais
+    - James Fox
+    - Jonathan Wagan
+    - Jonathan Wagan Peru
+    - Kecksburg Pennsylvania
+    - Kingman Arizona
+    - Korean War
+    - Leonard Stringfield
+    - Lima Peru
+    - Lockheed Martin
+    - Magic Eyes Only
+    - Marine Corps
+    - New Mexico
+    - On March
+    - Operation Menu
+    - Phuoc Long
+    - Phuoc Vinh
+    - President Bill Clinton
+    - President Eisenhower
+    - President Truman
+    - Que Son
+    - Recovered Crash
+    - Robert Salas
+    - Robert Sarbacher
+    - Senator Barry Goldwater
+    - South America
+    - South American
+    - South Vietnam
+    - Southwest Center
+    - Special Forces Confession
+    - Special Operations Forces
+    - Stephen Greer
+    - Steven Greer
+    - Strategic Air Command
+    - Tet Offensive
+    - Texas Instruments
+    - The Korean War
+    - The Navy
+    - Throughout Vietnam
+    - United States
+    - Varginia Brazil
+    - Wilson Davis
+    - Within Stephen Greer
+    - World War
+    - Wright Pat
+    - Wright Patterson
+
+??? info "Places (10)"
+
+    - Area
+    - Arizona
+    - Base
+    - Edwards
+    - Kecksburg
+    - Kingman
+    - Mexico
+    - Pennsylvania
+    - Peru
+    - Texas
+
+??? info "Organizations (18)"
+
+    - Army
+    - Battelle
+    - Boeing
+    - Company
+    - Corp
+    - Corporal
+    - Corps
+    - Department
+    - Edwards Air Force Base
+    - Institute
+    - Lance Corporal Jonathan Waygant
+    - Lockheed
+    - Malmstrom Air Force Base
+    - Navy
+    - Roswell Air Force Base
+    - Since
+    - Special
+    - Technician
+
 **Download transcripts:** [SRT](../videos/DcvuglS7ps4-us-special-forces-confession---i-recovered-crashed-ufos-fact-or-fiction/transcript.srt) · [VTT](../videos/DcvuglS7ps4-us-special-forces-confession---i-recovered-crashed-ufos-fact-or-fiction/transcript.vtt) · [JSON](../videos/DcvuglS7ps4-us-special-forces-confession---i-recovered-crashed-ufos-fact-or-fiction/transcript.json) · [TSV](../videos/DcvuglS7ps4-us-special-forces-confession---i-recovered-crashed-ufos-fact-or-fiction/transcript.tsv)
+
+---
+
+← Newer: [UAP Gerb Live Stream](video-pages/2Goib1eosJQ.md) · Older: [UFO Whistleblowers [Vol.2]](video-pages/9Xk4X41yl2M.md) →
 
 ## Comments
 

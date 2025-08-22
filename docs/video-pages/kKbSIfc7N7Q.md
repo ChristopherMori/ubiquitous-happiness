@@ -276,7 +276,84 @@ title: 'SOL Foundation: Karl Nell - A Key Figure in UAP Disclosure'
     video today. Please remember to like and subscribe and I will catch you guys on the next video. Thank you.
     
 
+## Entities
+
+??? info "People (59)"
+
+    - And Dave Grush
+    - Army Colonel
+    - As Nell
+    - Blue Book
+    - Campaign Plan Lines
+    - Carl Nell
+    - Chris Mellon
+    - Chris Melons
+    - Christopher Mellon
+    - Colonel Nell
+    - Colonel Nells
+    - Congress Pentagon
+    - Could Nells
+    - David Fraver
+    - David Grush
+    - Disclosure Act
+    - Executive Summary
+    - Gary Nolan
+    - Has Retrieved Craft
+    - Here Nell
+    - House Committee
+    - Human Origin
+    - In Colonel Nells
+    - Inspector General
+    - Intelligence Officials Say
+    - Jacques Valais
+    - Kardashev Scale
+    - Kevin Knuth
+    - Kevin Knuths
+    - Leslie Cain
+    - Leslie Keane
+    - Leslie Keen
+    - Lou Elizondo
+    - Matthew Pines
+    - National Archives
+    - National Intel Estimate
+    - National Science Foundation
+    - New York Times
+    - Nolan Laboratory
+    - On June
+    - Operation Iraqi Freedom
+    - Pass Schumer
+    - Ralph Blumenthal
+    - Ryan Graves
+    - Schumer Amendment
+    - Schumer Rounds
+    - Sean Kirkpatrick
+    - Senate Committee
+    - Soul Foundation
+    - Stanford School
+    - Task Force
+    - The Gang
+    - The Schumer Amendment
+    - The Soul Foundation
+    - Twitter Ace
+    - United Nations
+    - Way Forward
+    - While Nell
+    - World Congress
+
+??? info "Organizations (6)"
+
+    - Army
+    - Committee
+    - Foundation
+    - Officials
+    - Prosaic
+    - Since
+
 **Download transcripts:** [SRT](../videos/kKbSIfc7N7Q-sol-foundation-karl-nell---a-key-figure-in-uap-disclosure/transcript.srt) · [VTT](../videos/kKbSIfc7N7Q-sol-foundation-karl-nell---a-key-figure-in-uap-disclosure/transcript.vtt) · [JSON](../videos/kKbSIfc7N7Q-sol-foundation-karl-nell---a-key-figure-in-uap-disclosure/transcript.json) · [TSV](../videos/kKbSIfc7N7Q-sol-foundation-karl-nell---a-key-figure-in-uap-disclosure/transcript.tsv)
+
+---
+
+← Newer: [UFOs in the Private Sector - Battelle Memorial Institute](video-pages/tISTJRPOqFo.md) · Older: [Incredible UFO Footage - METAPOD](video-pages/i6fitvV-aO0.md) →
 
 ## Comments
 

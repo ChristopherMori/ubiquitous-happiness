@@ -2101,7 +2101,448 @@ title: UFO Legacy Programs - Science Applications International Corporation (SAI
     peace everybody
     
 
+## Entities
+
+??? info "People (344)"
+
+    - Acquisition Sue
+    - Admiral Owens
+    - Admiral Rayborn
+    - Admiral William
+    - Advanced Systems
+    - Aeronautics Laboratory
+    - Aerospace Corporation
+    - Air Force
+    - Air Material Command
+    - Air Station
+    - Aldrich Saussier
+    - Alien Reproduction Vehicle
+    - Alien Science
+    - Alongside White Sands
+    - Analyzing Mackenzie
+    - Analyzing Stringfield
+    - Angility In
+    - Antelope Valley
+    - Applications Program
+    - Applied Research Laboratory
+    - Army Ammunition Activity
+    - Army Green Beret
+    - Army Intelligence
+    - Arrow Kirkpatrick
+    - Arrow Let
+    - Arthur Trudeau
+    - Assistant Director
+    - Assistant Secretary
+    - Astronautics Laboratory
+    - Attorney Peter Gersten
+    - Baltimore Sun
+    - Battelle Memorial Institute
+    - Because Miller
+    - Bell Labs
+    - Big Five
+    - Black Budget
+    - Black Vault
+    - Blue Book
+    - Bob Echler
+    - Bob Lazar
+    - Bobby Ray Inman
+    - Booz Allen Hamilton
+    - Brilliant Buzzard
+    - Brookhaven National Laboratory
+    - Brookhaven National Labs
+    - Business Development
+    - By March
+    - Campus Drive
+    - Catherine Austin
+    - Catherine Austin Fitts
+    - Catherine Austin Fitz
+    - Center Lane
+    - Central Intelligence
+    - Chant Till
+    - Chief Science Officer
+    - Chief Scientist
+    - China Lake
+    - Chita Lake
+    - Chris Sharp
+    - Colonel John
+    - Colonel Philip
+    - Colonel Steve Wilson
+    - Commander Miller
+    - Commander Miller Within
+    - Congressman Rubio
+    - Corporate Development
+    - Corporate Portfolio Program
+    - Corporation An
+    - Countermeasures Center
+    - Counterterrorism Technology
+    - Crystal City
+    - Danny Jones
+    - Dark Journalist
+    - David Grush
+    - David Key
+    - Decision Science Applications
+    - Defense Advanced Systems
+    - Defense Contractors
+    - Defense Department
+    - Defense Nuclear Agency
+    - Dennis Cravens
+    - Deputy Director
+    - Deputy Director John
+    - Deputy Secretary
+    - Deputy Undersecretary
+    - Deutch Kaminsky
+    - Development Center
+    - Development Services
+    - Development Solutions
+    - Dick Cheney
+    - Dollar According
+    - Don Kerr
+    - Donald Kerr
+    - Dr. Craven
+    - Dr. Eric Davis
+    - Dr. James Wells
+    - Dr. John
+    - Dr. Kirkpatrick
+    - Dr. Nick
+    - Dr. Paul Sizz
+    - Dr. Richard Boylan
+    - Dr. Sean Kirkpatrick
+    - Dr. Sizz
+    - Duke University
+    - Ed Moultrie
+    - Edgar Mitchell These
+    - Electric Propulsion Study
+    - Electronic Intelligence The
+    - Ellen Lord In
+    - Emergent Information Technologies
+    - Engagement Division
+    - Eric Davis
+    - Evaluation Center
+    - Evaluation Group
+    - Evaluation Panel
+    - Execute Locust
+    - Expeditionary Systems Division
+    - Explosive Technology Research
+    - Federal Acquisition Regulation
+    - Federally Funded Research
+    - Ferris Williams
+    - Financial Analyst Community
+    - Foreign Technology Division
+    - Fort Meade
+    - Fort Wachuka
+    - General Accounting Office
+    - General Atomic Scientist
+    - General Atomics
+    - General Dynamics
+    - General Michael Ward
+    - George Knapp
+    - Global Access
+    - Global Access Excellent
+    - Global Solutions
+    - Gondola Wish
+    - Gordon Uller
+    - Government Services Inc
+    - Green Berets
+    - Greer Inc
+    - Grille Flame
+    - Grum Lake
+    - Grumman Corporation
+    - Gulfo San Matias
+    - Hal Putoff
+    - Hans Kamler
+    - Harold Edgerton
+    - Harris But
+    - Hermann Oberth
+    - Hidden Neuro In
+    - Honorable John Deutch
+    - Hudson Valley
+    - If Alien Science
+    - Imentum Corporation
+    - Immaculate Constellation
+    - In December
+    - In July
+    - Inspector General
+    - Intelligence Group And
+    - Intelligence Support Activity
+    - International Contractor Program
+    - International Oki Shannon
+    - Jake Barber
+    - James Bamford
+    - James Defense Weekly
+    - James Wells
+    - Jasper Welch
+    - Jesse Michael
+    - Jesse Michaels
+    - Jet Propulsion Laboratory
+    - John Deutch
+    - John Doichu
+    - Joint Chiefs
+    - Joseph Jones
+    - Kerr Kerr
+    - Kevin Randall But
+    - Kona Blue
+    - La Jolla
+    - Lawrence Livermore Labs
+    - Lee Road
+    - Legacy Program
+    - Legacy Program Operations
+    - Leonard Stringfield
+    - Livermore Laboratories
+    - Lockheed And
+    - Lockheed Martin
+    - Lockheed Morton
+    - Long Island
+    - Los Alamos
+    - Lou Elizondo
+    - Lynn Wells
+    - Magenta Italy
+    - Magnetic Field Disruptor
+    - Management Institution
+    - Maneuver Engagement
+    - Maneuver Surveillance
+    - Maritius Bay
+    - Martin Marietta
+    - Massachusetts Institute
+    - Matt Brown
+    - Matthew Brown
+    - Meiter Corporation
+    - Michael Herrera
+    - Miller Miller
+    - Mr. Hines
+    - Mr. Senator
+    - Mr. Stuart Stanley
+    - National Biodefense Analysis
+    - National Defense Research
+    - National Intelligence
+    - National Security Agency
+    - National Security Council
+    - National Security State
+    - Nav Air
+    - Naval Analysis
+    - Naval Intelligence
+    - Naval Research
+    - Naval Weapons Facilities
+    - Navy Admiral William
+    - Nevada Test
+    - Nevada The
+    - New Mexico
+    - New York
+    - Newit Keyport
+    - Newport News Shipbuilding
+    - Northrop Grumman
+    - Oak Ridge
+    - Off World Technologies
+    - Oki Shannon
+    - Operation Paperclip
+    - Operation Paperclip Transfer
+    - Operation Sand
+    - Parsons Infrastructure
+    - Patrick Hugh
+    - Patuxent River
+    - Paul Kaminsky
+    - Paul Sizz
+    - Phillips Lab
+    - Premier Navy Lab
+    - President Bush
+    - President Jimmy Carter
+    - Project Aquarius
+    - Project Blue Book
+    - Project Brilliant Buzzard
+    - Project Outgrowth
+    - Project Pounce
+    - Project Report
+    - Project Stargate
+    - Project Stork
+    - Rand Corporation
+    - Randy Aitterson
+    - Randy Anderson
+    - Research Development Test
+    - Richard Boylan
+    - Richard Dole
+    - Robert Baster
+    - Robertson Panel
+    - Ronald Moultrie
+    - Ronald Reagan
+    - Saddam Hussein
+    - Salier Report
+    - San Diego
+    - Sand Corp
+    - Sandia National Laboratories
+    - Sandia National Labs
+    - Satellite Signals Intelligence
+    - Sean Kirkpatrick
+    - Secure Facility
+    - Security Command
+    - Sedgemasters Richard Dolan
+    - Senator Gillibrand
+    - Senator Joe Donnelly
+    - Senator Rubio
+    - Senator Warren
+    - Senior Review Group
+    - Signals Intelligence
+    - Skeetor Holdings
+    - Special Access Program
+    - Special Capabilities Branch
+    - Special Forces Unit
+    - Special Operations Command
+    - Special Projects Office
+    - Special Security Squadron
+    - Special Warfare
+    - Staff Outside
+    - Star Wars
+    - Star Wars City
+    - Stephen Greer
+    - Stephen Myers
+    - Strategic Defense Initiative
+    - Strategic Planning
+    - Stuart Stanley
+    - Suffolk County
+    - Surveillance Systems Division
+    - Swamp Gas Times
+    - Technical Services
+    - Technology Belonging
+    - Technology Conference
+    - Technology Group
+    - Teledyne Ryan
+    - Teleportation Physics Study
+    - Test Wing
+    - The Administrator
+    - The Brilliant Buzzard
+    - The Crane
+    - The Maneuver Surveillance
+    - The Polaris
+    - The Shadow Factory
+    - The Silent War
+    - This Office
+    - Thomas Wilson
+    - Tim Shorok Skeetor
+    - Training Range
+    - Triad National Security
+    - Tucker Carlson
+    - Under Kirkpatrick
+    - Under Secretary
+    - United States
+    - United States Government
+    - Unknown Origin
+    - Urban Development
+    - Vanity Fair
+    - Vice Admiral
+    - Vice Admiral Wilson
+    - Vice Director
+    - Virginia Similar
+    - Virtual Case File
+    - Von Braun
+    - Wall Street Journal
+    - Washington Shadow
+    - Weapon Systems Division
+    - Weapons Expert
+    - While Navy
+    - White Sands
+    - William Binney
+    - William Perry
+    - Wilson Around
+    - Wilson Davis
+    - Wilson Davis Notes
+    - Woods Hole
+    - World Technologies
+    - World Technologies Division
+    - World War
+    - Wright Patterson
+    - Xavier Dorsch
+
+??? info "Places (14)"
+
+    - Area
+    - Base
+    - Based
+    - City
+    - County
+    - Edwards
+    - Italy
+    - Lake
+    - Magenta
+    - Mexico
+    - Nevada China Lake Naval
+    - Peruvian
+    - Texas
+    - Valley
+
+??? info "Organizations (68)"
+
+    - Advanced Research Project Agency
+    - Agency
+    - Air Force Base Technology
+    - Air Force Intelligence Colonel
+    - Air Force Material Command
+    - Air Force National Reconnaissance
+    - Air Force Operational Test
+    - Air Force Research Laboratory
+    - Air Force Rocket Propulsion
+    - Army
+    - Army Ballistic Missile Agency
+    - Army Green Beret Randy
+    - Army Inscom General Albert
+    - Army Public Affairs Officer
+    - Associates
+    - Battelle
+    - Battelle Memorial Institute These
+    - Bobby Ray Inman Navy
+    - Boeing
+    - California Air Force Base
+    - California Sandia National Labs
+    - Committee
+    - Committee Brigadier General Mike
+    - Corp
+    - Corporal
+    - Corporate
+    - Corporate Portfolio Program The
+    - Corporation
+    - Decision Science Applications Inc
+    - Defense Atomic Support Agency
+    - Defense Intelligence Agency Who
+    - Department
+    - Departments
+    - Edwards Air Force Base
+    - Financial
+    - Inc
+    - Indiana Nellis Air Force
+    - Institute
+    - Joint Special Operations Command
+    - Joint Special Operations Response
+    - Kirtland Air Force Base
+    - Laboratories
+    - Labs
+    - Lance Corporal Jonathan Wagan
+    - Lawrence Livermore National Labs
+    - Lockheed
+    - Lockheed Martin Information Systems
+    - Lockheed Martin Services Inc
+    - Los Alamos National Labs
+    - National Underwater Reconnaissance Office
+    - Navy
+    - Nellis Air Force Base
+    - Northrop
+    - Northrop Grumman Lockheed Martin
+    - Office
+    - Officer
+    - Organization Special Forces Unit
+    - Patterson Air Force Base
+    - Savannah River National Labs
+    - Science Applications International Corporation
+    - Senate Armed Services Committee
+    - Since
+    - Special
+    - Special Access Program Oversight
+    - The Corporate Portfolio Program
+    - The Special Capabilities Branch
+    - University
+    - Woods Hole Oceanographic Institute
+
 **Download transcripts:** [SRT](../videos/9p99lTsC7wQ-ufo-legacy-programs---science-applications-international-corporation-saic/transcript.srt) · [VTT](../videos/9p99lTsC7wQ-ufo-legacy-programs---science-applications-international-corporation-saic/transcript.vtt) · [JSON](../videos/9p99lTsC7wQ-ufo-legacy-programs---science-applications-international-corporation-saic/transcript.json) · [TSV](../videos/9p99lTsC7wQ-ufo-legacy-programs---science-applications-international-corporation-saic/transcript.tsv)
+
+---
+
+← Newer: [The 1948 Aztec, New Mexico UFO Crash Retrieval](video-pages/QJxbyu-9Tj0.md) · Older: [1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt](video-pages/7Jc2G5aEH0A.md) →
 
 ## Comments
 

@@ -300,7 +300,92 @@ title: The Origin of the UFO Stigma
     Bye.
     
 
+## Entities
+
+??? info "People (57)"
+
+    - Air Force
+    - Air Force Harold
+    - Air Force Intelligence
+    - Allen Heineck
+    - American Activities Committee
+    - American Association
+    - American Institute
+    - Astrophysicist Dr
+    - Atomic Energy Commission
+    - Blue Book
+    - Both Heineck
+    - Captain Edward
+    - Colonel Donald
+    - Colorado Boulder
+    - Condon Committee
+    - Condon Report
+    - Congressman Gerald Ford
+    - Development Board
+    - Dr. Condon
+    - Dr. Heineck
+    - Edward Condon
+    - Former President
+    - General George Shlugen
+    - General Hoyt Vandenberg
+    - General Nathan Twinning
+    - General Ramey
+    - Gerb Show
+    - Goose Bay
+    - House Un
+    - In December
+    - Jesse Marcell
+    - Kenneth Arnold
+    - Lieutenant General Twinning
+    - Major Dewey
+    - Major Donald Keyhoe
+    - Major Hector Quintanilla
+    - National Academy
+    - Navy Research
+    - On July
+    - Operations Roger
+    - President Obama
+    - Project Blue Book
+    - Project Grudge
+    - Project Sign
+    - Project Sine
+    - Robert Lowe
+    - Robertson Panel
+    - Scientific Advisory Group
+    - Sign Project Saucer
+    - Southern California
+    - Special Investigations
+    - Tell Memorial Institute
+    - The Condon Report
+    - The Robertson
+    - United Nations
+    - United States
+    - Washington National Airport
+
+??? info "Places (2)"
+
+    - Lake
+    - Texas
+
+??? info "Organizations (11)"
+
+    - Academy
+    - Army
+    - Association
+    - Committee
+    - House Armed Services Committee
+    - Institute
+    - Navy
+    - Office
+    - Special
+    - United States Air Force
+    - University
+
 **Download transcripts:** [SRT](../videos/xKArN8S9bnM-the-origin-of-the-ufo-stigma/transcript.srt) · [VTT](../videos/xKArN8S9bnM-the-origin-of-the-ufo-stigma/transcript.vtt) · [JSON](../videos/xKArN8S9bnM-the-origin-of-the-ufo-stigma/transcript.json) · [TSV](../videos/xKArN8S9bnM-the-origin-of-the-ufo-stigma/transcript.tsv)
+
+---
+
+← Newer: [Incredible UFO Footage - METAPOD](video-pages/i6fitvV-aO0.md) · Older: [Incredible UFO Footage - FLYBY](video-pages/qD1KnudMCO0.md) →
 
 ## Comments
 

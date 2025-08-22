@@ -1571,7 +1571,208 @@ title: 'Post UAP Hearing Live Stream: Time in DC, Immaculate Constellation, & Mo
     and I will be covering the soul show so thanks guys thanks everybody let me hit end
     
 
+## Entities
+
+??? info "People (165)"
+
+    - Admiral Wilson
+    - Air Force
+    - Alien Reproduction Vehicle
+    - Ancient Aliens
+    - And Chris Sharp
+    - And Leslie Kane
+    - And Matt Gaetz
+    - Atlantic Ocean
+    - Avi Loeb
+    - Aviation Week
+    - Beyond Paradigm
+    - Bigelow Aerospace
+    - Bill Hamilton
+    - Bill Scott
+    - Bob Lazar
+    - Bob Lazarus
+    - Bobby Ray Inman
+    - Brad Sorensen
+    - Brad Swarinson
+    - Brett Higgins
+    - But James Fox
+    - But Leslie Kane
+    - Capitol Ave
+    - Capitol Hill
+    - Carl Nell
+    - Chet St
+    - Chris Bledsoe
+    - Chris Mellon
+    - Chris Sharp
+    - Chris Sharpe
+    - Cold War
+    - Counterintelligence Field Activity
+    - Dan Farah
+    - Danny Sheehan
+    - David Grush
+    - Democrats Republicans
+    - Deputy Director
+    - Diana Posolka
+    - Did Kirk Patrick
+    - Donald Trump
+    - Douglas Dean Johnson
+    - Ed May
+    - Edgar Fouchet
+    - Elon Musk
+    - Eric Davis
+    - Especially House
+    - Event Horizon
+    - Fat Rodents
+    - Federal Regulations
+    - Forest Hall
+    - Gary Nolan
+    - George Jeremy Corbell
+    - Global Access
+    - Global Acts
+    - Good Trouble
+    - Government Efficiency
+    - Great Depression
+    - Green Beret
+    - Green Street
+    - Harold Malmgren
+    - Herman Oberth
+    - If Sean Kirkpatrick
+    - Immaculate Constellation
+    - Immaculate Constellation Report
+    - James Clapper
+    - James Fox
+    - Japan Airlines
+    - Jay Stratton
+    - Jeremy Corbell
+    - Jeremy Cordell
+    - Jeremy Kenyon
+    - Jesse Amar
+    - Jesse Michael
+    - Jesse Michaels
+    - Jim Chu
+    - Jim Montell
+    - Jimmy Shoe
+    - Jiu Jitsu
+    - Joe Rogan
+    - John Jones
+    - John Mack
+    - John Michael Godier
+    - John Ramirez
+    - Jonathan Wagan
+    - Jordan Peele
+    - Katharine Austin Fitz
+    - Kevin Knuth
+    - Kirk Patrick
+    - Leslie Kane
+    - Lester Nair
+    - Like Burlton
+    - Little Marco
+    - Lockheed Martin
+    - Los Alamos
+    - Lou Elizondo
+    - Magenta Crash
+    - Magnetic Constellation
+    - Marco Rubio
+    - Max Farr
+    - Measurement Intelligence
+    - Michael Gold
+    - Mountain Dew
+    - Mountain Dews
+    - Nancy Mace
+    - Nancy May
+    - National Air
+    - National Archives
+    - Naval Research
+    - New York Times
+    - Oak Shane
+    - Oak Shannon
+    - Pacific Ocean
+    - Paradigm Institute
+    - Possibly State Department
+    - Probably Burleson
+    - Project Gravitar
+    - Project Stargate
+    - Rama Swamy
+    - Representative Burleson
+    - Representative Rounds
+    - Reproduction Vehicle
+    - Reproduction Vehicles
+    - Rhett Burlton
+    - Rhett Burrelson
+    - Rizwan Burke
+    - Robert Salas
+    - Ross Goldhart
+    - Ryan Graves
+    - San Diego Sphere
+    - Second World War
+    - Senator Rounds
+    - Sheldon Berger
+    - Signals Intelligence
+    - So Area
+    - So Burrelson
+    - So Immaculate Constellation
+    - So Jeremy
+    - So Juan
+    - So Lester Nair
+    - So Lou
+    - So Mace
+    - So Nell
+    - So Shardful
+    - So Siwan
+    - So William
+    - Soviet Union
+    - Space Museum
+    - Space Technology
+    - Spy Museum
+    - State Public Affairs
+    - Stephen Digna
+    - Stephen Greer
+    - Steven Lufkin
+    - Susan Goh
+    - Tim Gallaudet
+    - Tim Taylor
+    - Timothy Gallaudet
+    - United States
+    - Wag Boss
+    - Whenever Fox Motor
+    - Wilson Davis
+    - Witness Ed
+    - Wittness Ed
+    - Wood Soul Ocean
+    - Yes Theory
+
+??? info "Places (6)"
+
+    - Area
+    - Base
+    - Edwards
+    - Magenta
+    - Mountain
+    - Peru
+
+??? info "Organizations (15)"
+
+    - Air Force Blue Book
+    - Army
+    - Department
+    - Edwards Air Force Base
+    - Especially
+    - Inroads
+    - Institute
+    - James Forest Hall Department
+    - Labs
+    - Lockheed
+    - Lockheed Martin Drys Immersible
+    - Los Alamos National Labs
+    - Navy
+    - Northern Air Force Base
+    - Office
+
 **Download transcripts:** [SRT](../videos/t9cLswYmWzU-post-uap-hearing-live-stream-time-in-dc-immaculate-constellation-more/transcript.srt) · [VTT](../videos/t9cLswYmWzU-post-uap-hearing-live-stream-time-in-dc-immaculate-constellation-more/transcript.vtt) · [JSON](../videos/t9cLswYmWzU-post-uap-hearing-live-stream-time-in-dc-immaculate-constellation-more/transcript.json) · [TSV](../videos/t9cLswYmWzU-post-uap-hearing-live-stream-time-in-dc-immaculate-constellation-more/transcript.tsv)
+
+---
+
+← Newer: [Alien Reproduction Vehicle - TR-3B and the Flying Triangles](video-pages/B7JP0uX0GwY.md) · Older: [Alien Reproduction Vehicle - the Testimony of Mark McCandlish](video-pages/wF07QMm6joE.md) →
 
 ## Comments
 

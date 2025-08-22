@@ -1493,7 +1493,263 @@ title: UFO Legacy Programs - Northrop Grumman
     later everybody thanks
     
 
+## Entities
+
+??? info "People (185)"
+
+    - Admiral Thomas Wilson
+    - Aerospace Corporation
+    - Aerospace Vehicles
+    - Air Force
+    - Air Force Base
+    - Air Force Plant
+    - Alien Replicated Vehicle
+    - Alien Reproduction Vehicle
+    - Alien Science
+    - Analyzing Army
+    - And Hamilton
+    - Antelope Valley
+    - Armed Services Committee
+    - Army Colonel
+    - Army Corps
+    - Army Foreign Service
+    - Army Futures Command
+    - Arnold House
+    - Arnold Howe
+    - Aviation Week
+    - Battelle Memorial Institute
+    - Bell Labs
+    - Bill Clinton
+    - Bill Scott
+    - Black Berets
+    - Bob Eschler
+    - Bob Lazar
+    - Bobby Ray Inman
+    - Boeing Aerospace Company
+    - Brad Sorensen
+    - Brad Sorenson Fluxliner
+    - Braddock Dunn
+    - Carl Nell
+    - Catherine Austin Fitz
+    - Cheyenne Mountain Complex
+    - Chris Sharp
+    - Cold War
+    - Colonel Steve Wilson
+    - Colonel Wilson
+    - Colorado Springs
+    - Command Control
+    - Command Representative
+    - Commander Will Miller
+    - Cosmic Top Secret
+    - Could Northrop Grumman
+    - Counter Intelligence Corps
+    - Crane Naval
+    - Dan Marcus
+    - Data Processing
+    - David Grush
+    - Defense Colossus
+    - Defense Corporation
+    - Defense Intelligence Agency
+    - Delta Force
+    - Design Center
+    - Dr. Boylan
+    - Dr. Eric Davis
+    - Dr. Eric Walker
+    - Dr. Richard Boylan
+    - Dr. Richard Sodder
+    - Dr. Robert Sarbacher
+    - Dr. Sodder
+    - Dugway Proving Grounds
+    - Earth Northrop
+    - Edgar Fouchet
+    - Edgar Fuchet
+    - Edwards Area
+    - Eric Davis
+    - Eric Walker
+    - Ford Aerospace
+    - Foreign Technology Division
+    - Fort Belbois
+    - Fort Bliss
+    - Fort Detrick
+    - Fred Baker
+    - General Curtis
+    - General Douglas
+    - General Electric
+    - George Bush
+    - Glenn Gaffney
+    - Global Access
+    - Great Pumpkin Disk
+    - Henry Kissinger
+    - In Nick Cook
+    - Intelligence Collection
+    - Intelligence Support Activity
+    - Jack Northrop
+    - Jake Barber
+    - Jake Barber Dr
+    - Kevin Randall
+    - Legacy Recovery
+    - Leonard Stringfield
+    - Lieutenant Colonel
+    - Lieutenant Colonel Corsa
+    - Lieutenant Colonel Corso
+    - Lieutenant Colonel Ed
+    - Lieutenant Colonel Philip
+    - Livermore Labs
+    - Lockheed Boeing
+    - Lockheed Martin
+    - Lockheed Skunkworks Division
+    - Lou Elizondo
+    - Martin Marietta
+    - Michael Schrap
+    - Michael Schrat
+    - Mikhail Gorbachev
+    - Mount Rushmore
+    - National Committee
+    - National Security Agency
+    - National Security Council
+    - Naval Intelligence Area
+    - Nevada Test
+    - New Mexico
+    - Northrop Advanced Technology
+    - Northrop Aerospace
+    - Northrop Company
+    - Northrop Corporation
+    - Northrop Grumman
+    - Northrop Northair
+    - Oak Ridge
+    - Papouse Lake
+    - Paramount Aerospace Corporation
+    - Penn State
+    - Perhaps House
+    - Phil Pentagon
+    - Premier Electronics Manufacturer
+    - Project Aquarius
+    - Project Pounce
+    - Project Red Light
+    - Project Zodiac
+    - Red Light
+    - Richard Boylan
+    - Richard Dolan
+    - Richard Sodder
+    - Robert Sarbacher
+    - Robertson Panel
+    - Robertson Panel Report
+    - Ronald Reagan
+    - Section Facility
+    - Sedge Masters
+    - Senate Intelligence
+    - Senior Review Group
+    - Show Fluxliner
+    - Sikorsky Raider
+    - Some Area
+    - Space Counterintelligence Headquarters
+    - Space Technology
+    - Sparey Rand
+    - Special Forces
+    - Special Forces Unit
+    - Sperry Rand
+    - Spirit Bomber
+    - Star Wars City
+    - Stephen Greer
+    - Steve Wilson
+    - Steven Greer
+    - Strategic Defense Initiative
+    - Sumner Shapiro
+    - Super Sentinel
+    - Systems Engineering
+    - Task Force
+    - Teledyne Ryan
+    - Test Group
+    - The Aerospace Corporation
+    - The Black Budget
+    - The Colonel
+    - The Hunt
+    - The Northrop
+    - Training Range
+    - Tuhachibi Triangle
+    - Tujachepe Mountains
+    - Tunneling Technology
+    - Tyson Corner
+    - Underground Bases
+    - United States
+    - Urban Development
+    - Vannefar Bush
+    - Warfare Center
+    - West Coast American
+    - When Teledyne Ryan
+    - William Hamilton
+    - Wilson Davis
+    - Wilson Davis Memo
+    - With Northrop
+    - Zero Point
+
+??? info "Places (17)"
+
+    - Area
+    - Arizona
+    - Base
+    - Bases
+    - Capacity
+    - City
+    - Edwards
+    - Kecksburg
+    - Lake
+    - Mexico
+    - Mount
+    - Mountain
+    - Mountains
+    - Paramount
+    - Pennsylvania
+    - Texas
+    - Valley
+
+??? info "Organizations (39)"
+
+    - Agency
+    - Air Force Test Center
+    - Army
+    - Army Criminal Investigation Division
+    - Army Foreign Material Program
+    - Battelle
+    - Boeing
+    - Catherine Austin Fitz University
+    - Committee
+    - Company
+    - Corporation
+    - Corps
+    - Decision Science Applications Inc
+    - Department
+    - Edwards Air Force Base
+    - Eglin Air Force Base
+    - First Special Forces Air
+    - Grumman Aircraft Engineering Company
+    - Holloman Air Force Base
+    - Inc
+    - Institute
+    - Joint Special Operations Command
+    - Laboratories
+    - Labs
+    - Lockheed
+    - Los Alamos National Laboratories
+    - March Air Force Base
+    - National Geospatial Intelligence Agency
+    - Navy
+    - Nellis Air Force Base
+    - Northrop
+    - Norton Air Force Base
+    - Office
+    - Patterson Air Force Base
+    - Science Applications International Corporation
+    - Special
+    - University
+    - University Affiliated Research Center
+    - Vandenberg Air Force Base
+
 **Download transcripts:** [SRT](../videos/E-GleS2aGj0-ufo-legacy-programs---northrop-grumman/transcript.srt) · [VTT](../videos/E-GleS2aGj0-ufo-legacy-programs---northrop-grumman/transcript.vtt) · [JSON](../videos/E-GleS2aGj0-ufo-legacy-programs---northrop-grumman/transcript.json) · [TSV](../videos/E-GleS2aGj0-ufo-legacy-programs---northrop-grumman/transcript.tsv)
+
+---
+
+← Newer: [Dugway Proving Ground - UFO Legacy Programs](video-pages/rePrVmR6a68.md) · Older: [Philip J. Corso - US Army UFO Technology Research & Development](video-pages/_sv0Otxtcn4.md) →
 
 ## Comments
 

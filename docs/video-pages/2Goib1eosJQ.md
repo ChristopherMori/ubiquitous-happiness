@@ -13,6 +13,10 @@ title: UAP Gerb Live Stream
 ## Transcript
 > _Transcript coming soon (pending local Whisper run)._
 
+---
+
+← Newer: [Live with Joey](video-pages/azC7-UBRBSw.md) · Older: ["US Special Forces Confession - I Recovered Crashed UFOs": Fact or Fiction?](video-pages/DcvuglS7ps4.md) →
+
 ## Comments
 
 <script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

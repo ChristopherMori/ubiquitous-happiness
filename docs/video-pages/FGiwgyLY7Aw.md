@@ -314,7 +314,95 @@ title: The 1933 Magenta, Italy UFO Crash
     Hope you enjoyed this video and I will catch everybody next time. Thank you.
     
 
+## Entities
+
+??? info "People (61)"
+
+    - Agenzi Stefani
+    - Agenzia Stefani
+    - Air Force
+    - Air Force Base
+    - Air Marshal Balbo
+    - And Italy
+    - Antonio Garavaglia
+    - Appoint Special Section
+    - Arrigo Petaccio
+    - Arrow Report
+    - Barrera Astronomical Observatory
+    - Benito Mussolini
+    - Blue Book
+    - Catholic Church
+    - Central Meteorological Office
+    - Christopher Sharp
+    - Confidential Report
+    - Daily Mail
+    - David Grush
+    - Eta Ciano
+    - Foreign Minister Ciano
+    - Gaminetto Ricciare
+    - Gino Saccini
+    - Guglielmo Marconi
+    - In June
+    - Invisible Ruler
+    - Italian Gestapo
+    - Italian Reddit
+    - Kingdom Senate
+    - La Sapienza University
+    - La Stella Mario
+    - Lieutenant Jacobs
+    - Lou Elizondo
+    - Lui Elizondo
+    - Marchetti Aircraft Company
+    - Maybe Brazil
+    - Mount Serrate
+    - News Nation
+    - Nobel Prize
+    - Operation Auxay
+    - Operation Sunrise
+    - Paulo Guisardi
+    - Pontifical University
+    - Pope Pius
+    - Project Blue Book
+    - Roberto Pinotti
+    - Ross Colthart
+    - Salo Secret Service
+    - Second World War
+    - South American
+    - Strategic Services
+    - The Duce
+    - The Pope
+    - Tommaso David
+    - Tricetta Magenta Road
+    - United States
+    - Virgiate Varese
+    - Volpi Argentante
+    - William Brophy
+    - Witted Encounter
+    - World War
+
+??? info "Places (4)"
+
+    - Base
+    - Italy
+    - Magenta
+    - Mount
+
+??? info "Organizations (8)"
+
+    - Ciano
+    - Company
+    - Magician
+    - Marchetti Aeronautical Manufacturing Company
+    - Office
+    - Ricciare
+    - Special
+    - University
+
 **Download transcripts:** [SRT](../videos/FGiwgyLY7Aw-the-1933-magenta-italy-ufo-crash/transcript.srt) · [VTT](../videos/FGiwgyLY7Aw-the-1933-magenta-italy-ufo-crash/transcript.vtt) · [JSON](../videos/FGiwgyLY7Aw-the-1933-magenta-italy-ufo-crash/transcript.json) · [TSV](../videos/FGiwgyLY7Aw-the-1933-magenta-italy-ufo-crash/transcript.tsv)
+
+---
+
+← Newer: [Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)](video-pages/6DyTfIV87Ck.md) · Older: [The Physics of UFOs– Dr. Kevin Knuth](video-pages/inyw4Vfu7Z0.md) →
 
 ## Comments
 

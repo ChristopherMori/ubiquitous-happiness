@@ -402,7 +402,119 @@ title: The 1950s Del Rio, Texas UFO Crashes
     I will catch everybody on the next show.
     
 
+## Entities
+
+??? info "People (78)"
+
+    - Aerial Phenomenon
+    - Air Force
+    - Air Force Reserve
+    - Air Force Reserves
+    - And Kirtland
+    - Arthur Stansel
+    - Atomic Energy Commission
+    - Battelle Memorial Institute
+    - But Sandia Labs
+    - Captain Ladi Marin
+    - Ciudad Acuna
+    - Civil Air Patrol
+    - Cold War
+    - Condon Report
+    - Corsicana Airfield
+    - Del Rio
+    - Dennis Stacey
+    - Dr. Ed Dahl
+    - Dr. Eric Davis
+    - Ed Dahl
+    - Edgar Hoover
+    - Eisenhower Briefing
+    - El Indio
+    - Eric Davis
+    - Eric Wang
+    - Erronka Champion
+    - Fort Worth
+    - General Raimi
+    - George Knapp
+    - George Smithson
+    - Guy Hoddle
+    - In June
+    - Jack Perkins
+    - Jeff Rents
+    - Kevin Randall
+    - Leonard Stringfield
+    - Lieutenant Martinez
+    - Lockheed Martin
+    - Major Charles Scarborough
+    - Master Sergeant Edgar
+    - Metallic Fragment
+    - Metallurgy Lab
+    - Mexico City
+    - National Investigations Committee
+    - New Mexico
+    - New York
+    - Noah Torres
+    - Northeast Air Command
+    - Northwestern United States
+    - Omni Magazine
+    - On May
+    - One General
+    - Pilot Scarborough
+    - Pitas Negras
+    - President Truman
+    - Project Moondust
+    - Researcher Todd Zechel
+    - Rio Grande
+    - Ruben Uriarte
+    - San Angelo
+    - San Antonio
+    - Sandia Labs
+    - Security Services
+    - Stanton Freeman
+    - Stephen Greer
+    - Texas Border
+    - The Colonel
+    - The Condon Report
+    - The Langstree
+    - The Other Roswell
+    - Throughout American
+    - Todd Zechel
+    - Unidentified Flying Object
+    - While Willingham
+    - William Drager
+    - Willie Eddy
+    - Wilson Davis
+    - World War
+
+??? info "Places (6)"
+
+    - Base
+    - City
+    - Kingman
+    - Mexico
+    - Pennsylvania
+    - Texas
+
+??? info "Organizations (13)"
+
+    - Air Force Unidentified Craft
+    - Appreciate
+    - Army
+    - Battelle
+    - Carl Nell Soul Foundation
+    - Carzwell Air Force Base
+    - Committee
+    - Foundation
+    - Institute
+    - Kirtland Air Force Base
+    - Labs
+    - Lockheed
+    - The American Air Force
+
 **Download transcripts:** [SRT](../videos/8S9qdRWSnD8-the-1950s-del-rio-texas-ufo-crashes/transcript.srt) · [VTT](../videos/8S9qdRWSnD8-the-1950s-del-rio-texas-ufo-crashes/transcript.vtt) · [JSON](../videos/8S9qdRWSnD8-the-1950s-del-rio-texas-ufo-crashes/transcript.json) · [TSV](../videos/8S9qdRWSnD8-the-1950s-del-rio-texas-ufo-crashes/transcript.tsv)
+
+---
+
+← Newer: [UFO Whistleblowers [Vol.2]](video-pages/9Xk4X41yl2M.md) · Older: [UFO Whistleblowers [Vol.1]](video-pages/EKEZ2BClIb0.md) →
 
 ## Comments
 

@@ -2124,7 +2124,273 @@ title: 9/1/24 Discussing WD Memo, 2004 JSOC Case and Q&A
     and stream
     
 
+## Entities
+
+??? info "People (233)"
+
+    - Absolutely Please
+    - Absolutely Um
+    - Admiral Thomas Wilson
+    - Admiral Wilson
+    - Advanced Technology Center
+    - Air Force
+    - Air Force Regulation
+    - Alan Dolos
+    - Alexander If
+    - Alien Reproduction Vehicle
+    - And Bigelow
+    - And James Rigney
+    - And Joe
+    - Atomic Energy Act
+    - Awesome And
+    - Banevard Bush
+    - Barty Hill
+    - Ben Rich
+    - Bigelow Aerospace
+    - Bill Moore
+    - Black Mirror
+    - Black Ops
+    - Blue Book
+    - Blue Book Archive
+    - Bob Lazar
+    - Bryce Zabel
+    - But Eric Davis
+    - Canadian Defense Minister
+    - Carl Wolfe
+    - Catalina Island
+    - Catherine Austin
+    - Chaco Martin
+    - Chase Williams
+    - Chris Bledsoe
+    - Chris Mellon
+    - Cold War
+    - Collins Elite
+    - Commander Will Miller
+    - Condon Report
+    - Cool The
+    - Corso Philip
+    - Crash Retrievals
+    - Cummins We
+    - Cutler Twining
+    - Czech Republic
+    - Danny Sheehan
+    - David Grush
+    - David Ike
+    - Defense Intelligence Agency
+    - Del Rio
+    - Dr Mitchell
+    - Dr. Banevard Bush
+    - Dr. Eric
+    - Dr. Jim Ryder
+    - Dr. Kit Green
+    - Dr. Lear
+    - Dr. Mack
+    - Dr. Michael Masters
+    - Dr. Robert Wood
+    - Dr. Stephen Greer
+    - Dr. Steven Greer
+    - Ed Mitchell
+    - Edgar Mitchell
+    - Edward Condon
+    - El Indio Guerrera
+    - Elizondo Sheehan
+    - Eric Davis
+    - Eric Mitchell
+    - Ernie Klein
+    - Fort Bliss
+    - George Knapp
+    - Gilbert Burns
+    - Grant Cameron
+    - Green Beret
+    - Green Street
+    - Green Wall
+    - Hans Kamler
+    - Hans Kemler
+    - If Lou
+    - If Taporio
+    - In John Stewart
+    - In Plain Sight
+    - Insiders Book Sentinels
+    - Jacques Valet
+    - James Forestall
+    - James Fox
+    - James Rigney
+    - Jangi Squint
+    - Jason Sands
+    - Jesse Michaels
+    - Jim Ryder
+    - Jim Shoe
+    - Jimmy Shoe
+    - Joe Rogan
+    - John Greenwald
+    - John Mack
+    - John Ramirez
+    - John Ramirez Reptilians
+    - John Stewart
+    - John Stuart
+    - Jon Stewart
+    - Kelly Cahill
+    - Kevin Knuth
+    - Kit Green
+    - Kona Blue
+    - Koyame Mexico
+    - Kurt Geimungal
+    - Las Vegas
+    - Leonard Stringfield
+    - Like Michael
+    - Lockheed Martin
+    - Loose Threads
+    - Lou Azzando
+    - Lou Elizondo
+    - Luke Shan
+    - Magic Eyes Only
+    - Mark Streik
+    - Max Barr
+    - Max Parr
+    - Maybe Let
+    - Men Who Stare
+    - Michael Herrera
+    - Michael Masters
+    - Michael Schrat
+    - Michael Shrat
+    - Mike Baker
+    - Miller Miller
+    - Miss Hannah Floyd
+    - Mogul Flight
+    - Moondust Archive
+    - Mr. Ben
+    - Mr. Bledsoe
+    - Mr. Harry
+    - Mr. Interloper
+    - Mr. John
+    - Mr. Kermit
+    - Mr. Michael Herrera
+    - Mr. Michaels
+    - Mr. Robert Wood
+    - Mr. Ryan Wood
+    - Mrs. Floyd
+    - Mysterious Universe
+    - Nathan Twining
+    - Naval Air Facility
+    - Nell Mellon
+    - New Zealand
+    - News Nation
+    - Nick Redfern
+    - Nicole Sackatch
+    - Okay Love
+    - On Lockheed
+    - Operation Interloper
+    - Paulik So
+    - Pax River
+    - Phil Schneider
+    - Philip Corso
+    - Private Military Corporation
+    - Project Interloper
+    - Project Zodiac
+    - Rad Lab
+    - Ray Bosch
+    - Red Panic Wallace
+    - Remember James Rigney
+    - Remember Roswell
+    - Richard Dolan
+    - Richard Geldreich
+    - Richard Hall
+    - Rob Tanner
+    - Robert Bigelow
+    - Robert Hastings
+    - Robert Wood
+    - Rocky Mountains
+    - Ross Colhart
+    - Ross Colt Hart
+    - Ross Colthart
+    - Ryan Wood
+    - Salvador Pais
+    - Sean Brady
+    - Sean Ryan
+    - Sedge Masters
+    - Senator Gerald Ford
+    - Seoul Foundation
+    - Shardu Shardul
+    - Since Timothy Gallaudet
+    - Skoda Works
+    - So Davis
+    - So Dr
+    - So Eric Davis
+    - So James Rigney
+    - So Pina Davis
+    - So Self
+    - So Snapple
+    - So We
+    - Stanton Friedman
+    - Stephen Green Street
+    - Stephen Greer
+    - Steven Greer
+    - Steven Lovekin
+    - Take Greer
+    - That English
+    - The Cummins
+    - The Greer
+    - The Ivan
+    - The Nazca
+    - The Wilson Davis
+    - Thomas Wilson
+    - Tic Tac
+    - Tim Gallaudet
+    - Timothy Gallaudet
+    - Timothy Good
+    - Toby Milo
+    - Tom Bearden
+    - Top Secret
+    - Truman Forest Hall
+    - Uh Sorry That
+    - Um Anyone
+    - Um Are
+    - Um See
+    - Um These
+    - Unearthly Disclosure
+    - United States
+    - Usually Eric
+    - West Jeff
+    - White Hot Report
+    - Whitley Streber
+    - Wilson Davis
+    - Wilson Davis Mumble
+    - World Technologies Division
+    - World War
+    - Yes If
+    - Yes Uh
+    - Yuri Geller
+    - Zach Oh
+
+??? info "Places (6)"
+
+    - Kecksburg
+    - Kingman
+    - Magenta
+    - Mexico
+    - Mountains
+    - Texas
+
+??? info "Organizations (12)"
+
+    - Agency
+    - Battelle
+    - Cincinnati
+    - Corporation
+    - Foundation
+    - Incredible
+    - Insanely
+    - Lockheed
+    - Lockheed Martin Advanced Technology
+    - Navy
+    - Since
+    - The Lockheed Deer Creek
+
 **Download transcripts:** [SRT](../videos/ZFUneP18LVI-9124-discussing-wd-memo-2004-jsoc-case-and-qa/transcript.srt) · [VTT](../videos/ZFUneP18LVI-9124-discussing-wd-memo-2004-jsoc-case-and-qa/transcript.vtt) · [JSON](../videos/ZFUneP18LVI-9124-discussing-wd-memo-2004-jsoc-case-and-qa/transcript.json) · [TSV](../videos/ZFUneP18LVI-9124-discussing-wd-memo-2004-jsoc-case-and-qa/transcript.tsv)
+
+---
+
+← Newer: [9/8/24 Discussing Steven Greer London Live Event](video-pages/3iWLTyhdyf4.md) · Older: [The Majestic-12 Documents [With Ryan S. Wood]](video-pages/vzB87RJkQVU.md) →
 
 ## Comments
 

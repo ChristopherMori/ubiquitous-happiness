@@ -49,6 +49,10 @@ title: The Alien and UFO Obscure Oddities Iceberg (Level 2)
 
 **Download transcripts:** [SRT](../videos/9FL04mqyZxk-the-alien-and-ufo-obscure-oddities-iceberg-level-2/transcript.srt) · [VTT](../videos/9FL04mqyZxk-the-alien-and-ufo-obscure-oddities-iceberg-level-2/transcript.vtt) · [JSON](../videos/9FL04mqyZxk-the-alien-and-ufo-obscure-oddities-iceberg-level-2/transcript.json) · [TSV](../videos/9FL04mqyZxk-the-alien-and-ufo-obscure-oddities-iceberg-level-2/transcript.tsv)
 
+---
+
+← Newer: [The Marines Who Got too Close to UFOs](video-pages/HnxylCl68Tg.md) · Older: [The Alien and UFO Obscure Oddities Iceberg (Level 1)](video-pages/1en219Vk9K4.md) →
+
 ## Comments
 
 <script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

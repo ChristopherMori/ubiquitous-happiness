@@ -884,7 +884,239 @@ title: Alien Reproduction Vehicle - TR-3B and the Flying Triangles
     Bye.
     
 
+## Entities
+
+??? info "People (174)"
+
+    - Air Force
+    - Air Force Monthly
+    - Air Force Plant
+    - Albert Stubblebein
+    - Alien Rapture
+    - Alien Reproduction Vehicles
+    - Alien Scientist
+    - Although Arrow
+    - And Stubblebein
+    - Andrew Johnson
+    - Antelope Valley
+    - Applied Research Laboratory
+    - Armed Services Committee
+    - Army General
+    - Army Intelligence
+    - Aurora Pulsar
+    - Author Andrew Johnson
+    - Belgian Air Force
+    - Ben Rich
+    - Black Agent
+    - Black Program
+    - Blue Book
+    - Bosscom Down
+    - Brad Sorensen
+    - Brad Sorenson
+    - But Fouchet
+    - Center Detachment
+    - Chris Carter
+    - Chris Sharp
+    - Colin Saunders
+    - Colonel Donald Ware
+    - Congressional Hearing Record
+    - Croton Falls
+    - Croton Falls Reservoir
+    - Crown Prince
+    - Dan Benkert
+    - Dan Burish
+    - David Hamilton
+    - David Hilton
+    - Deep Throat
+    - Defense Contractor
+    - Diego Garcia
+    - Don Berliner
+    - Dr. Eric
+    - Dr. Eric Davis
+    - Dr. Koslowski
+    - Dr. Michael Wolfe
+    - Dr. Richard Boylan
+    - Dr. Robert Wood
+    - Dr. Stephen Greer
+    - Dugway Proving Grounds
+    - Edgar Albert Fouchet
+    - Edgar Fouchet
+    - Edgar Fuchet
+    - Edgar Rothschild Fouchet
+    - Edwards Witness
+    - Eiffel Tower
+    - Electronic Warfare Group
+    - Electronics Intelligence
+    - Eric Davis
+    - Eric Schrock
+    - Fake Documents
+    - Fort Benning
+    - Fort Wachuka
+    - Fox Network
+    - General Albert Stubblebein
+    - Grand Dom
+    - Groom Lake
+    - Groom Lake Area
+    - Hans Adams
+    - Hellendale Plan
+    - Hermann Oberth
+    - Hudson River Valley
+    - Hudson Valley
+    - Immaculate Constellation
+    - Immaculate Constellation Report
+    - In November
+    - In Ryan Wood
+    - Investigation Program
+    - James Goodall
+    - Jeremy Rice
+    - Jeremy Rise
+    - Jesse Michaels
+    - Jet Propulsion Laboratory
+    - Jim Cook
+    - John Joseph
+    - Kelly Johnson
+    - Kirby England
+    - Kirby England Sighting
+    - Lancer Bomber
+    - Las Vegas
+    - Lawrence Livermore
+    - Leave Nellis
+    - Leonard Stringfield
+    - Livermore Laboratories
+    - Livermore Labs
+    - Lockheed Martin
+    - Lockheed Martin Skunkworks
+    - Lockheed Pulsar
+    - Lockheed Skunkworks
+    - Los Alamos
+    - Magic Eyes Only
+    - Magnetic Field Disruptor
+    - Management Institution
+    - Master Sergeant
+    - Master Sergeant Fuchet
+    - Michael Schrat
+    - Michael Wolfe
+    - Mr. Fuchet
+    - Music Mulder
+    - Music Rumors
+    - National Reconnaissance Office
+    - National Security Agency
+    - National Security Council
+    - Nazi Bell
+    - Nazi Gold
+    - Nellis Range
+    - Nevada Test Site
+    - New Mexico
+    - New York
+    - Northrop Grumman
+    - Nuclear Emergency Search
+    - On November
+    - Operation Paperclip
+    - Outpost Forum
+    - Pacific Command
+    - Papouse Lake
+    - Penn State
+    - Project Blue Book
+    - Project Bluebeam
+    - Project Brilliant
+    - Project Red Light
+    - Project Redlight
+    - Rand Budd
+    - Richard Boylan
+    - Richard Geldreich
+    - Robert Scandrett
+    - Robert Wood
+    - Roswell Revisited
+    - Ryan Wood
+    - Sandia National Labs
+    - Sean Kirkpatrick
+    - Secret Machines
+    - Secret Program
+    - Secret Space Program
+    - Security Command
+    - Senate Intelligence
+    - Senior Trend
+    - Silver Dollar Saloon
+    - South Central Georgia
+    - Special Forces
+    - Special Operations Manual
+    - Spirit Bomber
+    - Star Trek
+    - Stated Aero
+    - Stephen Greer
+    - Steven Greer
+    - Strategic Defense Initiative
+    - Super Sentinel
+    - Tactical Reconnaissance
+    - Teha Chape
+    - Tehachapi Ranch
+    - Tehachapi Triangle
+    - Test School
+    - The Aurora
+    - The Belgian Triangle
+    - The Locust
+    - The Reagan
+    - Tom Bowers
+    - United Kingdom
+    - Von Braun
+    - Whistleblower Report
+    - Wilson Davis
+    - Within Aurora
+
+??? info "Places (7)"
+
+    - Area
+    - Base
+    - Edwards
+    - Kecksburg
+    - Lake
+    - Mexico
+    - Valley
+
+??? info "Organizations (36)"
+
+    - Advanced Project Research Agency
+    - Agency
+    - Air Force Flight Test
+    - Air Force Research Lab
+    - Army
+    - Army Ballistic Missile Agency
+    - Battelle
+    - Boeing
+    - Committee
+    - Corporal
+    - Corporation
+    - Crown Prince Hans Adams
+    - Department
+    - Edwards Air Force Base
+    - Fort Wachuka Army Intelligence
+    - Garcia
+    - Kirtland Air Force Base
+    - Laboratories
+    - Labs
+    - Lance Corporal Jonathan Wagan
+    - Lockheed
+    - Los Alamos National Labs
+    - Ministry
+    - National Geospatial Intelligence Agency
+    - National Underwater Reconnaissance Office
+    - Navy
+    - Northrop
+    - Norton Air Force Base
+    - Office
+    - Pensacola
+    - Prince
+    - Sandcorp
+    - Scott Air Force Base
+    - Special
+    - The Air Force Monthly
+    - Wright Patterson Air Force
+
 **Download transcripts:** [SRT](../videos/B7JP0uX0GwY-alien-reproduction-vehicle---tr-3b-and-the-flying-triangles/transcript.srt) · [VTT](../videos/B7JP0uX0GwY-alien-reproduction-vehicle---tr-3b-and-the-flying-triangles/transcript.vtt) · [JSON](../videos/B7JP0uX0GwY-alien-reproduction-vehicle---tr-3b-and-the-flying-triangles/transcript.json) · [TSV](../videos/B7JP0uX0GwY-alien-reproduction-vehicle---tr-3b-and-the-flying-triangles/transcript.tsv)
+
+---
+
+← Newer: [Philip J. Corso - US Army UFO Technology Research & Development](video-pages/_sv0Otxtcn4.md) · Older: [Post UAP Hearing Live Stream: Time in DC, Immaculate Constellation, & More](video-pages/t9cLswYmWzU.md) →
 
 ## Comments
 

@@ -50,6 +50,10 @@ title: UFOs and Nuclear Weapons - A Fascinating Connection
 
 **Download transcripts:** [SRT](../videos/-DK2u8HlhDE-ufos-and-nuclear-weapons---a-fascinating-connection/transcript.srt) · [VTT](../videos/-DK2u8HlhDE-ufos-and-nuclear-weapons---a-fascinating-connection/transcript.vtt) · [JSON](../videos/-DK2u8HlhDE-ufos-and-nuclear-weapons---a-fascinating-connection/transcript.json) · [TSV](../videos/-DK2u8HlhDE-ufos-and-nuclear-weapons---a-fascinating-connection/transcript.tsv)
 
+---
+
+← Newer: [Global Air Force UFO Encounters You've Probably Never Heard of](video-pages/6cVe-hdMTCE.md) · Older: [The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies](video-pages/hK24ZdkvwN4.md) →
+
 ## Comments
 
 <script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

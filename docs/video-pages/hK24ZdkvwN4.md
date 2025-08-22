@@ -36,6 +36,10 @@ title: The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies
 
 **Download transcripts:** [SRT](../videos/hK24ZdkvwN4-the-modern-day-ufo-disinformation-agent---dr-sean-kirkpatricks-lies/transcript.srt) · [VTT](../videos/hK24ZdkvwN4-the-modern-day-ufo-disinformation-agent---dr-sean-kirkpatricks-lies/transcript.vtt) · [JSON](../videos/hK24ZdkvwN4-the-modern-day-ufo-disinformation-agent---dr-sean-kirkpatricks-lies/transcript.json) · [TSV](../videos/hK24ZdkvwN4-the-modern-day-ufo-disinformation-agent---dr-sean-kirkpatricks-lies/transcript.tsv)
 
+---
+
+← Newer: [UFOs and Nuclear Weapons - A Fascinating Connection](video-pages/-DK2u8HlhDE.md) · Older: [MOON DUST - The Pentagon's Secret UFO Programs](video-pages/6ZuHLgVtKu8.md) →
+
 ## Comments
 
 <script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

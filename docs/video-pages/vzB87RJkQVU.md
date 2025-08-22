@@ -1021,7 +1021,264 @@ title: The Majestic-12 Documents [With Ryan S. Wood]
     you guys very much and i will catch you on the next video bye
     
 
+## Entities
+
+??? info "People (209)"
+
+    - Adjutant General
+    - Admiral Navy Intelligence
+    - Admiral Paul Lee
+    - Admiral Rosco
+    - After Blocked Epistemology
+    - Air Force
+    - Air Force Base
+    - Air Force Chief
+    - Air Force Office
+    - Alan Crary
+    - And Hoyt
+    - Anthony Bergoglia
+    - Army Colonel
+    - Army Director
+    - Atomic Energy Act
+    - Atomic Energy Commission
+    - Bermuda Biological Station
+    - Bermuda Institute
+    - Blocked Epistemology
+    - Blue Book
+    - Blue Fly
+    - Bob Cutler
+    - Bob Wood
+    - Boris Dmitry Tarasov
+    - Burnt Memo
+    - Camp Richie Maryland
+    - Cantwheel Cooper
+    - Captain Charles Buchanan
+    - Captain Lewis
+    - Captain Richard Glass
+    - Carl Hummelstein
+    - Carl Sagan
+    - Cash Landrum
+    - Caspian Sea
+    - Central Intelligence Bulletin
+    - Central Intelligence Group
+    - Chamberlain Assistant Chief
+    - Change Control
+    - Charles Ethan Ray
+    - Christopher Sharpe
+    - College Park
+    - Colonel John
+    - Colonel Robert Ginsberg
+    - Congress Manuscript Division
+    - Counterintelligence Group
+    - Cutler Twining Memo
+    - David Grush
+    - Dell Rio
+    - Detlef Bronk
+    - Detlev Bronk
+    - Development Board
+    - Dietliff Bronk
+    - Director Alan Dolis
+    - Director Hillencoder
+    - Don Berliner
+    - Don Menzel
+    - Don Quixote
+    - Donald Menzel
+    - Donald Menzel Memo
+    - Dr. Alan Crary
+    - Dr. Bob
+    - Dr. Bob Wood
+    - Dr. Detlev Bronk
+    - Dr. Donald Menzel
+    - Dr. Eric
+    - Dr. Eric Walker
+    - Dr. Robert Sarbacher
+    - Dr. Robert Wood
+    - Dr. Sarbacher
+    - Dr. Sarbakar
+    - Dr. Vannevar Bush
+    - Eisenhower Briefing
+    - Eisenhower Briefing Document
+    - El Indio
+    - Elect Eisenhower
+    - Eric Walker
+    - Eric Walker Dr
+    - Excellent Reddit
+    - Extraterrestrial Biological Entity
+    - Field Order
+    - First Director
+    - Flying Saucers
+    - Fort Mead
+    - Fort Meade
+    - Freedom Information Act
+    - General Curtis
+    - General Nathan Twining
+    - General Walter
+    - Groom Lake
+    - Harry Truman
+    - Herman Osberth
+    - If Blue Room
+    - In June
+    - Information Act
+    - Interplanetary Phenomenon Union
+    - Interplanetary Phenomenon Unit
+    - James Doolittle
+    - James Forrestal
+    - James Lay Jr
+    - James Webb
+    - Jamie Chandra
+    - Jan Aldrich
+    - Jesse Marcel Sr
+    - John Alexander
+    - Joint Intelligence Committee
+    - Joint Research
+    - Kenneth Arnold
+    - Koyama Mexico
+    - Lee Graham
+    - Lee Harvey Oswald
+    - Leonard Stringfield
+    - Leslie Groves
+    - Lieutenant Colonel
+    - Lieutenant General John
+    - Los Alamos
+    - Lou Elizondo
+    - Magic Eyes Only
+    - Manhattan Project
+    - Meritorious Service
+    - Mexico City
+    - Military Assessment
+    - Moondust Officer
+    - Mountain Standard Time
+    - Mr. Cantwheel
+    - Mr. Ryan
+    - Mr. Wood
+    - National Archives
+    - National Security Council
+    - Naval Operations
+    - New Mexico
+    - New York
+    - North Atlantic
+    - Ober Erself Germany
+    - Oceanic Platform
+    - Oceanic Sciences
+    - Onion Skin
+    - Operation Majestic
+    - Patterson Blue Room
+    - Patterson Field
+    - Perimeter Road
+    - President Biden
+    - President Harry Truman
+    - Professor Einstein
+    - Project Blue Book
+    - Project Grudge
+    - Project Majestic
+    - Project Moondust
+    - Project Paperclip
+    - Project Saucer
+    - Project Sign
+    - Project Sine
+    - Reality Check
+    - Red Cross
+    - Representative John
+    - Reuben Efron
+    - Richard Hall
+    - Rio Texas
+    - Robert Cutler
+    - Robert Ginsberg
+    - Robert Oppenheimer
+    - Robert Sarbacher
+    - Robert Sarbakar
+    - Robert Wood
+    - Ross Colthart
+    - Roswell Army
+    - Roswell Army Airfield
+    - Russian Soviet
+    - Ryan Wood
+    - San Leandro California
+    - Sandia National Labs
+    - Scientific Directorate
+    - Scientific Research
+    - Secdef James Forrestal
+    - Second Director
+    - Secretary Forrestal
+    - Senator Harry Goldwater
+    - So Hillencoder
+    - Soviet Union
+    - Special Investigations
+    - Special Operations Manual
+    - Special Studies Group
+    - Stan Friedman
+    - Stanton Freeman
+    - Stanton Friedman
+    - Tehran Iran
+    - The Burnt Memo
+    - The Majestic
+    - The Psalm
+    - The Roswell
+    - The Roswell Report
+    - Third Naval District
+    - Third Ryan
+    - Thomas Cantwell
+    - Thomas Cantwheel
+    - Thomas Lynch
+    - Tim Cooper
+    - Timothy Cooper
+    - Top Secret Magic
+    - Treasury Department
+    - Twining Vandenberg
+    - United States
+    - Vannevar Bush
+    - Vernon Bowen
+    - West Germany
+    - White Hot Report
+    - William Steinman
+    - With Mr
+    - World War
+    - Wright Field
+
+??? info "Places (11)"
+
+    - Area
+    - Base
+    - Based
+    - City
+    - Kecksburg
+    - Kingman
+    - Lake
+    - Mexico
+    - Mountain
+    - Pennsylvania
+    - Texas
+
+??? info "Organizations (22)"
+
+    - Agency
+    - Army
+    - College
+    - Committee
+    - Department
+    - Institute
+    - Interplanetary Phenomenon Unit Officer
+    - Joint Intelligence Objectives Agency
+    - Kirkland Air Force Base
+    - Kirtland Air Force Base
+    - Labs
+    - Lockheed
+    - Majority Joint Intelligence Committee
+    - Navy
+    - Navy Yeoman Dale Bailey
+    - Office
+    - Officer
+    - Patterson Air Force Base
+    - Patterson Air Force Blue
+    - Special
+    - The Special Operations Manual
+    - Wright Patterson Air Force
+
 **Download transcripts:** [SRT](../videos/vzB87RJkQVU-the-majestic-12-documents-with-ryan-s-wood/transcript.srt) · [VTT](../videos/vzB87RJkQVU-the-majestic-12-documents-with-ryan-s-wood/transcript.vtt) · [JSON](../videos/vzB87RJkQVU-the-majestic-12-documents-with-ryan-s-wood/transcript.json) · [TSV](../videos/vzB87RJkQVU-the-majestic-12-documents-with-ryan-s-wood/transcript.tsv)
+
+---
+
+← Newer: [9/1/24 Discussing WD Memo, 2004 JSOC Case and Q&A](video-pages/ZFUneP18LVI.md) · Older: [The 1974 Coyame, Mexico UFO Crash](video-pages/bL3tMByq_WM.md) →
 
 ## Comments
 

@@ -1279,7 +1279,336 @@ title: US Navy UFO Crash Retrieval & Reverse Engineering Programs
     will catch everybody on the next episode. Thank you so much, and see you later.
     
 
+## Entities
+
+??? info "People (252)"
+
+    - Admiral Gallaudet
+    - Admiral Inman
+    - Admiral Thomas Wilson
+    - Admiral Timothy Gallaudet
+    - Air Force
+    - Air Forces
+    - Air Station
+    - Alan Doliz
+    - Albert Whelan
+    - Allegedly Stephen Greer
+    - Although Kobitz
+    - Although Palladium
+    - Andrew Kissner
+    - Andros Island Bahamas
+    - Applied Physics Laboratories
+    - Applied Research Laboratories
+    - Armed Services Committee
+    - Army Corps
+    - Art Bell
+    - Assistant Chief
+    - Assistant Secretary
+    - Atlantic Ocean
+    - Atlantic Undersea Test
+    - Atomic Energy Commission
+    - Author Jeffrey
+    - Bear Bones
+    - Bermuda Biological Station
+    - Bermuda Triangle
+    - Blackjack Control
+    - Blackjack Team
+    - Blind Man
+    - Blue Book Files
+    - Bluegill Triple Prime
+    - Bob Echler
+    - Bob Eschler
+    - Bobby Ray Inman
+    - But Mark
+    - Caltech Heritage Project
+    - Central Intelligence
+    - China Lake
+    - Chris Sharp
+    - Chris Sharpe
+    - Christopher Mellon
+    - Christopher Sharpe
+    - Clearances Held
+    - Cold War
+    - Congressional Intelligence
+    - Could Inman
+    - Crystal City
+    - Danny Sheehan
+    - David Grush
+    - David Zerler
+    - De Clemson Program
+    - Deep Submergence Systems
+    - Deepsea Challenger
+    - Defense Casper Weinberger
+    - Defense Contractors
+    - Defense Counterintelligence
+    - Deputy Director
+    - Derward Buddy Hack
+    - Development Board
+    - Development Council
+    - Diego Garcia
+    - Director Richard Helms
+    - Disclosure Act
+    - Doug Wolfe
+    - Dr. Albert Whelan
+    - Dr. Craven
+    - Dr. Eric
+    - Dr. Eric Davis
+    - Dr. John
+    - Dr. Richard Sotter
+    - Dr. Robert Sarbacher
+    - Dr. Vannevar Bush
+    - Dr. Walker
+    - Dry Submersible
+    - Dugway Proving Ground
+    - Eric Davis
+    - Ernor Liddell
+    - Evaluation Center
+    - Evan Heineman
+    - Everett Heineman
+    - Everett Heinemann
+    - Executive Committee
+    - Extrasensory Perception
+    - Fiscal Year
+    - Former Intelligence Officers
+    - Fort Hachuka
+    - From Craven
+    - From Roswell
+    - General Motors
+    - Glenn Gaffney
+    - Global Access
+    - Glomar Explorer
+    - Greer Wilson
+    - Groom Lake
+    - Grumman Aerospace Corporation
+    - Gunnery School
+    - Harold Malmgren
+    - Hidden Younger Brother
+    - Historical Dictionary
+    - House Committee
+    - Human Center
+    - In Blind Man
+    - In Inman
+    - In September
+    - Intelligence Committee
+    - Intelligence Directive
+    - Intelligence Research
+    - International Intelligence
+    - Ivy Bells
+    - Jake Barber
+    - James Cameron
+    - Jamie Chandra
+    - Jean Petit
+    - Jeff Cruikshank
+    - Jeffrey Richelson
+    - Jet Propulsion Laboratory
+    - Jimmy Carter
+    - Joan Jeffers
+    - John Butts
+    - John Craven
+    - John Hopkins University
+    - John Pena Craven
+    - John Warner
+    - Kingman Arizona
+    - Leonard Stringfield
+    - Liberation Times
+    - Lieutenant Colonel
+    - Lockheed Martin
+    - Lockheed Missile
+    - Lockheed Missiles
+    - Los Alamos
+    - Major Lester Goldberg
+    - Maritime Branch
+    - Massachusetts Institute
+    - Material Exploitation Programs
+    - Military Liaison Committee
+    - Mr. Eschler
+    - Nat Kobitz
+    - National Defense
+    - National Intelligence
+    - National Reconnaissance Office
+    - National Reconnaissance Officer
+    - National Reconnaissance Program
+    - National Security Agency
+    - National Security Council
+    - Nats Kobitz
+    - Naval Air Station
+    - Naval Analysis
+    - Naval Installation Hack
+    - Naval Intelligence
+    - Naval Operations
+    - Naval Research
+    - Naval Research Lab
+    - Naval Research Laboratory
+    - Naval Support Facility
+    - Navy Director
+    - Navy John Layman
+    - Navy John Lehman
+    - Navy John Warner
+    - Navy Rear Admiral
+    - Navy Special Program
+    - Nevada Test
+    - New Brunswick
+    - New Mexico State
+    - Nigel West
+    - North Atlantic
+    - North Atlantic Ocean
+    - Northern Illinois
+    - Northrop Grumman
+    - Now Mark
+    - Nuclear Regulatory Commission
+    - Ocean Minerals Company
+    - Operation Fishbowl
+    - Operation Palladium
+    - Pacific Ocean
+    - Pacific Oceans
+    - Penn State
+    - Pennsylvania State University
+    - Pine Gap
+    - President Eisenhower
+    - Presidential Executive Order
+    - Project Azorian
+    - Project Jennifer
+    - Project Palladium
+    - Project Sand Dollar
+    - Project Sundance
+    - Project Unity
+    - Rand Corporation
+    - Randy Anderson
+    - Red Flag
+    - Remembered Layman
+    - Reproduction Vehicle
+    - Research Board Dr
+    - Reverse Engineer Triangle
+    - Reverse Engineering
+    - Richard Ober
+    - Richard Sotter
+    - Robert Sarbacher
+    - Robert Wood
+    - Rockall Plateau
+    - Rockall Trough
+    - Ross Colthart
+    - Russian Arabic
+    - Samuel Jean Poteet
+    - San Diego
+    - Sand Dollar
+    - Sea Spray
+    - Senate Select Committee
+    - September Sharpe
+    - Shag Harbor
+    - Silent War
+    - Since Palladium
+    - So Mark
+    - Soviet Union
+    - Space Command
+    - Space Company
+    - Special Forces Command
+    - Special Operations
+    - Special Operations Manual
+    - Special Project
+    - Stephen Greer
+    - Stephen Walker
+    - Sumner Shapiro
+    - Super Sentinel
+    - Swedish In
+    - Technology Corporation
+    - Technology Development
+    - Test Wing
+    - The Navy
+    - The San Diego
+    - The September
+    - The Silent War
+    - The United States
+    - Timothy Good
+    - Tom King
+    - Training Range
+    - United States
+    - United States Army
+    - United States Navy
+    - Ustaff Colonel
+    - Vannevar Bush
+    - William Webster
+    - Wilson Davis
+    - Wilson Davis Notes
+    - With Secretary
+    - Witness Pete
+    - Woods Hole
+    - World Technologies Division
+    - Yuma County
+    - Yuma Proving Ground
+
+??? info "Places (17)"
+
+    - Area
+    - Arizona
+    - Base
+    - City
+    - County
+    - Edwards
+    - Great Lakes Naval Base
+    - Great Lakes Naval Station
+    - Kecksburg
+    - Kingman
+    - Lake
+    - Lakes
+    - Mexico
+    - Naval Air Base Yuma
+    - Pennsylvania
+    - Peru
+    - Texas
+
+??? info "Organizations (45)"
+
+    - Agency
+    - Air Force Systems Command
+    - Army
+    - Army Green Beret Randy
+    - Association
+    - Committee
+    - Committee Working Group Members
+    - Company
+    - Corporation
+    - Corps
+    - Department
+    - Edwards Air Force Base
+    - Garcia
+    - House Government Operations Committee
+    - Included
+    - Institute
+    - International Peace Research Institute
+    - Joint Special Operations Command
+    - Laboratories
+    - Lockheed
+    - Lockheed Martin Woods Hole
+    - Marine Corps Air Station
+    - Marine Corps Lieutenant Colonel
+    - National Geospatial Intelligence Agency
+    - National Underwater Reconnaissance Office
+    - Navy
+    - Navy Oceanographic Research Laboratory
+    - Navy Special Program Office
+    - Navy Special Projects Office
+    - Northrop
+    - Office
+    - Officer
+    - Officers
+    - Patterson Air Force Base
+    - Pensacola
+    - Pensacola Naval Air Station
+    - Science Applications International Corporation
+    - Scorpion
+    - Since
+    - Special
+    - Special Navy Control Program
+    - The Navy Special Program
+    - United States Special Operations
+    - University
+    - Woods Hole Oceanographic Institute
+
 **Download transcripts:** [SRT](../videos/H9GSqOEvoBE-us-navy-ufo-crash-retrieval-reverse-engineering-programs/transcript.srt) · [VTT](../videos/H9GSqOEvoBE-us-navy-ufo-crash-retrieval-reverse-engineering-programs/transcript.vtt) · [JSON](../videos/H9GSqOEvoBE-us-navy-ufo-crash-retrieval-reverse-engineering-programs/transcript.json) · [TSV](../videos/H9GSqOEvoBE-us-navy-ufo-crash-retrieval-reverse-engineering-programs/transcript.tsv)
+
+---
+
+← Newer: [1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt](video-pages/7Jc2G5aEH0A.md) · Older: [Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs](video-pages/7Ats0lIy3Lo.md) →
 
 ## Comments
 

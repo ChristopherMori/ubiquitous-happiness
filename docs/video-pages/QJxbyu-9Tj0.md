@@ -1535,7 +1535,409 @@ title: The 1948 Aztec, New Mexico UFO Crash Retrieval
     show. Thank you so much. Bye.
     
 
+## Entities
+
+??? info "People (332)"
+
+    - Accompanying Bush
+    - Aerodynamic Metallurgical Design
+    - Air Force
+    - Air Force Base
+    - Air Force Office
+    - Air Research Company
+    - Air Research Corporation
+    - Air Research Laboratories
+    - American Association
+    - American Southwest
+    - And Inman
+    - Andrew Kistner
+    - Anthony Bergalea
+    - Anthony Burgalia
+    - Apparatus Division
+    - Applied Research Laboratory
+    - Armin Victorian
+    - Armor Bright
+    - Armour Institute
+    - Army Counterintelligence
+    - Army Department
+    - Army Fifth Base
+    - Army Intelligence
+    - Army Signal Corps
+    - Arthur Bray
+    - Arthur Stanzel
+    - Assistant Chief
+    - Atomic Energy Agreement
+    - Atomic Energy Commission
+    - Automated Control Index
+    - Aztec Moore
+    - Baltimore Sun
+    - Battelle Memorial Institute
+    - Better Business Bureau
+    - Bill Ferguson
+    - Bill Moore
+    - Blue Book
+    - Bob Echler
+    - Bob Eschler
+    - Bob Lazar
+    - Bobby Ray Inman
+    - Brad Sparks
+    - Brigham Rose
+    - Brookhaven National Labs
+    - But Bush
+    - But Carr
+    - But Scully
+    - But Wilbert
+    - By March
+    - Camp Hale
+    - Carl Flock
+    - Carl Highland
+    - Cecil Green
+    - Cedar Hill
+    - Central Intelligence
+    - Chief Member
+    - Chris Ramsey
+    - Chuck Oldham
+    - Clarence Karcher
+    - Clearwater Sun
+    - Cold War
+    - Colonel Charles
+    - Colonel Hasbrook
+    - Colonel Philip
+    - Colonel William Guild
+    - Colorado Corp
+    - Colorado Corporation
+    - Colorado Corps
+    - Colorado School
+    - Communications Intelligence Board
+    - Conrant Field
+    - Counterintelligence Directorate
+    - Creighton University
+    - Criminal Investigation Division
+    - Deep Sea Recovery
+    - Defense James Forstall
+    - Defense Research Board
+    - Defense Systems
+    - Denver Post
+    - Detlef Bronck
+    - Detlev Bronk
+    - Development Board
+    - Development Centers
+    - Did Bush
+    - Did Carl Highland
+    - Don Quixote
+    - Donald Keyhoe
+    - Doodle Bug
+    - Doug Nolan
+    - Dr. Bronk
+    - Dr. Bush
+    - Dr. Carl
+    - Dr. Carl Highland
+    - Dr. Detlef Bronck
+    - Dr. Detlev Bronk
+    - Dr. Eric
+    - Dr. Eric Davis
+    - Dr. Eric Walker
+    - Dr. Eric Wang
+    - Dr. Gs
+    - Dr. Highland
+    - Dr. James Meredith
+    - Dr. John
+    - Dr. Paul
+    - Dr. Paul Scherer
+    - Dr. Paul Sherer
+    - Dr. Robert
+    - Dr. Robert Oppenheimer
+    - Dr. Robert Sarbacher
+    - Dr. Robert Wood
+    - Dr. Vannevar Bush
+    - Dr. Walker
+    - Dr. Wang
+    - During World War
+    - Edelweiss Bar
+    - Edgar Hoover
+    - Eisenhower Briefing Document
+    - El Indio
+    - El Vado
+    - Electronics Group
+    - Equipment Group
+    - Eric Arthur Walker
+    - Eric Davis
+    - Eric Henry Wang
+    - Eric Henry Wayne
+    - Eric Walker
+    - Eric Wang
+    - Ever Elusive
+    - Everett Heineman
+    - Exploration Company
+    - Federally Funded Research
+    - Field Services
+    - Flying Saucers
+    - For Project Gravitar
+    - Foreign Science
+    - Frank Scali
+    - Frank Scully
+    - From Highland
+    - From Randy Anderson
+    - Gatekeeping Structure
+    - General Eisenhower
+    - General George
+    - General George Marshall
+    - General Hoyt Vandenberg
+    - General Marshall
+    - Geophysical Services Inc
+    - George Kohler
+    - George Marshall
+    - Georgia Institute
+    - Glomar Explorer
+    - Government Informants
+    - Grant Cameron
+    - Great Britain
+    - Hart Canyon
+    - Hart Canyon Mesa
+    - Hart Canyon Road
+    - Harvard University
+    - Henry Azad
+    - Herman Flater
+    - Highland Research
+    - Horace Steele
+    - If Bush
+    - If Dr
+    - If George
+    - If Wayne
+    - In July
+    - In Maj
+    - Information Act
+    - Interplanetary Phenomenon Unit
+    - James Meredith
+    - Jeremy Corbell
+    - Jesse Michael
+    - John Frick
+    - John Karcher
+    - John Tarrant
+    - Joint Research
+    - Jonathan Weigant
+    - Ken Farley
+    - Kevin Randall
+    - Koyama Mexico
+    - Laboratory Manufacturing Division
+    - Lawrence Livermore Labs
+    - Lee Crane
+    - Leo Cabauer
+    - Leo Gabauer
+    - Leo Gebauer
+    - Leo Jabauer
+    - Leonard Stringfield
+    - Lieutenant General Collins
+    - Los Alamos
+    - Los Angeles
+    - Los Angeles Division
+    - Magnetic Anomaly Detector
+    - Majestic Documents
+    - Majestic Twelve
+    - Manhattan Project
+    - Manuel Sandoval
+    - Mechanical Engineering Magazine
+    - Melwyn Hotel
+    - Military Research
+    - Mines Geophysics Department
+    - Mojave Desert
+    - Mr. Gabauer
+    - Mr. Gs
+    - Mr. Klein
+    - Mr. Leo Gabauer
+    - Mr. Luigi
+    - Mr. Silas
+    - Mrs. Knight
+    - Nat Cobitz
+    - Nat Kobitz
+    - National Security Agency
+    - National Security Council
+    - Naval Intelligence
+    - Naval Research Lab
+    - Naval Research Laboratory
+    - Navy Admiral
+    - Navy War Department
+    - New Mexico
+    - Newton Oil Company
+    - Nikola Tesla
+    - Northrop Grumman
+    - Oldham Source
+    - Operation Blue Book
+    - Operation Upshot Knot
+    - Patterson Airfield
+    - Paul Scherer
+    - Paul Sherer
+    - Pearl Harbor
+    - Penn State
+    - Penn State University
+    - Perhaps Bill Moore
+    - President Eisenhower
+    - President Franklin
+    - President Harry Truman
+    - President Truman
+    - Presidential Certificate
+    - Professor Carr
+    - Project Azorian
+    - Project Blue Book
+    - Project Gravitar
+    - Project Magnet
+    - Project Supremacy
+    - Projects Magnet
+    - Rand Corporation
+    - Regional Office
+    - Research Center
+    - Richard Doty
+    - Richard Hall
+    - Richard Ogden
+    - Robert Carr
+    - Robert Oppenheimer
+    - Robert Sarbacher
+    - Robert Wood
+    - Rocket Ordnance Division
+    - Rocky Plateau
+    - Ronald Reagan
+    - Ross Goldhardt
+    - Roswell Army Airfield
+    - Ryan Wood
+    - San Francisco
+    - San Francisco Chronicle
+    - Sandia Laboratory Complex
+    - Sandia National Labs
+    - Sandia Personnel
+    - Sandian National Labs
+    - Scientific Research
+    - Scott Crane
+    - Scott Ramsay
+    - Scott Ramsey
+    - Sean Kirkpatrick
+    - Second Story
+    - Second World War
+    - Sharp Eye
+    - Silas Newton
+    - So Project Gravitar
+    - South Florida
+    - South Florida Tampa
+    - Space Era
+    - Special Agent
+    - Special Agent Hansen
+    - Special Investigation
+    - Special Investigations
+    - Special Operations Manual
+    - Special Studies
+    - Stanton Freedman
+    - Stanton Friedman
+    - Sting Operation
+    - Strategic Defense Initiative
+    - Structure Division
+    - Sumner Shapiro
+    - Suzanne Ramsey
+    - Technical Branch
+    - Technology Center
+    - Texas Instrument
+    - Texas Instruments
+    - Thank God
+    - The Air Force
+    - The Army
+    - The Aztec
+    - The Colorado School
+    - The Ramsay
+    - The Ramses
+    - These Air Force
+    - Thomas Cantwell
+    - Thomas Cantwheel
+    - Thor Severson
+    - Though Scully
+    - Tim Cooper
+    - Timothy Cooper
+    - Timothy Good
+    - Tufts College
+    - Underwater Sound Lab
+    - Underwater Sound Laboratory
+    - United States
+    - Valentin Archuleta
+    - Vannevar Bush
+    - Variety Magazine
+    - Vendett Tilley
+    - Von Neumann
+    - Walker Base
+    - War Robert
+    - Was Shapiro
+    - When Professor Carr
+    - While Newton
+    - Wilbert Smith
+    - William Steinman
+    - With Aztec
+    - World War
+    - World War Two
+    - Wright Development Center
+    - Wright Patterson
+
+??? info "Places (14)"
+
+    - Area
+    - Arizona
+    - Base
+    - Based
+    - Edwards
+    - Italy
+    - Kecksburg
+    - Kingman
+    - Magenta
+    - Mexico
+    - New Mexico State Representative
+    - Pennsylvania
+    - Texas
+    - The New Mexico State
+
+??? info "Organizations (41)"
+
+    - Accompanying
+    - Agency
+    - Air Force Systems Command
+    - Armed Forces Special Weapons
+    - Army
+    - Army Foreign Technology Division
+    - Army Interplanetary Phenomenon Unit
+    - Associate
+    - Association
+    - Battelle
+    - Cincinnati
+    - College
+    - Committee
+    - Company
+    - Corp
+    - Corporation
+    - Corps
+    - Department
+    - Edwards Air Force Base
+    - El Paso Oil Company
+    - Fifth Army Intelligence Division
+    - Holloman Air Force Base
+    - Inc
+    - Institute
+    - Kirtland Air Force Base
+    - Laboratories
+    - Labs
+    - Los Alamos National Labs
+    - National Defense Research Committee
+    - National Underwater Reconnaissance Office
+    - Navy
+    - Northrop
+    - Office
+    - Patterson Air Force Base
+    - Since
+    - Special
+    - Special Investigator Carl Howe
+    - United States Air Force
+    - University
+    - Walker Air Force Base
+    - Washington Special Agent Guy
+
 **Download transcripts:** [SRT](../videos/QJxbyu-9Tj0-the-1948-aztec-new-mexico-ufo-crash-retrieval/transcript.srt) · [VTT](../videos/QJxbyu-9Tj0-the-1948-aztec-new-mexico-ufo-crash-retrieval/transcript.vtt) · [JSON](../videos/QJxbyu-9Tj0-the-1948-aztec-new-mexico-ufo-crash-retrieval/transcript.json) · [TSV](../videos/QJxbyu-9Tj0-the-1948-aztec-new-mexico-ufo-crash-retrieval/transcript.tsv)
+
+---
+
+← Newer: [1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE](video-pages/ShoUyC1aip0.md) · Older: [UFO Legacy Programs - Science Applications International Corporation (SAIC)](video-pages/9p99lTsC7wQ.md) →
 
 ## Comments
 

@@ -208,7 +208,78 @@ title: MOON DUST - The Pentagon's Secret UFO Programs
     I will catch you guys for the next video, and thank you for tuning in, bye.
     
 
+## Entities
+
+??? info "People (48)"
+
+    - Admiral Thomas Wilson
+    - Air Force
+    - Allen Heineck
+    - Army Air Force
+    - Assistant Chief
+    - Blue Book
+    - Blue Fly
+    - Bob Lazar
+    - But Heineck
+    - But Moondust
+    - Colonel Robert Simmons
+    - Commander David Fraver
+    - David Grush
+    - Defense Intelligence Department
+    - Draft Policy
+    - El Tayer Bolivia
+    - Field Activities Group
+    - Five Eyes
+    - Global Access
+    - In Canada
+    - Information Act
+    - Intelligence Community
+    - Major Jesse Hayes
+    - Natalio Ruiz
+    - New Zealand
+    - Now Canada
+    - On May
+    - Ottodies Iceberg
+    - Pete Domenici
+    - Project Blue Book
+    - Project Grudge
+    - Project Moondust
+    - Project Sign
+    - Rep Eric Bertelsen
+    - Rep Jared Moskowitz
+    - Representative Timbershet
+    - Royal Nepali Army
+    - Senator Barry Goldwater
+    - Senator Domenici
+    - Shag Harbor
+    - Soviet American
+    - State Cyrus Vance
+    - State Department
+    - The Air Force
+    - The Senators
+    - United States
+    - Weapon Intelligence
+    - Wilson Davis
+
+??? info "Places (4)"
+
+    - Area
+    - Base
+    - Mexico
+    - New Mexico Senators Jeff
+
+??? info "Organizations (4)"
+
+    - Army
+    - Department
+    - Office
+    - Patterson Air Force Base
+
 **Download transcripts:** [SRT](../videos/6ZuHLgVtKu8-moon-dust---the-pentagons-secret-ufo-programs/transcript.srt) · [VTT](../videos/6ZuHLgVtKu8-moon-dust---the-pentagons-secret-ufo-programs/transcript.vtt) · [JSON](../videos/6ZuHLgVtKu8-moon-dust---the-pentagons-secret-ufo-programs/transcript.json) · [TSV](../videos/6ZuHLgVtKu8-moon-dust---the-pentagons-secret-ufo-programs/transcript.tsv)
+
+---
+
+← Newer: [The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies](video-pages/hK24ZdkvwN4.md) · Older: [The First Commercial Flight Grounded Due to UFOs](video-pages/K_BZkOAw6E0.md) →
 
 ## Comments
 

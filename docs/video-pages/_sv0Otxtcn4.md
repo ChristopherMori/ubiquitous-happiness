@@ -1011,7 +1011,150 @@ title: Philip J. Corso - US Army UFO Technology Research & Development
     so much for tuning in bye everybody
     
 
+## Entities
+
+??? info "People (97)"
+
+    - Air Force
+    - Army Industry Teamwork
+    - Army Research
+    - Art Bell
+    - Arthur Trudeau
+    - As Chief
+    - Atomic Energy Commission
+    - Bell Labs
+    - Bill Burns
+    - Brad Sorensen
+    - Citizens Against
+    - Colonel Corso
+    - Colonel John
+    - Colonel Philip
+    - Colonel Trudeau
+    - Counterintelligence Corps
+    - David Grush
+    - Development Program
+    - Dr. Eric Davis
+    - Dr. Tello
+    - Edgar Fouchet
+    - Edwards Air Force
+    - Eric Davis
+    - Executive Order
+    - Florida Technology Division
+    - Foreign Technology Division
+    - Fort Bell
+    - Fort Belvoir
+    - Fort Raleigh
+    - Fort Riley
+    - General Arthur Trudeau
+    - General Douglas
+    - General Trudeau
+    - Giovanni Battista Montini
+    - Golden Age
+    - Hermann Oberth
+    - If Edwin Teller
+    - Inspector General
+    - Intelligent Staff
+    - International Information Activities
+    - Interplanetary Phenomenon Unit
+    - Jack Kirby
+    - Jacques Valais
+    - Julius Edgar Lillianfield
+    - Kevin Heidenhaal
+    - Korean War
+    - Lieutenant Colonel
+    - Lieutenant Colonel Corso
+    - Lieutenant General Arthur
+    - Lincoln Labs
+    - Livermore Labs
+    - Lockheed Martin
+    - Mandel River
+    - Missile Battalion
+    - National Security Council
+    - New Age
+    - New Mexico
+    - North Africa
+    - North Korean
+    - Northrop Grumman
+    - Operation Paperclip
+    - Operations Coordinating Board
+    - Paterson Air Force
+    - Philip Corso
+    - Philip Jr
+    - Pope Paul
+    - President Bush Senior
+    - President Eisenhower
+    - President Harry Truman
+    - President Special Assistant
+    - Sandia National Labs
+    - Second World War
+    - Secretary General
+    - Senate Select Committee
+    - Senator Strom Thurmond
+    - Sparey Rand
+    - Sparey Rand Corporation
+    - Special Assistant
+    - Special Operations Manual
+    - Star Wars
+    - Strategic Defense Initiative
+    - Texas Instruments
+    - The Army
+    - The Chief
+    - The Colonel
+    - The Corso
+    - The Lieutenant Colonel
+    - The Roswell Desert
+    - United States
+    - Walter Hott
+    - Walter Reed Hospital
+    - Western Electric
+    - White House
+    - White Vans
+    - Wilson Davis Memo
+    - World War
+    - Your Army
+
+??? info "Places (9)"
+
+    - Area
+    - Base
+    - Based
+    - Edwards
+    - Italy
+    - Kecksburg
+    - Kingman
+    - Mexico
+    - Texas
+
+??? info "Organizations (22)"
+
+    - Accompanying
+    - Air Force Technical Intelligence
+    - Army
+    - Charles Douglas Jackson Special
+    - Committee
+    - Corporation
+    - Corps
+    - Department
+    - Holloman Air Force Base
+    - Kansas
+    - Laboratories
+    - Labs
+    - Lincoln
+    - Lockheed
+    - Navy
+    - Navy Air Force Army
+    - Northrop
+    - Office
+    - Officially
+    - Paterson Air Force Base
+    - Patterson Air Force Base
+    - Special
+
 **Download transcripts:** [SRT](../videos/_sv0Otxtcn4-philip-j-corso---us-army-ufo-technology-research-development/transcript.srt) · [VTT](../videos/_sv0Otxtcn4-philip-j-corso---us-army-ufo-technology-research-development/transcript.vtt) · [JSON](../videos/_sv0Otxtcn4-philip-j-corso---us-army-ufo-technology-research-development/transcript.json) · [TSV](../videos/_sv0Otxtcn4-philip-j-corso---us-army-ufo-technology-research-development/transcript.tsv)
+
+---
+
+← Newer: [UFO Legacy Programs - Northrop Grumman](video-pages/E-GleS2aGj0.md) · Older: [Alien Reproduction Vehicle - TR-3B and the Flying Triangles](video-pages/B7JP0uX0GwY.md) →
 
 ## Comments
 

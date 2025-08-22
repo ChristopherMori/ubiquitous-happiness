@@ -26,6 +26,10 @@ title: The Marines Who Got too Close to UFOs
 
 **Download transcripts:** [SRT](../videos/HnxylCl68Tg-the-marines-who-got-too-close-to-ufos/transcript.srt) · [VTT](../videos/HnxylCl68Tg-the-marines-who-got-too-close-to-ufos/transcript.vtt) · [JSON](../videos/HnxylCl68Tg-the-marines-who-got-too-close-to-ufos/transcript.json) · [TSV](../videos/HnxylCl68Tg-the-marines-who-got-too-close-to-ufos/transcript.tsv)
 
+---
+
+← Newer: [The First Commercial Flight Grounded Due to UFOs](video-pages/K_BZkOAw6E0.md) · Older: [The Alien and UFO Obscure Oddities Iceberg (Level 2)](video-pages/9FL04mqyZxk.md) →
+
 ## Comments
 
 <script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

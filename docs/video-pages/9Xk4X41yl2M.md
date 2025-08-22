@@ -85,6 +85,10 @@ title: UFO Whistleblowers [Vol.2]
 
 **Download transcripts:** [SRT](../videos/9Xk4X41yl2M-ufo-whistleblowers-vol2/transcript.srt) · [VTT](../videos/9Xk4X41yl2M-ufo-whistleblowers-vol2/transcript.vtt) · [JSON](../videos/9Xk4X41yl2M-ufo-whistleblowers-vol2/transcript.json) · [TSV](../videos/9Xk4X41yl2M-ufo-whistleblowers-vol2/transcript.tsv)
 
+---
+
+← Newer: ["US Special Forces Confession - I Recovered Crashed UFOs": Fact or Fiction?](video-pages/DcvuglS7ps4.md) · Older: [The 1950s Del Rio, Texas UFO Crashes](video-pages/8S9qdRWSnD8.md) →
+
 ## Comments
 
 <script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

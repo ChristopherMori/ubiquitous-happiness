@@ -257,7 +257,40 @@ title: Incredible UFO Footage - FLYBY
     and I will catch you guys next time.
     
 
+## Entities
+
+??? info "People (16)"
+
+    - Behavioral Data Analysis
+    - Bob Lazar
+    - Chemical Defense
+    - Christopher Mellon
+    - Danny Lampkin
+    - Jeremy Corbell
+    - Joe Rogan
+    - Lieutenant Jacobs
+    - Lou Elizondo
+    - On May
+    - Pilot Lingo
+    - Senate Intelligence Committee
+    - Super Hornet
+    - Task Force
+    - Task Force Report
+    - United States
+
+??? info "Organizations (5)"
+
+    - Army
+    - Army Medical Research Institute
+    - Committee
+    - Institute
+    - Navy
+
 **Download transcripts:** [SRT](../videos/qD1KnudMCO0-incredible-ufo-footage---flyby/transcript.srt) · [VTT](../videos/qD1KnudMCO0-incredible-ufo-footage---flyby/transcript.vtt) · [JSON](../videos/qD1KnudMCO0-incredible-ufo-footage---flyby/transcript.json) · [TSV](../videos/qD1KnudMCO0-incredible-ufo-footage---flyby/transcript.tsv)
+
+---
+
+← Newer: [The Origin of the UFO Stigma](video-pages/xKArN8S9bnM.md) · Older: [Global Air Force UFO Encounters You've Probably Never Heard of](video-pages/6cVe-hdMTCE.md) →
 
 ## Comments
 

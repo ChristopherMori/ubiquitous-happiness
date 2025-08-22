@@ -744,7 +744,155 @@ title: The 1974 Coyame, Mexico UFO Crash
     Bye now.
     
 
+## Entities
+
+??? info "People (107)"
+
+    - Air Force
+    - Air Force Plant
+    - Aircraft Laboratory
+    - Alfonso Salazar
+    - American Legion
+    - Aviation Safety Network
+    - Benjamin Rhodes
+    - Blue Book
+    - But Mercy
+    - Captain Lawrence Murley
+    - Captain Rogelio Argueyes
+    - Captain Slorence Murley
+    - Chihuahua Disk Crash
+    - Chris Sharpe
+    - Christopher Sharpe
+    - Ciudad Juarez Chihuahua
+    - Civil War
+    - Colonel Philip
+    - Corporal Ricardo Velasquez
+    - Corpus Christi
+    - Coyame Incident
+    - Daily Mail
+    - David Grush
+    - Davis Mountains
+    - Del Rio
+    - Della Field
+    - Dineb Report
+    - El Fronterizo
+    - El Geraldo
+    - El Indio
+    - El Paso
+    - El Paso International
+    - Elaine Douglas
+    - Embry Riddle University
+    - Enrique Riviera Gutierrez
+    - Fort Bliss
+    - Global Access
+    - Great Rift
+    - Guantanamo Bay Gazette
+    - Hans Kruger
+    - Hunters Unexplained Mexico
+    - In Lockheed
+    - Jay Alberto
+    - Jerome Smith
+    - Jesus Alberto
+    - John Chambers
+    - Johnny Chambers
+    - Jonathan Wagan
+    - Korean War
+    - Koyame Crash
+    - Leonard Stringfield
+    - Lieutenant Benjamin Rhodes
+    - Lieutenant Eduardo Ramirez
+    - Lieutenant Jerome Smith
+    - Lieutenant Randall Bishop
+    - Lockheed Company
+    - Lockheed Martin
+    - Los Alamos
+    - Lu Elizondo
+    - Magic Eyes Only
+    - Maje Brazil
+    - Mexican President
+    - Mexico City
+    - Mexico Roswell
+    - Mexico Soldier
+    - Milky Way
+    - Mr. Rhodes
+    - New Mexico Desert
+    - Nick Redfern
+    - Noah Torres
+    - On March
+    - One Mr
+    - Operation Laser Strike
+    - Pershing Rifles
+    - President Gerald
+    - Public Health Service
+    - Radiation Neutralization
+    - Research Finding
+    - Research Findings
+    - Ruben Uriarte
+    - Ruben Uriartes
+    - Ryan Wood
+    - Sandia National Labs
+    - Scotty Wong
+    - Sergeant Terrence Miles
+    - Shag Harbor Canada
+    - Special Forces
+    - Special Operations Manual
+    - Super Stallion
+    - Terence Miles
+    - The American
+    - The Coyome Incident
+    - The Deneb
+    - The Dineb
+    - The Dineb Report
+    - The Hueys
+    - The Mexican President
+    - The Milky Way
+    - United States
+    - Van Horn
+    - Varginia Brazil
+    - Water Ramirez
+    - West Germany
+    - While Noah Torres
+    - With Noah Torres
+    - Woods Majestic
+    - World War
+
+??? info "Places (7)"
+
+    - Base
+    - City
+    - Coyame
+    - Mexico
+    - Mountains
+    - Peru
+    - Texas
+
+??? info "Organizations (19)"
+
+    - Army
+    - Company
+    - Corporal
+    - Corporal Jose Trinidad Maraz
+    - Corpus
+    - Crucial
+    - Incident
+    - Joint Special Operations Command
+    - Kirtland Air Force Base
+    - Labs
+    - Lockheed
+    - Lockheed Martin Georgia Nuclear
+    - Office
+    - Officer
+    - Patterson Air Force Base
+    - Senior Chief Petty Officer
+    - Since
+    - Special
+    - University
+
 **Download transcripts:** [SRT](../videos/bL3tMByq_WM-the-1974-coyame-mexico-ufo-crash/transcript.srt) · [VTT](../videos/bL3tMByq_WM-the-1974-coyame-mexico-ufo-crash/transcript.vtt) · [JSON](../videos/bL3tMByq_WM-the-1974-coyame-mexico-ufo-crash/transcript.json) · [TSV](../videos/bL3tMByq_WM-the-1974-coyame-mexico-ufo-crash/transcript.tsv)
+
+---
+
+← Newer: [The Majestic-12 Documents [With Ryan S. Wood]](video-pages/vzB87RJkQVU.md) · Older: [7/20/24 Discussing Cases and Q&A](video-pages/1m0oJD59eXQ.md) →
 
 ## Comments
 

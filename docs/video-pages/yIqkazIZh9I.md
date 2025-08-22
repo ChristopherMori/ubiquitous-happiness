@@ -33,6 +33,10 @@ title: The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs
 
 **Download transcripts:** [SRT](../videos/yIqkazIZh9I-the-wilson-davis-memo-and-us-secret-ufo-reverse-engineering-programs/transcript.srt) · [VTT](../videos/yIqkazIZh9I-the-wilson-davis-memo-and-us-secret-ufo-reverse-engineering-programs/transcript.vtt) · [JSON](../videos/yIqkazIZh9I-the-wilson-davis-memo-and-us-secret-ufo-reverse-engineering-programs/transcript.json) · [TSV](../videos/yIqkazIZh9I-the-wilson-davis-memo-and-us-secret-ufo-reverse-engineering-programs/transcript.tsv)
 
+---
+
+← Newer: [The Alien and UFO Obscure Oddities Iceberg (Level 1)](video-pages/1en219Vk9K4.md)
+
 ## Comments
 
 <script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

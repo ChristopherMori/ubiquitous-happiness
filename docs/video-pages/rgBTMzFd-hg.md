@@ -1106,7 +1106,227 @@ title: The 1965 Kecksburg, Pennsylvania UFO Crash
     show thank you
     
 
+## Entities
+
+??? info "People (178)"
+
+    - Aerospace Defense Command
+    - Affiliated Research Center
+    - Air Force
+    - Air Force Base
+    - Allen Heineck
+    - Among Uncle
+    - Applied Research Center
+    - Applied Research Laboratory
+    - Armin Victorian
+    - Assistant Chief
+    - Atomic Energy Commission
+    - Bill Bullybush
+    - Bill Moyers
+    - Bill Weaver
+    - Blue Book
+    - Blue Fly
+    - Blue Room
+    - Brian Thompson
+    - Buford Ellington
+    - Bully Bush
+    - Carl Metz
+    - Chief Scientist
+    - Clean Air Act
+    - Clifford Stone
+    - Cold War
+    - Combating Media Ridicule
+    - Could Walker
+    - Dade City
+    - Danny Sheehan
+    - David Newhouse
+    - Defense Analysis
+    - Defense Cyrus Vance
+    - Defense Joe Califano
+    - Defense Research Board
+    - Defense Robert
+    - Defense Science Board
+    - Del Rio
+    - Deputy Secretary
+    - Development Board
+    - Director James Webb
+    - Don Sebastian
+    - Donald Hornig
+    - Dr. Brian Thompson
+    - Dr. Donald Hornig
+    - Dr. Eric
+    - Dr. Eric Walker
+    - Dr. Glenn Seaborg
+    - Dr. Hornig
+    - Dr. Paul Anir
+    - Dr. Stephen Greer
+    - Dr. Vannevar Bush
+    - Dr. Walker
+    - Eastern Standard
+    - Eastern Standard Time
+    - Eighth Calvary Regiment
+    - Emergency Planning
+    - Eric Walker
+    - Federal Radiation Council
+    - First Calvary Division
+    - Flying Saucer Conspiracy
+    - Fort Dix
+    - Fort Riley
+    - From Myron
+    - General Curtis
+    - General Harold
+    - General Wallace
+    - Glenn Seaborg
+    - Goose Bay
+    - Grant Cameron
+    - Habib Henry Asadahel
+    - Harry Truman
+    - Inner Sanctum
+    - James Jim Romansky
+    - James Oberg
+    - James Webb
+    - Jeff Morse
+    - Jeff Rents
+    - Jerry Betters
+    - Jesse Marcel Sr
+    - Jim Romansky
+    - Joe Califano
+    - John Murphy
+    - Johnson Calls
+    - Johnson Library
+    - Johnson Space Center
+    - Joint Chiefs
+    - Joint Research
+    - Kecksburg Crash Case
+    - Kecksburg Pennsylvania
+    - Kecksburg Volunteer Fireman
+    - Kennedy Jr
+    - La Trobe
+    - Leonard Stringfield
+    - Leslie Keane
+    - Leslie Keen
+    - Liberty Bell
+    - Lou Elizondo
+    - Major Donald Kehoe
+    - Major Hector Quintanilla
+    - Maple Street
+    - Marine Corps
+    - Meteor Road
+    - Mike Slater
+    - Military Academy
+    - Montel Williams
+    - Montell Williams
+    - Mr. Oberg
+    - National Archives
+    - National Science Board
+    - Naval Operations
+    - Naval Surveillance Center
+    - Navy Admiral Donald
+    - Near Laurelville
+    - New Jersey
+    - New York
+    - New York Times
+    - Nicholas Johnson
+    - Nick Cook
+    - Noah Torres
+    - Nobel Prize
+    - Oakdale Army
+    - Offworld Technologies Division
+    - On August
+    - On March
+    - One Dr
+    - Operation Safe Side
+    - Orbital Debris
+    - Patterson Air Base
+    - Paul Anir
+    - Paulie Parrot
+    - Penn State
+    - Penn State Police
+    - Penn State University
+    - Pennsylvania State University
+    - Philadelphia Municipal Airport
+    - Pittsburgh Press
+    - President Jimmy Carter
+    - President Lyndon
+    - Presidential Science Advisor
+    - Project Blue Book
+    - Project Moondust
+    - Public Affairs
+    - Radar Squadron
+    - Robert Sarbacher
+    - Robert Sarbakar
+    - Robert Willingham
+    - Russian Cyrillic
+    - Ryan Wood
+    - Science Advisor
+    - Secretary Orville Freeman
+    - Secretary Vance
+    - Senator Barry Goldwater
+    - South Africa
+    - Soviet Venus
+    - Space Command
+    - Stan Gordon
+    - Stanton Freedman
+    - Stephen Greer
+    - Stephen Lovekin
+    - Texas White House
+    - The Joint Chiefs
+    - The Kexburg
+    - The Polish
+    - The Reddit
+    - These Joint Chiefs
+    - Uncle Sam
+    - United States
+    - Unsolved Mysteries
+    - Untold Story
+    - Vannevar Bush
+    - Virginia Brazil
+    - Watching Myron
+    - West Virginia
+    - When Stringfield
+    - White House
+    - William Steinman
+    - World War
+    - Wright Pat
+
+??? info "Places (5)"
+
+    - Base
+    - City
+    - Kecksburg
+    - Pennsylvania
+    - Texas
+
+??? info "Organizations (22)"
+
+    - Academy
+    - Army
+    - Army General Earl Wheeler
+    - Committee
+    - Corps
+    - Department
+    - House Armed Services Committee
+    - Institute
+    - Kecksburg Fire Department Jim
+    - Lockborn Air Force Base
+    - Lockbourne Air Force Base
+    - Naval Veteran Special Assistant
+    - Navy
+    - Office
+    - Patterson Air Force Base
+    - Quincy
+    - Since
+    - Special
+    - United States Air Force
+    - United States Marine Corps
+    - University
+    - Wright Patterson Air Force
+
 **Download transcripts:** [SRT](../videos/rgBTMzFd-hg-the-1965-kecksburg-pennsylvania-ufo-crash/transcript.srt) · [VTT](../videos/rgBTMzFd-hg-the-1965-kecksburg-pennsylvania-ufo-crash/transcript.vtt) · [JSON](../videos/rgBTMzFd-hg-the-1965-kecksburg-pennsylvania-ufo-crash/transcript.json) · [TSV](../videos/rgBTMzFd-hg-the-1965-kecksburg-pennsylvania-ufo-crash/transcript.tsv)
+
+---
+
+← Newer: [10K Live! UAPDA, Crash Retrieval Research, Q&A and More](video-pages/jNC-0dmH5BQ.md) · Older: [9/8/24 Discussing Steven Greer London Live Event](video-pages/3iWLTyhdyf4.md) →
 
 ## Comments
 

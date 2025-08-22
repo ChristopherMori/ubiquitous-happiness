@@ -1056,7 +1056,276 @@ title: Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs
     much for joining me bye now
     
 
+## Entities
+
+??? info "People (194)"
+
+    - Aerospace Systems Directorate
+    - After World War
+    - Air Force
+    - Air Force Base
+    - Air Material Command
+    - Albert Speer
+    - American Machine
+    - American Southwest
+    - American Telephone
+    - An Air Base
+    - Ant Hill
+    - Ant Hill Dumb
+    - Antelope Valley
+    - Anzo California
+    - Armed Services Committee
+    - Army Corps
+    - Army Missile Command
+    - Army Test
+    - Army Training Center
+    - Bill Hamilton
+    - Bill Uhouse
+    - Blue Berets
+    - Blue Boy
+    - Bob Lazar
+    - Camp Peary
+    - Catherine Austin Fitz
+    - Catrone County
+    - Cheyenne Mountain
+    - China Lake
+    - Cold War
+    - Colonel Robert
+    - Colorado Springs
+    - Construction Lloyd
+    - Cosmic Top Secret
+    - Dan Ruder
+    - David Grush
+    - Deep Underground Construction
+    - Deputy Director
+    - Detection Techniques
+    - Douglas Stiff
+    - Dr. Michael Wolfe
+    - Dr. Richard Boylan
+    - Dr. Richard Sotter
+    - Dr. Sotter
+    - Dr. Stephen Greer
+    - Dugway Dumb
+    - Dugway Proving Ground
+    - Dugway Stiff
+    - Earl Zimmerman
+    - Earthworm Camp
+    - Edgar Fouchet
+    - Edwards Haystack Butte
+    - Edwards North Base
+    - Engineers Deputy Director
+    - Engineers Lloyd
+    - Evaluation Command
+    - Fletcher Prouty
+    - Flight Research Facility
+    - Flying Saucer
+    - Force Base
+    - Fort Detrick
+    - Fort Hood
+    - Foundry Company
+    - Fritz Tott
+    - Global Hawk
+    - Going Underground
+    - Government Trying
+    - Gray Army
+    - Gray Army Airfield
+    - Great Pumpkin
+    - Green Mountain
+    - Groom Lake
+    - Groom Lake Area
+    - Hans Kamler
+    - Harden Facilities
+    - Haystack Butte
+    - Haystack Butte Edwards
+    - Hidden Cavities
+    - Hidden Nazi
+    - In Stephen Greer
+    - Inyo County
+    - Jake Barber
+    - Lawrence Livermore Labs
+    - Leonard Stringfield
+    - Lieutenant Colonel
+    - Lieutenant Colonel Sims
+    - Literature Survey
+    - Lloyd Dusha
+    - Lockheed Hellendale
+    - Lockheed Skunkworks
+    - Look Magazine
+    - Los Alamos
+    - Los Alamos Labs
+    - Los Angeles
+    - Lucky Forward
+    - Lumen Ridge
+    - Manzano Mountains
+    - Massachusetts Institute
+    - Mednick Hill
+    - Michael Wolfe
+    - National Security Agency
+    - National Security Council
+    - Naval Facilities
+    - Navy Seabees
+    - Navy Veterans
+    - Nazi Germany
+    - Nevada Test
+    - New Jersey
+    - New Mexico
+    - New York
+    - Night Hawk
+    - North American
+    - Northrop Grumman
+    - Northrop Lockheed
+    - Northrop Tahan
+    - Northrop Tehachapi
+    - Northrop Tehan
+    - Nuclear Highways
+    - Nuclear Power Plants
+    - Operation Hidden
+    - Operation Paperclip
+    - Paul Benowitz
+    - Plain Site Beyond
+    - President Harry
+    - Presidential Camp David
+    - Project Red Light
+    - Project Star Talk
+    - Randy Anderson
+    - Raven Rock
+    - Raven Rock Complex
+    - Redstone Arsenal
+    - Regenwurm Lager
+    - Reich Minister
+    - Richard Boylan
+    - Richard Sotter
+    - Richie Project
+    - Robert Walters
+    - Sandia National Labs
+    - Santa Barbara
+    - Senate Intelligence
+    - Some Nazi
+    - Special Investigation
+    - Spirit Bomber
+    - Standard Oil Company
+    - Status Reports
+    - Stephen Greer
+    - Sugar Grove
+    - Super Sentinel
+    - Surface Deployment
+    - Telegraph Company
+    - Test Director
+    - Test Pilot School
+    - Test Wing
+    - Testing Facility
+    - The Antelope Valley
+    - The Army
+    - The History
+    - The Nazis
+    - The Secret Team
+    - The Star Talk
+    - The Two Lives
+    - The United States
+    - Third Army
+    - This Nazi
+    - Training Range
+    - Under Kamler
+    - Underground Bases
+    - Underground Construction Methods
+    - Underground Facilities
+    - Underground Installations
+    - Underwater Bases
+    - United States
+    - United States Capitol
+    - Unusual Underground Lab
+    - Urban Development
+    - War Production
+    - Weapon Center
+    - Weapon Station
+    - West Poland
+    - West Virginia
+    - Western Electric
+    - White Sands
+    - With Dorsch
+    - Witness Ed
+    - World Technologies Division
+    - World War
+    - World War Two
+    - Wright Pad
+    - Wright Pat
+    - Wright Patterson
+    - Xavier Dorsch
+    - Yuma County
+    - Yuma Proving Ground
+    - Yuma Test Center
+
+??? info "Places (22)"
+
+    - Area
+    - Arizona
+    - Base
+    - Bases
+    - China Lake Edwards Air
+    - China Lake Naval Air
+    - China Lake Naval Weapons
+    - City
+    - County
+    - Edwards
+    - Italy
+    - Kecksburg
+    - Lake
+    - Magenta
+    - Manzano Mountain Underground Facility
+    - Mexico
+    - Mountain
+    - Mountains
+    - Norad Cheyenne Mountain Complex
+    - Pennsylvania
+    - Texas
+    - Valley
+
+??? info "Organizations (38)"
+
+    - Agency
+    - Air Force Base Langley
+    - Air Force Propulsion Laboratory
+    - Air Force Research Lab
+    - Air Force Rocket Propulsion
+    - An Edwards Air Force
+    - Army
+    - Army Air Force Project
+    - Army Ballistic Missile Agency
+    - Army Warrenton Training Center
+    - Boeing
+    - Carswell Air Force Base
+    - Committee
+    - Company
+    - Corporation
+    - Corps
+    - Department
+    - Edwards Air Force Base
+    - Edwards Air Force Office
+    - George Air Force Base
+    - Handscom Air Force Base
+    - Institute
+    - Kirtland Air Force Base
+    - Labs
+    - Lockheed
+    - Los Alamos National Labs
+    - March Air Force Base
+    - Navy
+    - Nellis Air Force Base
+    - Northrop
+    - Norton Air Force Base
+    - Office
+    - Seymour Johnson Navy Training
+    - Since
+    - Special
+    - Tinker Air Force Base
+    - University
+    - Wright Patterson Air Force
+
 **Download transcripts:** [SRT](../videos/7Ats0lIy3Lo-deep-underground-military-bases-dumbs---ufo-legacy-programs/transcript.srt) · [VTT](../videos/7Ats0lIy3Lo-deep-underground-military-bases-dumbs---ufo-legacy-programs/transcript.vtt) · [JSON](../videos/7Ats0lIy3Lo-deep-underground-military-bases-dumbs---ufo-legacy-programs/transcript.json) · [TSV](../videos/7Ats0lIy3Lo-deep-underground-military-bases-dumbs---ufo-legacy-programs/transcript.tsv)
+
+---
+
+← Newer: [US Navy UFO Crash Retrieval & Reverse Engineering Programs](video-pages/H9GSqOEvoBE.md) · Older: [Dugway Proving Ground - UFO Legacy Programs](video-pages/rePrVmR6a68.md) →
 
 ## Comments
 

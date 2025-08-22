@@ -73,6 +73,10 @@ title: Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Gro
 
 **Download transcripts:** [SRT](../videos/R7DyJRf14nU-dr-robert-sarbacher-the-us-governments-secret-ufo-crash-retrieval-group/transcript.srt) · [VTT](../videos/R7DyJRf14nU-dr-robert-sarbacher-the-us-governments-secret-ufo-crash-retrieval-group/transcript.vtt) · [JSON](../videos/R7DyJRf14nU-dr-robert-sarbacher-the-us-governments-secret-ufo-crash-retrieval-group/transcript.json) · [TSV](../videos/R7DyJRf14nU-dr-robert-sarbacher-the-us-governments-secret-ufo-crash-retrieval-group/transcript.tsv)
 
+---
+
+← Newer: [USO - Unidentified Submerged Objects](video-pages/U-jrx_giINA.md) · Older: [Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)](video-pages/6DyTfIV87Ck.md) →
+
 ## Comments
 
 <script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

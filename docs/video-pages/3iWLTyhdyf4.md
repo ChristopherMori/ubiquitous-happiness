@@ -2562,7 +2562,274 @@ title: 9/8/24 Discussing Steven Greer London Live Event
     All right, see you guys.
     
 
+## Entities
+
+??? info "People (222)"
+
+    - Admiral Thomas Wilson
+    - Admiral Wilson
+    - Air Force
+    - Alan Dole
+    - Albert Stubblebine
+    - Albert Stubblebine Greer
+    - Alex Jones
+    - And Greer
+    - Ant Hill
+    - Army Intelligence Center
+    - Atomic Energy Act
+    - Baltimore Sun
+    - Barney Hill
+    - Big Lowe
+    - Big Lowe Aerospace
+    - Black Balloon
+    - Black Operation
+    - Black Ops
+    - Blue Book
+    - Bob Dean
+    - Bob Lazar
+    - British Columbia
+    - But Greer
+    - But Joe
+    - But Jonathan Reed
+    - Canadian Minister
+    - Carlisle Group
+    - Charles Bueller
+    - Chihuahua Desert
+    - China Lake
+    - Chloris Brazil
+    - Chris Leto
+    - Chris Mellon
+    - Christian Morales
+    - Chuck Schumer
+    - Cincinnati Bengals
+    - Coast Guard
+    - Collins Leighton
+    - Consciousness Connection Greer
+    - David Fraber
+    - David Gresh
+    - David Grosh
+    - David Grush
+    - Defense Pentagon
+    - Denzel Curry
+    - Donnell Roswell
+    - Dr. Eric Walker
+    - Dr. Greer
+    - Dr. Robert Sarbacher
+    - Drew Arajima
+    - Dugway German
+    - Dugway Proving Grounds
+    - East Germany
+    - Eddie Bravo
+    - Edgar Mitchell
+    - Eric Davis
+    - Eric Walker
+    - Event Horizon
+    - Fermi Paradox
+    - Flying Lotus
+    - Fort Hachuca
+    - Fort Huachuca
+    - Fort Sill
+    - Freedward Winterberg
+    - General Albert Stubblebine
+    - General John
+    - Google Earth
+    - Google Maps
+    - Gordon Cooper
+    - Green Berets
+    - Green Street
+    - Greer States
+    - Gryffindor Beatles
+    - Harold Malmgren
+    - Harry Drew
+    - Harry Reid
+    - Has Greer
+    - Here Greer
+    - Hilly Clinton
+    - Imperial College
+    - Jack Ramanson
+    - Jacques Valet
+    - Jacques Villiers
+    - James Fox
+    - James Rigney
+    - Jason Sands
+    - Jay Stratton
+    - Jean Mack
+    - Jeremy Corbell
+    - Jesse Michaels
+    - Jim Ryder
+    - Joe Rogan
+    - John Doe
+    - John Jones
+    - John Mack
+    - John Michael Gaudier
+    - John Michael Goode
+    - John Ramirez
+    - John Stewart
+    - Jonathan Reed
+    - Jonathan Wagan
+    - June Crane
+    - Kai Greer
+    - Kendrick Lamar
+    - Kevin Knuth
+    - Kingman Crash
+    - Kit Green
+    - Kona Blue
+    - Las Vegas
+    - Leonard Stringfield
+    - Lockheed Lighthouse
+    - Lockheed Martin
+    - Lockheed Martin Hellendale
+    - Los Alamos
+    - Lou Elizondo
+    - Low Altitude
+    - Magic Book
+    - Magic Eyes Only
+    - Major Albert Stubblebine
+    - Major Stubblebine
+    - Marco Rubio
+    - Mark Sockle
+    - Mental Western Australia
+    - Merrick Von Damic
+    - Michael Greer
+    - Michael Herrera
+    - Michael Schrat
+    - Michael Schratz
+    - Mick West
+    - Mike Baker
+    - Mount Rushmore
+    - Mr Lee
+    - Mr. Floyd
+    - Mr. Mosilli
+    - Mr. Pico Graham
+    - Mrs. Floyd
+    - Mufon Cincinnati
+    - Nashville Tennessee
+    - National Press Club
+    - Never Catch Me
+    - New Zealand
+    - Nick Williams
+    - No Man
+    - Northrop Ant Hill
+    - Northrop Grumman
+    - Norway Oslo
+    - Norwegian Krona
+    - Now Grush
+    - Oak Shannon
+    - People Greer
+    - Phil Snyder
+    - Philip Corso
+    - Pico Graham
+    - Pine Gap
+    - Pine Gap Australia
+    - Plasma Stopper Pulsion
+    - Project Gravitar
+    - Rand Pandolfi
+    - Really Greer
+    - Richard Dodie
+    - Richard Doty
+    - Rick Dodie
+    - Rick Strasman
+    - Rick Strassman
+    - Robert Sarbacher
+    - Rogan Krabs
+    - Ronald Moultrie
+    - Ronald Reagan
+    - Ross Campbell
+    - Ross Colard
+    - Ross Colt
+    - Ross Colt Hart
+    - Ross Colthart
+    - Royal Air Force
+    - Rudy Garcia
+    - Ryan Graves
+    - Ryan Wood
+    - Sacred Heart
+    - Sacred Heart Hospital
+    - Salami Rose
+    - Salt Lake
+    - Schumer Rounds Memo
+    - Sean Kirkpatrick
+    - Sean Ryan
+    - Sentinel Arizona
+    - Shannon Lee
+    - Sharing Greer
+    - Shining Moment
+    - Since June
+    - Sir Roger Penrose
+    - Slimy Toad
+    - So Greer
+    - So Stubblebine
+    - South Korea
+    - Soviet Union
+    - Stan Gordon
+    - Stanton Freeman
+    - Star Labs
+    - Stephen Greer
+    - Steven Dean
+    - Steven Digna
+    - Steven Greer
+    - The Cabal
+    - The Danny Cheehan
+    - The Eiger
+    - Tic Tac
+    - Tim Ventura
+    - Timber Shet
+    - Tom Begert
+    - Tom Cruise
+    - Translucent Bean
+    - Travis Walton
+    - Vannevar Bush
+    - Von Rennen
+    - When Greer
+    - White House
+    - Wilson Davis
+    - Wisconsin Saucer
+    - With Aero
+    - With Chris Leto
+    - With Jason Seagal
+    - With John Podesta
+
+??? info "Places (9)"
+
+    - Area
+    - Arizona
+    - Base
+    - Edwards
+    - Kecksburg
+    - Kingman
+    - Lake
+    - Mount
+    - Salt Lake Cinder Cone
+
+??? info "Organizations (21)"
+
+    - Appreciate
+    - Arkansas
+    - Army
+    - Battelle
+    - Cincinnati
+    - Collabs
+    - College
+    - Convincing
+    - Department
+    - Edwards Air Force Base
+    - Especially
+    - Fort Huachuca Army Intelligence
+    - Garcia
+    - Labs
+    - Lockheed
+    - Los Alamos National Labs
+    - Navy
+    - Northrop
+    - Penrose
+    - Pensacola
+    - Since
+
 **Download transcripts:** [SRT](../videos/3iWLTyhdyf4-9824-discussing-steven-greer-london-live-event/transcript.srt) · [VTT](../videos/3iWLTyhdyf4-9824-discussing-steven-greer-london-live-event/transcript.vtt) · [JSON](../videos/3iWLTyhdyf4-9824-discussing-steven-greer-london-live-event/transcript.json) · [TSV](../videos/3iWLTyhdyf4-9824-discussing-steven-greer-london-live-event/transcript.tsv)
+
+---
+
+← Newer: [The 1965 Kecksburg, Pennsylvania UFO Crash](video-pages/rgBTMzFd-hg.md) · Older: [9/1/24 Discussing WD Memo, 2004 JSOC Case and Q&A](video-pages/ZFUneP18LVI.md) →
 
 ## Comments
 

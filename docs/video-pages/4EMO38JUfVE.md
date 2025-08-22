@@ -2302,7 +2302,69 @@ title: Michael Herrera - Insights into UAP Encounter and Black Program Insiders
     be secret anymore.
     
 
+## Entities
+
+??? info "People (43)"
+
+    - Air Force
+    - Air Force Colonel
+    - And Greer
+    - And Joey
+    - Black Vault
+    - But Dr
+    - Chevy Duramax
+    - Chow Hall
+    - Daily Mail
+    - David Grush
+    - Dr. Greer
+    - Dr. Kirkpatrick
+    - Dr. Sean Kirkpatrick
+    - Eric Tabers
+    - John Wick
+    - Josh Boswell
+    - Josh Bosworth
+    - Kirk Patrick
+    - Late April
+    - Lockheed Martin
+    - Marine Colonel
+    - Marine Corps
+    - Michael Herrera
+    - Michael Stratton
+    - Mona Lisa
+    - My Kevlar
+    - National Press Club
+    - Navy Fullbird Captain
+    - No Marines
+    - Northrop Grumman
+    - Pat Woodlands
+    - Pentagon Arrow
+    - Rear Admiral
+    - Sean Kirkpatrick
+    - Sean Ryan
+    - Senate Intelligence Committee
+    - Sony Ericsson
+    - Steven Greenstreet
+    - Subic Bay
+    - The Insider
+    - The Super Stallions
+    - Tobbing Airport
+    - Total Disclosure
+
+??? info "Organizations (7)"
+
+    - Air Force Lieutenant Colonel
+    - Boeing
+    - Committee
+    - Corps
+    - Lockheed
+    - Navy
+    - Northrop
+
 **Download transcripts:** [SRT](../videos/4EMO38JUfVE-michael-herrera---insights-into-uap-encounter-and-black-program-insiders/transcript.srt) · [VTT](../videos/4EMO38JUfVE-michael-herrera---insights-into-uap-encounter-and-black-program-insiders/transcript.vtt) · [JSON](../videos/4EMO38JUfVE-michael-herrera---insights-into-uap-encounter-and-black-program-insiders/transcript.json) · [TSV](../videos/4EMO38JUfVE-michael-herrera---insights-into-uap-encounter-and-black-program-insiders/transcript.tsv)
+
+---
+
+← Newer: [Off-World Technologies Division – UAP Technology Reverse Engineering](video-pages/QJ215I85d5M.md) · Older: [Live with Joey](video-pages/azC7-UBRBSw.md) →
 
 ## Comments
 

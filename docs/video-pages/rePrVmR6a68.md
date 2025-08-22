@@ -951,7 +951,244 @@ title: Dugway Proving Ground - UFO Legacy Programs
     and I will see everybody on the next show. Thank you.
     
 
+## Entities
+
+??? info "People (171)"
+
+    - Administrator Daniel Golden
+    - Air Force
+    - Air Force Bases
+    - Air Force One
+    - Air Show
+    - Alan Sandler
+    - Alexander Volkanovsky
+    - Although Area
+    - Analyzing Google Earth
+    - Anders Weiborg
+    - Anthony Bregalia
+    - Army Airborne
+    - Army Land Located
+    - Army Test
+    - Atomic Energy Commission
+    - Avery Sector
+    - Avery Technical Center
+    - Avery Tunnel Entrance
+    - Bart Wright
+    - Battelle Memorial Institute
+    - Battelle Science
+    - Biological Defense Program
+    - Black Treat
+    - Board Member
+    - Bob Eschler
+    - Bob Lazar
+    - Bobby Ray Inman
+    - Brad Sorensen
+    - But Greer
+    - Call Admiral Inman
+    - Capabilities Overview
+    - Captain Harvey Williams
+    - Carlisle Group
+    - China Lake
+    - Classified Storage
+    - Colonel John
+    - Colonel Weinbrenner
+    - Congress Presentation
+    - Continued Exclusive Use
+    - Contractor Jacobs
+    - Conventional Army Research
+    - Countermeasures Center
+    - Deputy Director
+    - Desert Range
+    - Development Center
+    - Development Test
+    - Diego Garcia
+    - Diego Lopez
+    - Director Edgar Hoover
+    - Ditto Technical Center
+    - Dr. Eric Davis
+    - Dr. Stephen Greer
+    - Dress Collection
+    - Dugway Ditto
+    - Dugway Dumb
+    - Dugway Proving Ground
+    - Edgar Fouchet
+    - Environmental Assessment
+    - Eric Davis
+    - Evaluation Command
+    - Evaluation Organization
+    - Evaluation Partners
+    - Facility Bases
+    - Federally Funded Research
+    - Forest Service
+    - Fort Carson
+    - Fort Detrick
+    - Garrison Utah
+    - General Accounting Office
+    - General Howell Estes
+    - General Storage
+    - German Village
+    - Granite Peak
+    - Greg Frank
+    - Groom Lake
+    - Holloman Air Force
+    - Homeland Security
+    - If Harvey Williams
+    - In June
+    - Jacob Solutions
+    - Jake Barber
+    - James Fox
+    - James Goodall
+    - Jesse Michaels
+    - Jim Wilson
+    - Joint Services Chemical
+    - Kent Selen
+    - Lamont Sorensen
+    - Lockheed Martin Skunkworks
+    - Magic Eyes Only
+    - Major Range Test
+    - Martin Company
+    - Martin Corporation
+    - Michael Army
+    - Michael Army Airfield
+    - Michael Herrera
+    - Millard County
+    - Missile Defense Agency
+    - Mr. Ryan
+    - National Biodefense Analysis
+    - National Press Club
+    - Naval Research Labs
+    - Nevada Test
+    - New Area
+    - New Mexico
+    - Nick Pope
+    - Northrop Grumman Project
+    - Northrop Project
+    - Now Weinbrenner
+    - Operational Test
+    - Pax River
+    - Pearl Harbor
+    - Phoenix Project
+    - Photo Operations
+    - Pilot School
+    - Popular Mechanics
+    - Popular Mechanics Magazine
+    - Project Blue Book
+    - Project Red Light
+    - Radiobiological Warfare Laboratories
+    - Randy Anderson
+    - Range Squadron
+    - Rear Admiral
+    - Rhode Island
+    - Richard Dolan
+    - Richard Foch
+    - Robert Emanager
+    - Salt Lake
+    - Salt Lake City
+    - Science Applications International
+    - Senate Select Committee
+    - Six Navy
+    - South Range
+    - Space Dynamics Laboratory
+    - Space Wing
+    - Special Forces
+    - Special Operations Command
+    - Special Programs Division
+    - Star Trek
+    - Stephen Greer
+    - Steve Jones
+    - Strategic Defense Initiative
+    - Tawilla County
+    - Tech Command
+    - Technology International
+    - Teddy Roosevelt
+    - Test Center
+    - Test Operations
+    - Test Wing
+    - The Dugway
+    - The Garrison
+    - The Kradock
+    - The New Area
+    - The Phoenix Project
+    - This Battelle
+    - Tony Kradock
+    - Training Range
+    - United States
+    - United States Army
+    - Utah Launch Complex
+    - Utah Proving Ground
+    - Utah State University
+    - Utah Test
+    - Vice Chief
+    - Wackenhut Services
+    - Wendover Utah
+    - West Desert
+    - White Sands
+    - William Hamilton
+    - Witness Ed
+    - Yuma Test Center
+
+??? info "Places (15)"
+
+    - Area
+    - Arizona
+    - Base
+    - Bases
+    - China Lake Naval Warfare
+    - China Lake Weapon Center
+    - City
+    - County
+    - Edwards
+    - Facility Base West Desert
+    - Great Salt Lake Desert
+    - Kingman
+    - Lake
+    - Mexico
+    - Training Range Southern Area
+
+??? info "Organizations (36)"
+
+    - Agency
+    - Air Force Base Command
+    - Air Force Colonel Weinbrenner
+    - Air Force Northrop Grumman
+    - Army
+    - Army Dugway Proving Ground
+    - Battelle
+    - Battelle National Biodefense Institute
+    - Boeing
+    - Both Michael Army Airfield
+    - Committee
+    - Company
+    - Corporation
+    - Department
+    - Departments
+    - Edwards Air Force Base
+    - Edwards Air Force Test
+    - Garcia
+    - Hill Air Force Base
+    - Institute
+    - Interagency
+    - Laboratories
+    - Labs
+    - Lockheed
+    - Los Alamos National Labs
+    - National Interagency Biodefense Campus
+    - Navy
+    - Northrop
+    - Norton Air Force Base
+    - Office
+    - Officially
+    - Science Applications International Corporation
+    - Since
+    - Special
+    - University
+    - Wright Patterson Air Force
+
 **Download transcripts:** [SRT](../videos/rePrVmR6a68-dugway-proving-ground---ufo-legacy-programs/transcript.srt) · [VTT](../videos/rePrVmR6a68-dugway-proving-ground---ufo-legacy-programs/transcript.vtt) · [JSON](../videos/rePrVmR6a68-dugway-proving-ground---ufo-legacy-programs/transcript.json) · [TSV](../videos/rePrVmR6a68-dugway-proving-ground---ufo-legacy-programs/transcript.tsv)
+
+---
+
+← Newer: [Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs](video-pages/7Ats0lIy3Lo.md) · Older: [UFO Legacy Programs - Northrop Grumman](video-pages/E-GleS2aGj0.md) →
 
 ## Comments
 

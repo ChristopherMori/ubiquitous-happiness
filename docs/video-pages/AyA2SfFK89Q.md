@@ -22,6 +22,10 @@ title: Livestream and Q&A with Michael Herrera 10/6/24
 ## Transcript
 > _Transcript coming soon (pending local Whisper run)._
 
+---
+
+← Newer: [Alien Reproduction Vehicle - the Testimony of Mark McCandlish](video-pages/wF07QMm6joE.md) · Older: [UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2]](video-pages/U_LSMLGBDNg.md) →
+
 ## Comments
 
 <script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

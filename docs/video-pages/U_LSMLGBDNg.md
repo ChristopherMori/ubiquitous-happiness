@@ -598,7 +598,58 @@ title: UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2]
     later bye
     
 
+## Entities
+
+??? info "People (24)"
+
+    - Air Force
+    - Air Force Base
+    - Armed Services Committee
+    - Bob Lazar
+    - Disclosure Briefing
+    - Disclosure Project
+    - Dr. Greer
+    - Dr. Robert Wood
+    - Dugway Proving Grounds
+    - House Oversight Committee
+    - Jonathan Wagan
+    - Lieutenant Colonel
+    - Lockheed Martin Skunkworks
+    - Michael Herrera
+    - Richard Doty
+    - Richard Focch
+    - Robert Salas
+    - Robert Wood
+    - Senate Intelligence
+    - Senate Intelligence Committee
+    - Stephen Greer
+    - Steven Greer
+    - World War
+    - Wright Patterson
+
+??? info "Places (3)"
+
+    - Area
+    - Base
+    - Edwards
+
+??? info "Organizations (9)"
+
+    - Air Force Nellis Edwards
+    - Boeing
+    - Committee
+    - Department
+    - Edwards Air Force Base
+    - Hanscom Air Force Base
+    - Lockheed
+    - Nellis Air Force Base
+    - Wright Patterson Air Force
+
 **Download transcripts:** [SRT](../videos/U_LSMLGBDNg-uap-reverse-engineering-at-edwards-air-force-base-redacted-list-vol2/transcript.srt) · [VTT](../videos/U_LSMLGBDNg-uap-reverse-engineering-at-edwards-air-force-base-redacted-list-vol2/transcript.vtt) · [JSON](../videos/U_LSMLGBDNg-uap-reverse-engineering-at-edwards-air-force-base-redacted-list-vol2/transcript.json) · [TSV](../videos/U_LSMLGBDNg-uap-reverse-engineering-at-edwards-air-force-base-redacted-list-vol2/transcript.tsv)
+
+---
+
+← Newer: [Livestream and Q&A with Michael Herrera 10/6/24](video-pages/AyA2SfFK89Q.md) · Older: [9/29/24 Bush/Cheney Historical Connections to UFO Legacy Crash Retrieval Programs Ft. VolarRecords](video-pages/t85t8QpTsD4.md) →
 
 ## Comments
 

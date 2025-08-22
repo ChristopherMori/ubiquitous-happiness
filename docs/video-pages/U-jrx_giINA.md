@@ -441,7 +441,117 @@ title: USO - Unidentified Submerged Objects
     So thank you so much and I'll catch everybody next time.
     
 
+## Entities
+
+??? info "People (77)"
+
+    - Admiral Sackett
+    - Air Force
+    - Air Force Office
+    - Alex Mistretta
+    - And David Fraver
+    - Arms Control Center
+    - Atlantic Ocean
+    - Atmospheric Administration
+    - Blue Book
+    - Carl Vinson
+    - Colonel Dunn
+    - Communications Act
+    - Donald Keyho
+    - Energy Nuclear Physicists
+    - Feta Morgana
+    - Force Publication
+    - Galactic Federations
+    - Google Earth
+    - Gulfo San Matisse
+    - Information Act
+    - Jamal Hill
+    - Jan Mayen Island
+    - John Clica
+    - John Greenwald
+    - John Ramirez
+    - Kingman Air
+    - Kona Blue
+    - Leonard Stringfield
+    - Lou Elizondo
+    - Major Dewey Fernet
+    - Mark Dantonio
+    - Mount Hayes
+    - National Oceanic
+    - Naval Intelligence
+    - Naval Operations
+    - Naval Research
+    - Navy Lieutenant George
+    - Navy Rear Admiral
+    - Nova Scotia
+    - Oak Shannon
+    - Officer John Clica
+    - Project Blue Book
+    - Project Grudge
+    - Project Stork
+    - Puerto Rican
+    - Puerto Rico
+    - Rear Admiral
+    - Ross Coltart
+    - Royal Canadian Navy
+    - Secure Facility
+    - Shag Harbor
+    - Shelburne Harbor
+    - Sol Cal
+    - Sol Foundation
+    - South African Airways
+    - Stephen Greer
+    - Steve Murillo
+    - Super Hornets
+    - Terry Virts
+    - That Holloway Gachie
+    - The Admiral
+    - The Condon Report
+    - The Rear Admiral
+    - The Robertson Panel
+    - Tic Tac
+    - Tic Tac Encounter
+    - Timothy Galladette
+    - Timothy Gallaudet
+    - Timothy Goode
+    - Top Secret
+    - Weapons Intelligence Non
+    - Weapons Research
+    - Wilson Davis
+    - Wim Van Utrecht
+    - With Dantonio
+    - Yuri Prohaska
+    - Zona Crash
+
+??? info "Places (3)"
+
+    - Base
+    - Kingman
+    - Mount
+
+??? info "Organizations (15)"
+
+    - Air Force Technical Intelligence
+    - Army
+    - Battelle
+    - Department
+    - Foundation
+    - Joint Army Navy Air
+    - Laboratories
+    - Los Alamos National Laboratories
+    - Navy
+    - Navy Fleet Logistics Air
+    - Norton Air Force Base
+    - Office
+    - Officer
+    - Petty Officer John Bowman
+    - Petty Officer Kevin Thomas
+
 **Download transcripts:** [SRT](../videos/U-jrx_giINA-uso---unidentified-submerged-objects/transcript.srt) · [VTT](../videos/U-jrx_giINA-uso---unidentified-submerged-objects/transcript.vtt) · [JSON](../videos/U-jrx_giINA-uso---unidentified-submerged-objects/transcript.json) · [TSV](../videos/U-jrx_giINA-uso---unidentified-submerged-objects/transcript.tsv)
+
+---
+
+← Newer: [USO Case Book: Unidentified Submerged Objects Throughout History](video-pages/Yn-83KbgRN8.md) · Older: [Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group](video-pages/R7DyJRf14nU.md) →
 
 ## Comments
 

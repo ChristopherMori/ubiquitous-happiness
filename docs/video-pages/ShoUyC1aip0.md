@@ -1788,7 +1788,337 @@ title: 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY
     Catch everybody next time. Bye.
     
 
+## Entities
+
+??? info "People (249)"
+
+    - Admiral William
+    - Advanced Warfighting Experiment
+    - Aerospace Vehicles
+    - Air Force
+    - Air Force Plant
+    - Air Show
+    - Airground Task Force
+    - An Operational Examination
+    - Angelo Assetta
+    - Ant Hill Dome
+    - Antelope Valley
+    - Armed Services Committee
+    - Army Green Berets
+    - Atlantic Undersea Test
+    - Atomic Energy Act
+    - Atomic Energy Agreement
+    - Belgian Triangle
+    - Big Dipper
+    - Big Six
+    - Black Aces
+    - Black Ops
+    - Blocked Epistemology
+    - Blue Boys
+    - Bob Lazar
+    - Bobby Ray Inman
+    - Brad Sorenson
+    - But Edwards
+    - But Fouchet
+    - By Castle
+    - By Fouchet
+    - Captain Pete Mitchell
+    - Castles Encounter
+    - China Lake
+    - Chris Carter
+    - Chris Ramsey
+    - Close Encounters
+    - Cold War
+    - Combat Center
+    - Commander David Fraver
+    - Controlled Access Program
+    - Could Castle
+    - Could Edwards
+    - Danny Jones
+    - David Grush
+    - Deep Sea Triangle
+    - Deep Submergence Systems
+    - Defense Agency
+    - Defense Intelligence Agency
+    - Deputy Commanding General
+    - Deputy Director
+    - Despite Castle
+    - Detailing Findings
+    - Development Center
+    - Development Test
+    - Dr. Eric
+    - Dr. Kevin Knuth
+    - Dr. Stephen Greer
+    - Dr. Vannevar Bush
+    - Dr. Walker
+    - During Hunter Warrior
+    - East Avenue
+    - Edgar Fouchet
+    - Edwards Infamous
+    - Edwards Range Orientation
+    - Edwards Restricted Ranges
+    - Emerson Dry Lakebed
+    - Emmanuel Bates
+    - Empire Avenue
+    - Energy Guard Services
+    - Energy Special Response
+    - Eric Burleson
+    - Evaluation Command
+    - Evaluation Engineering Resources
+    - Evaluation Expertise
+    - Evaluation Panel Chain
+    - Fallon Range
+    - Fallon Test Range
+    - Federal Aviation Administration
+    - Files Season
+    - Findings Released
+    - Flying Nightmares
+    - Fort Wachuka
+    - Frank Carlucci
+    - Frank Harlucci
+    - Funded Research
+    - General Accounting Office
+    - General Charles Krulak
+    - Global Hawk
+    - Grandpa Roder
+    - Gravity Reduction Device
+    - Groom Lake
+    - Groom Lake Area
+    - Ground Task Force
+    - Gulf War
+    - Harrier Squadron
+    - Hunter Air
+    - Hunter Warfighter
+    - Hunter Warrior
+    - Hunter Warrior Experiment
+    - Immaculate Constellation Reports
+    - In Waganth
+    - In Weigant
+    - In Weygant
+    - Intelligence Community
+    - Jeremy Corbell
+    - Jesse Michaels
+    - John Hopkins
+    - John Pena Craven
+    - Jonathan Waganth
+    - Jonathan Weigandt
+    - Jonathan Weygant
+    - Kevin Knuth
+    - Land Management Lands
+    - Landing Jets
+    - Lawrence Livermore Labs
+    - Legacy Program
+    - Legacy Program Operations
+    - Legacy Programs
+    - Livermore Laboratories
+    - Lockheed Hellendale
+    - Lockheed Martin
+    - Lockheed Skunk Works
+    - Magnetic Field Disruptor
+    - Major Range
+    - Marine Brothers
+    - Marine Corps
+    - Marine Corps Sergeant
+    - Marine Station
+    - Marines Jonathan Waganth
+    - Matthew Brown
+    - Meet Richard Mingus
+    - Meet Roderick Castle
+    - Michael Herrera
+    - Michael Herreras
+    - Middle East
+    - Mighty Mo
+    - Military Occupational Specialty
+    - Mr. Castle
+    - Nassel Amour
+    - Nassla Mour
+    - National Intelligence
+    - National Moor
+    - National Training Center
+    - Nautic Top Gun
+    - Naval Air Station
+    - Naval Analysis
+    - Naval Operations
+    - Navy Admiral
+    - Navy Chief Scientist
+    - Navy Federally
+    - Navy Flight Training
+    - Navy Legacy Operations
+    - Navy Nautic
+    - Nellis Ed
+    - Nevada Test
+    - Nevada Test Range
+    - Nevada Test Site
+    - New Mexico
+    - Newark Keyport
+    - Night Hawk
+    - Northern California
+    - Northrop Grumman
+    - Northrop Tahan
+    - Northrop Tehan
+    - Operating Aggressor Force
+    - Operating Forces
+    - Pacific Command
+    - Palm Center
+    - Palmdale Plant
+    - Patuxent River
+    - Pax River
+    - Penn State
+    - Pennsylvania State University
+    - Polaris Summary Program
+    - Premier Test
+    - President Ronald Reagan
+    - Randy Anderson
+    - Range Wing
+    - Recall Ed
+    - Rep Burleson
+    - Representative Burleson
+    - Research Board
+    - Restricted Flight Airspace
+    - Richard Dreyfus
+    - Roderick Castle
+    - Roderick John Castle
+    - Ross Colthart
+    - Royce Pegasus
+    - Sal Paese
+    - San Diego
+    - Sandia National Labs
+    - Scientific Research
+    - Senate Intelligence
+    - Senate Select Committee
+    - Senator Rounds
+    - Short Takeoff
+    - Soul Foundation
+    - Southern California
+    - Special Mission Unit
+    - Special Operations Command
+    - Special Projects
+    - Spirit Bomber
+    - Stephen Greer
+    - Steven Greer
+    - Sufer Hornet
+    - Super Cobra
+    - Super Sentinel
+    - Tactical Reconnaissance
+    - Tanner Johnson
+    - Task Force
+    - Teledyne Ryan
+    - Test Center
+    - Test Facility Base
+    - Test Pilot School
+    - Test Wing
+    - The Air Station
+    - The Center
+    - The Marines
+    - The Navy
+    - The Nimitz
+    - The Puss Watson
+    - The Schumer Rounds
+    - The Terrorism Industry
+    - Third Kind
+    - Tic Tac
+    - Tohachapi Triangle
+    - Top Gun
+    - Top Gun Maverick
+    - Top Gun School
+    - Top Gunner
+    - Training Complex
+    - Training Range
+    - Troops Engaged
+    - Two Department
+    - United States
+    - United States Department
+    - Upper Mojave Desert
+    - Utah Test
+    - Vannevar Bush
+    - Vertical Landing
+    - Vertical Takeoff
+    - Vice Director
+    - Wackenhut Corporation
+    - Warfare Center
+    - Warfighting Experiment
+    - West Coast
+    - What Mr
+    - Wright Patterson Hangar
+    - Yuma Proving Ground
+
+??? info "Places (15)"
+
+    - Area
+    - Arizona
+    - Base
+    - Based
+    - Based Aerial Fire Support
+    - Edwards
+    - Ever Elusive Groom Lake
+    - Lake
+    - Lakebed
+    - Mexico
+    - Pennsylvania
+    - Peru
+    - Peruvian
+    - Texas
+    - Valley
+
+??? info "Organizations (51)"
+
+    - Accompanying
+    - Agency
+    - Air Force Flight Test
+    - Air Force Master Sergeant
+    - Air Force Test Pilot
+    - An Air Force Base
+    - Army
+    - Army Public Affairs Officer
+    - Boeing
+    - Committee
+    - Corporal
+    - Corporation
+    - Corps
+    - Department
+    - Edwards Air Force Base
+    - Edwards Air Force Flight
+    - Energy Special Response Teams
+    - Experimental Special Purpose Marine
+    - Foundation
+    - Joint Special Operations Command
+    - Laboratories
+    - Labs
+    - Lance Corporal Jonathan Waganth
+    - Lawrence Livermore National Labs
+    - Lockheed
+    - Los Alamos National Labs
+    - Marine Corps Air Ground
+    - Marine Corps Air Station
+    - Marine Corps Combat Development
+    - Marine Corps Commanding General
+    - Marine Corps Warfighting Laboratory
+    - National Underwater Reconnaissance Office
+    - Naval Air Force Pacific
+    - Navy
+    - Navy Aviation Maintenance Administrator
+    - Navy Fighter Weapon School
+    - Nellis Air Force Base
+    - New York Army National
+    - Northrop
+    - Norton Air Force Base
+    - Office
+    - Officer
+    - Pentagon Air Force Research
+    - Special
+    - Special Purpose Marine Air
+    - Specialty
+    - Test Wing Air Force
+    - Test Wings Air Force
+    - United States Marine Corps
+    - University
+    - With Air Force Plant
+
 **Download transcripts:** [SRT](../videos/ShoUyC1aip0-1997-alien-reproduction-vehicle-encounter-at-29-palms-ca---the-testimony-of-sgt-roderick-castle/transcript.srt) · [VTT](../videos/ShoUyC1aip0-1997-alien-reproduction-vehicle-encounter-at-29-palms-ca---the-testimony-of-sgt-roderick-castle/transcript.vtt) · [JSON](../videos/ShoUyC1aip0-1997-alien-reproduction-vehicle-encounter-at-29-palms-ca---the-testimony-of-sgt-roderick-castle/transcript.json) · [TSV](../videos/ShoUyC1aip0-1997-alien-reproduction-vehicle-encounter-at-29-palms-ca---the-testimony-of-sgt-roderick-castle/transcript.tsv)
+
+---
+
+Older: [The 1948 Aztec, New Mexico UFO Crash Retrieval](video-pages/QJxbyu-9Tj0.md) →
 
 ## Comments
 

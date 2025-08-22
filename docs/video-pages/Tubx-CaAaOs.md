@@ -348,7 +348,85 @@ title: "FASTWALKERS \u2013 UFOs Outside Earth"
     Thank you guys so much for joining and as always, I will catch you for the next video.
     
 
+## Entities
+
+??? info "People (51)"
+
+    - Aerospace Corporation
+    - Air Force Institute
+    - Allen Heineck
+    - Ballistic Warning Detection
+    - Based Satellite Tracking
+    - Black Vault
+    - Blue Book
+    - Bob Fish
+    - Brad Sparks
+    - Captain Bradley
+    - Captain Richard
+    - Characterization Utilizing Non
+    - Citizens Against
+    - Clear Intent
+    - Defense Support Program
+    - Desert Storm
+    - El Segundo
+    - Eric Davis
+    - Graham Enreger
+    - Hal Puthoff
+    - Here Brad
+    - Hidden Science
+    - Hillary Clinton
+    - Imaging Passive Sensors
+    - In Plain Sight
+    - Indian Ocean
+    - Information Act
+    - Jacques Fillet
+    - Joe Stafula
+    - John Greenwald
+    - John Podesta
+    - Kit Green
+    - Lawrence Fawcett
+    - Lee Graham
+    - Lockheed Raytheon
+    - Long Beach
+    - Northrop Grumman
+    - Now You Don
+    - Operation Desert Shield
+    - Orbit Determination
+    - Overhead Platforms
+    - Roger Rager
+    - Ross Colthart
+    - Scientific Advisor
+    - Space Force
+    - Space Force Base
+    - The Walker
+    - Tim Schwartz
+    - United States
+    - White House
+    - Yousaf Captain Harry
+
+??? info "Places (2)"
+
+    - Base
+    - Based
+
+??? info "Organizations (10)"
+
+    - Air Force Foreign Technology
+    - Army
+    - Army Criminal Investigation Command
+    - Corporation
+    - Institute
+    - Lockheed
+    - Northrop
+    - Patterson Air Force Base
+    - Since
+    - Yousaf
+
 **Download transcripts:** [SRT](../videos/Tubx-CaAaOs-fastwalkers-ufos-outside-earth/transcript.srt) · [VTT](../videos/Tubx-CaAaOs-fastwalkers-ufos-outside-earth/transcript.vtt) · [JSON](../videos/Tubx-CaAaOs-fastwalkers-ufos-outside-earth/transcript.json) · [TSV](../videos/Tubx-CaAaOs-fastwalkers-ufos-outside-earth/transcript.tsv)
+
+---
+
+← Newer: [The 1953 Kingman, Arizona UFO Crash](video-pages/41V4Pf_8oo4.md) · Older: [UFOs in the Private Sector - Lockheed Martin](video-pages/tVdzvvbbHW4.md) →
 
 ## Comments
 

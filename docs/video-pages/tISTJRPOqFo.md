@@ -279,7 +279,89 @@ title: UFOs in the Private Sector - Battelle Memorial Institute
     Thank you.
     
 
+## Entities
+
+??? info "People (55)"
+
+    - Air Force
+    - Alexander Volkanovsky
+    - Allen Heineck
+    - Analytical Methods
+    - Atomic Energy Agreement
+    - Atomic Energy Commission
+    - Based Alloys
+    - Battel Memorial Institute
+    - Battelle Memorial Institute
+    - Captain Edward
+    - Carlisle Group
+    - Central Intelligence
+    - Chris Mellon
+    - Countermeasures Center
+    - Crash Connection
+    - David Grush
+    - Dr. Howard
+    - Dr. Irene Scott
+    - Dr. Sean Kirkpatrick
+    - Dr. William
+    - Elroy John Center
+    - Eric Davis
+    - Flying Saucers
+    - General Rami
+    - Irene Scott
+    - James Fox
+    - Jesse Marcell
+    - Joe Rogan
+    - Kathy Center
+    - Lockheed Martin
+    - Los Alamos
+    - Lou Elizondo
+    - Mac Brazel
+    - Major Jesse Marcell
+    - Manhattan Project
+    - National Biodefense Analysis
+    - Network Board
+    - Nickel Titanium
+    - North High School
+    - Nuclear Foreign Material
+    - Ohio Muffin General
+    - Other Stories
+    - Project Stork
+    - Rancher Mack Braswell
+    - Robertson Panel
+    - Ronald Moultrie
+    - Sean Kirkpatrick
+    - Senator Harry Reid
+    - So Battelle
+    - Special Report
+    - The Ohio
+    - The Undersecretary
+    - This Sandcorp
+    - Varginia Brazil
+    - Within Battel Report
+
+??? info "Places (2)"
+
+    - Base
+    - Based
+
+??? info "Organizations (10)"
+
+    - Air Force Technology Intelligence
+    - Battelle
+    - Committee
+    - Institute
+    - Lockheed
+    - Meet Battelle Memorial Institute
+    - Patterson Air Force Base
+    - Sandcorp
+    - Special
+    - Wright Patterson Air Force
+
 **Download transcripts:** [SRT](../videos/tISTJRPOqFo-ufos-in-the-private-sector---battelle-memorial-institute/transcript.srt) · [VTT](../videos/tISTJRPOqFo-ufos-in-the-private-sector---battelle-memorial-institute/transcript.vtt) · [JSON](../videos/tISTJRPOqFo-ufos-in-the-private-sector---battelle-memorial-institute/transcript.json) · [TSV](../videos/tISTJRPOqFo-ufos-in-the-private-sector---battelle-memorial-institute/transcript.tsv)
+
+---
+
+← Newer: [UFOs in the Private Sector - Lockheed Martin](video-pages/tVdzvvbbHW4.md) · Older: [SOL Foundation: Karl Nell - A Key Figure in UAP Disclosure](video-pages/kKbSIfc7N7Q.md) →
 
 ## Comments
 

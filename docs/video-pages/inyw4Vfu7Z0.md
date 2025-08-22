@@ -62,6 +62,10 @@ title: "The Physics of UFOs\u2013 Dr. Kevin Knuth"
 
 **Download transcripts:** [SRT](../videos/inyw4Vfu7Z0-the-physics-of-ufos-dr-kevin-knuth/transcript.srt) · [VTT](../videos/inyw4Vfu7Z0-the-physics-of-ufos-dr-kevin-knuth/transcript.vtt) · [JSON](../videos/inyw4Vfu7Z0-the-physics-of-ufos-dr-kevin-knuth/transcript.json) · [TSV](../videos/inyw4Vfu7Z0-the-physics-of-ufos-dr-kevin-knuth/transcript.tsv)
 
+---
+
+← Newer: [The 1933 Magenta, Italy UFO Crash](video-pages/FGiwgyLY7Aw.md) · Older: [The 1953 Kingman, Arizona UFO Crash](video-pages/41V4Pf_8oo4.md) →
+
 ## Comments
 
 <script src="https://utteranc.es/client.js" repo="christophermori/ubiquitous-happiness" issue-term="pathname" label="comments" theme="github-light" crossorigin="anonymous" async></script>

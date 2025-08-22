@@ -796,7 +796,63 @@ title: 'Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)'
     So thank you guys. I'll catch you next time.
     
 
+## Entities
+
+??? info "People (37)"
+
+    - Air Force Colonel
+    - And Michael
+    - Black Program
+    - Blue Book
+    - Carl Nell
+    - Chris Leto
+    - Daily Mail
+    - David Grush
+    - Defense Office
+    - Dobser Review
+    - Dr. Greer
+    - Dr. Kirkpatrick
+    - Encounter Part
+    - His Reddit
+    - In October
+    - Jonathan Wagan
+    - Jonathan Wagon
+    - Jonathan Weighant
+    - Marine Expeditionary Unit
+    - Marine Michael Herrera
+    - Michael Herrera
+    - National Press Club
+    - Paul Benowitz
+    - Secret Machines
+    - Security Review
+    - Since Indonesia
+    - So Michael
+    - Stephen Greer
+    - Super Stallion
+    - Taming Airport
+    - The Black
+    - The Insider
+    - Too Close
+    - When Marines
+    - While Joey
+    - Wilson Davis
+    - With American
+
+??? info "Places (1)"
+
+    - Mexico
+
+??? info "Organizations (3)"
+
+    - Especially
+    - Office
+    - Since
+
 **Download transcripts:** [SRT](../videos/6DyTfIV87Ck-michael-herrera-ufo-whistleblower-ft-joeyisnotmyname/transcript.srt) · [VTT](../videos/6DyTfIV87Ck-michael-herrera-ufo-whistleblower-ft-joeyisnotmyname/transcript.vtt) · [JSON](../videos/6DyTfIV87Ck-michael-herrera-ufo-whistleblower-ft-joeyisnotmyname/transcript.json) · [TSV](../videos/6DyTfIV87Ck-michael-herrera-ufo-whistleblower-ft-joeyisnotmyname/transcript.tsv)
+
+---
+
+← Newer: [Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group](video-pages/R7DyJRf14nU.md) · Older: [The 1933 Magenta, Italy UFO Crash](video-pages/FGiwgyLY7Aw.md) →
 
 ## Comments
 

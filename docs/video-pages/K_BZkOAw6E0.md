@@ -186,7 +186,50 @@ title: The First Commercial Flight Grounded Due to UFOs
     channel and I'll catch you guys next time.
     
 
+## Entities
+
+??? info "People (23)"
+
+    - Air Force
+    - Captain Fernando Camaro
+    - Captain Javier
+    - Commander David Fravers
+    - Fernando Kamara
+    - Flight Recreations
+    - Francisco Javier Rodriguez
+    - Frightening Jafari
+    - Iwo Jima
+    - Javier Laredo
+    - La Palmas
+    - Lozianos Air Base
+    - Major Parviz Jafari
+    - Manisace Airport
+    - On November
+    - Salzburg Austria
+    - San Diego
+    - Super Caravell
+    - Super Caravelle
+    - The Mirage
+    - This Tehran
+    - Valencia Spain
+    - Zouaza Nagore
+
+??? info "Places (2)"
+
+    - Base
+    - Peru
+
+??? info "Organizations (3)"
+
+    - Imperial Iranian Air Force
+    - Manisace Air Force Base
+    - Valencia
+
 **Download transcripts:** [SRT](../videos/K_BZkOAw6E0-the-first-commercial-flight-grounded-due-to-ufos/transcript.srt) · [VTT](../videos/K_BZkOAw6E0-the-first-commercial-flight-grounded-due-to-ufos/transcript.vtt) · [JSON](../videos/K_BZkOAw6E0-the-first-commercial-flight-grounded-due-to-ufos/transcript.json) · [TSV](../videos/K_BZkOAw6E0-the-first-commercial-flight-grounded-due-to-ufos/transcript.tsv)
+
+---
+
+← Newer: [MOON DUST - The Pentagon's Secret UFO Programs](video-pages/6ZuHLgVtKu8.md) · Older: [The Marines Who Got too Close to UFOs](video-pages/HnxylCl68Tg.md) →
 
 ## Comments
 

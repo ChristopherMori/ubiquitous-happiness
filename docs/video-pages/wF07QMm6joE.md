@@ -657,7 +657,169 @@ title: Alien Reproduction Vehicle - the Testimony of Mark McCandlish
     Bye.
     
 
+## Entities
+
+??? info "People (122)"
+
+    - Advanced Technology
+    - After Mark
+    - Air Force
+    - Air Force Plant
+    - Air Intelligence Agency
+    - Alien Reproduction Vehicle
+    - Alien Reproduction Vehicles
+    - Amy Eskridge
+    - And Star Drive
+    - Army Futures Command
+    - Army Green Beret
+    - As Mark
+    - Aurora Craft
+    - Aviation Week
+    - Baby Bear
+    - Bell Labs
+    - Better Angels
+    - Biden Administration
+    - Bill Scott
+    - Bob Lazar
+    - Brad Sorensen
+    - Brad Sorenson
+    - Brown Jr
+    - But Brad
+    - Captain Harvey Williams
+    - Carl Nell
+    - Carlisle Group
+    - Commander David Fraver
+    - Congressional Committee
+    - Congressman Brown
+    - Congressman George
+    - Corey Good
+    - David Rubenstein
+    - Dick Cheney
+    - Did Brad
+    - Disclosure Project
+    - Dr. Amy Eskridge
+    - Dr. Greer
+    - Dr. Sean Kirkpatrick
+    - Dugway Aviary Building
+    - Dugway Proving Grounds
+    - East Germany
+    - Edgar Fausch
+    - Edgar Foush
+    - Edwards North Base
+    - Electronics Warfare Group
+    - Eugene Malove
+    - Exotic Science
+    - Frank Carducci
+    - Frank Carlucci
+    - Great Pumpkin
+    - Harvey Williams
+    - Holocron Engineering
+    - Immaculate Constellation
+    - In December
+    - Interstellar Travel
+    - James Allen
+    - James Clerk Maxwell
+    - James Hallen
+    - Jesse Michael
+    - Johnson Space Center
+    - Kent Snowlin
+    - Leonard Stringfield
+    - Lockheed Martin
+    - Lockheed Pulsar
+    - Lockheed Skunk Works
+    - Lockheed Skunkworks
+    - Mark Tomion
+    - Michael Schellenberger
+    - Michael Schrat
+    - Miguel Alcubierre
+    - Mr. Hines
+    - Mr. Sorensen
+    - National Press Club
+    - Nevada Test
+    - Nikola Tesla
+    - Northrop Grumman
+    - On April
+    - Palmdale Airport
+    - Palmdale Hangar
+    - Popular Science
+    - Professor Kevin Knuth
+    - Professor Knuth
+    - Rick Price
+    - Rockwell International
+    - Ronald Moultrie
+    - Sean Kirkpatrick
+    - Senator Rubio
+    - Senior Engineer
+    - Skunk Works
+    - Soul Foundation
+    - Soviet Union
+    - Space Science
+    - Space Shuttle
+    - Space Technology
+    - State James Baker
+    - Stefan Marinov
+    - Stephen Greer
+    - Technologies Division
+    - Terrestrial Officers
+    - Test Pilot School
+    - The Alcubierre
+    - The Aurora
+    - The Carlisle Group
+    - The Feasibility
+    - The Fluxliner
+    - The Lieutenant Colonel
+    - The Lockheed Aurora
+    - The Story
+    - Tic Tac
+    - Tom Keaton
+    - Townsend Brown
+    - Training Range
+    - Under Secretary
+    - United States
+    - Was Mark
+    - When Brad
+    - Wilson Davis
+    - Without Mark
+    - Witness Ed
+    - Zero Point
+    - Zero Point Energy
+
+??? info "Places (4)"
+
+    - Base
+    - Based
+    - Edwards
+    - Mexico
+
+??? info "Organizations (21)"
+
+    - Agency
+    - Army
+    - Boeing
+    - Committee
+    - Edwards Air Force Base
+    - Foundation
+    - Included
+    - Institute
+    - Labs
+    - Lockheed
+    - Lockheed Martin Calabasas Division
+    - Lockheed Martin Skunk Works
+    - Los Alamos National Labs
+    - Nellis Air Force Base
+    - Northrop
+    - Northrop Grumman Advanced Concepts
+    - Norton Air Force Base
+    - Officers
+    - Palmdale Air Force Plant
+    - Since
+    - University
+
 **Download transcripts:** [SRT](../videos/wF07QMm6joE-alien-reproduction-vehicle---the-testimony-of-mark-mccandlish/transcript.srt) · [VTT](../videos/wF07QMm6joE-alien-reproduction-vehicle---the-testimony-of-mark-mccandlish/transcript.vtt) · [JSON](../videos/wF07QMm6joE-alien-reproduction-vehicle---the-testimony-of-mark-mccandlish/transcript.json) · [TSV](../videos/wF07QMm6joE-alien-reproduction-vehicle---the-testimony-of-mark-mccandlish/transcript.tsv)
+
+---
+
+← Newer: [Post UAP Hearing Live Stream: Time in DC, Immaculate Constellation, & More](video-pages/t9cLswYmWzU.md) · Older: [Livestream and Q&A with Michael Herrera 10/6/24](video-pages/AyA2SfFK89Q.md) →
 
 ## Comments
 

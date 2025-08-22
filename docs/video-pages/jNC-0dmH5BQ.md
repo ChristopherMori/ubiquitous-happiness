@@ -1571,7 +1571,343 @@ title: 10K Live! UAPDA, Crash Retrieval Research, Q&A and More
     show. Peace, everybody.
     
 
+## Entities
+
+??? info "People (280)"
+
+    - Aaron Wright
+    - Air Force
+    - Air Force Base
+    - Alan Doliz
+    - Alien Interview
+    - American Dad
+    - Amy Eskridge
+    - And John Greenwald
+    - And Max
+    - And Mighty Mo
+    - And Teddy
+    - Angry Astronaut
+    - Armin Victorian
+    - As Earth Ambassador
+    - Astronmer Donald Menzel
+    - Avi Loeb
+    - Battelle Lab
+    - Battelle Lab Post
+    - Battelle Memorial Institute
+    - Beatrice Vareal
+    - Benjamin Grundy
+    - Bill Youhouse
+    - Black Ops
+    - Bob Fish
+    - Bob Lazar
+    - Bobby Ray Inman
+    - Brad Sorensen
+    - Brad Sorenson
+    - Brad Swaranson
+    - British Kissinger
+    - Brookhaven Labs
+    - Bryce Zable
+    - Burwin Mountains
+    - Buzz Aldrin
+    - California Princeton
+    - Cape Giradeau
+    - Cape Girardeau
+    - Carl Nell
+    - Carl Sagan
+    - Carl Wolf
+    - Carol Rosen
+    - Catalina Island
+    - Caudette Petuman
+    - Chris Lado
+    - Chris Mellon
+    - Chris Shark
+    - Chris Sharp
+    - Chris Sharpe
+    - Christopher Sharp
+    - Cliff Stone
+    - Clifford Stone
+    - Coast Guard
+    - Comptroller General
+    - Corona Clay
+    - Cosmic Core
+    - Daily Mail
+    - Dan Brisch
+    - Dan Burish
+    - Dan Burrish
+    - Dan Eyre
+    - Dan Sherman
+    - Danny Sheehan
+    - Darth Cheney
+    - David Grush
+    - David Ike
+    - Defense Military
+    - Development Board
+    - Dick Cheney
+    - Disclosure Act
+    - Dr. Doc
+    - Dr. Eric
+    - Dr. Eric Walker
+    - Edgar Fausch
+    - Edward Teller
+    - Elizabeth Vargas
+    - Eric Davis
+    - Eric Hecker
+    - Eric Tabor
+    - Eric Walker
+    - Eric Weinstein
+    - Ethan Dorian
+    - Even Ryan Wood
+    - Experimental Development
+    - Flying Saucers
+    - Forest Landing
+    - Forgotten Languages
+    - Fort Detrick
+    - Frank Milburn
+    - Gary Nolan
+    - General John
+    - George Knapp
+    - George Nicolakis
+    - Giju Jitsu
+    - Give Elon Musk
+    - Good Trouble
+    - Google Maps
+    - Gordon Cooper
+    - Gordon Novel
+    - Grant Cameron
+    - Groom Lake
+    - Heard Stories Lost
+    - Henry Victorian
+    - Herman Osberth
+    - Hudson Valley
+    - Hudson Valley Wave
+    - If Carl Nell
+    - If Lou
+    - In Nova Scotian
+    - Information Act
+    - Intelligence Authorization Act
+    - International Corporation
+    - Jack Sarfati
+    - Jacques Filet
+    - Jacques Valais
+    - James Allen
+    - James Cameron
+    - James Fox
+    - James Webb
+    - Jason Sans
+    - Jay Stratton
+    - Jeremy Corbell
+    - Jesse Marcel
+    - Jesse Marcel Sr
+    - Jesse Michael
+    - Jesse Michaels
+    - Jim Semavan
+    - Jiu Jitsu
+    - Joe Califano
+    - John Greenwald
+    - John Lear
+    - John Stewart
+    - Joint Research
+    - Joint Special Operations
+    - Juno Deep
+    - Justin Bush
+    - Kecksburg Wikipedia
+    - King Tut
+    - Kirk Patrick
+    - Koyame Mexico
+    - Lado Sink
+    - Lake Huron
+    - Larry Reed
+    - Las Vegas
+    - Lee Harvey Oswald
+    - Leonard Stringfield
+    - Lester Nair
+    - Liberation Times
+    - Lockheed Martin
+    - Locking Martin
+    - Long Island
+    - Lou Elizondo
+    - Lua Alizando
+    - Magic Eye
+    - Magic Eyes Only
+    - Maje Brazil
+    - Manhattan Project
+    - Marine Corps
+    - Matt Ford
+    - Matt Laszlo
+    - Max Barr
+    - Max Parr
+    - Menzel Gap
+    - Michael Masters
+    - Michael Schrat
+    - Michael Schratt
+    - Mick West
+    - Mike Baker
+    - Mike Turner
+    - Monroe Institute
+    - Mr. Beast
+    - Muah Muah
+    - Mysterious Universe
+    - National Archives
+    - National Defense
+    - National Reconnaissance Office
+    - Naval Research
+    - Neil Armstrong
+    - Nepal Retrieval
+    - New York
+    - News Nation
+    - Nick Cook
+    - Night Shift
+    - North Carolina
+    - North Wales
+    - Northrop Grumman
+    - Norton Air Base
+    - Nothing Juicy
+    - Oceanographic Institution
+    - Offworld Technologies Division
+    - Operations Command
+    - Ortle Chow
+    - Outer Banks
+    - Patrick Jackson
+    - Peyton Duke
+    - President Johnson
+    - Professor Simon Hollins
+    - Project Bluebeam
+    - Project Quarious
+    - Quantum Wave Mechanics
+    - Rand Paul
+    - Raven Rock
+    - Reads Freedom
+    - Regarding Lou
+    - Reuben Efron
+    - Rhode Island
+    - Richard Dolan
+    - Robert Sarbacher
+    - Roger Raimi
+    - Ross Coldheart
+    - Ross Colt Hart
+    - Ross Colt Hartnest
+    - Ross Colthart
+    - Ross Coltheart
+    - Ross Goldhart
+    - Roswell Debris
+    - Ryan Wood
+    - Salvador Pais
+    - San Augustine Plains
+    - Santa Cruz
+    - Schumer Amendment
+    - Science Applications
+    - Scott Anders
+    - Scott Andrews
+    - Scott Brown
+    - Sean Kirkpatrick
+    - Secret Machines
+    - Senator Rand Paul
+    - Senators Mike Rounds
+    - Senior Bush
+    - Shag Harbor
+    - Sirpointe Energy
+    - Skinny Bob
+    - Skinwalker Ranch
+    - So Frank Milburn
+    - So Grant Cameron
+    - So Vitell
+    - So Woods Hole
+    - Sol Foundation
+    - South Africa
+    - Soviet Union
+    - Space Command
+    - Stanton Friedman
+    - Star Trek
+    - Stephen Greensreet
+    - Stephen Greer
+    - Surface Warfare Center
+    - Talking Heads
+    - Task Force
+    - That Kecksburg
+    - The Abyss
+    - The Alagash
+    - The Claudio
+    - The Insider
+    - The Kometa
+    - The Locky Martin
+    - The Norway
+    - The Steelers
+    - The Susan Goev
+    - Thomas Bearden
+    - Timothy Gallaudet
+    - Tom Flurry
+    - Travis Walton
+    - Underwater Aliens
+    - Underwater Weapon Center
+    - United States
+    - Vanavar Bush
+    - Vietnam War
+    - Ville Vareal
+    - Voller Records
+    - Washington Flaps
+    - West Virginia
+    - Westall School
+    - Why Brazil
+    - Woods Hole
+    - World Technologies
+    - World Technologies Division
+    - World War
+    - World War Two
+    - Zach Brad Swanson
+    - Zero Point Energy
+
+??? info "Places (14)"
+
+    - Area
+    - Arizona
+    - Base
+    - Edwards
+    - Kecksburg
+    - Kingman
+    - Lake
+    - Mexico
+    - Mountains
+    - Pennsylvania
+    - Texas
+    - The Hudson Valley Wave
+    - Valley
+    - Vareal
+
+??? info "Organizations (27)"
+
+    - Agency
+    - Battelle
+    - Cincinnati
+    - Corporation
+    - Corps
+    - Department
+    - Foundation
+    - Holloman Air Force Base
+    - Incident
+    - Institute
+    - Labs
+    - Lockheed
+    - Los Alamos National Labs
+    - Monroe
+    - National Geospatial Intelligence Agency
+    - National Underwater Reconnaissance Office
+    - Navy
+    - Northrop
+    - Office
+    - Princeton
+    - Since
+    - Special
+    - That Battelle Lab Post
+    - United States Special Special
+    - University
+    - Woods Hole Oceanic Institute
+    - Woods Hole Oceanographic Institute
+
 **Download transcripts:** [SRT](../videos/jNC-0dmH5BQ-10k-live-uapda-crash-retrieval-research-qa-and-more/transcript.srt) · [VTT](../videos/jNC-0dmH5BQ-10k-live-uapda-crash-retrieval-research-qa-and-more/transcript.vtt) · [JSON](../videos/jNC-0dmH5BQ-10k-live-uapda-crash-retrieval-research-qa-and-more/transcript.json) · [TSV](../videos/jNC-0dmH5BQ-10k-live-uapda-crash-retrieval-research-qa-and-more/transcript.tsv)
+
+---
+
+← Newer: [9/29/24 Bush/Cheney Historical Connections to UFO Legacy Crash Retrieval Programs Ft. VolarRecords](video-pages/t85t8QpTsD4.md) · Older: [The 1965 Kecksburg, Pennsylvania UFO Crash](video-pages/rgBTMzFd-hg.md) →
 
 ## Comments
 

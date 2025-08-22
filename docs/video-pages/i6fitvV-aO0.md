@@ -219,7 +219,44 @@ title: Incredible UFO Footage - METAPOD
     appreciate it.
     
 
+## Entities
+
+??? info "People (16)"
+
+    - Blue Angel
+    - Chris Mellon
+    - El Escorial
+    - El Escorial Madrid
+    - Hal Putoff
+    - Kevin Knuth
+    - La Bruja
+    - Las Navas
+    - Los Perracadistas
+    - Lou Elizondo
+    - Mick West
+    - Monterey Witch
+    - On September
+    - Sol Foundation
+    - Third Phase
+    - Uncle Iker
+
+??? info "Places (3)"
+
+    - Mexico
+    - Peru
+    - Texas
+
+??? info "Organizations (3)"
+
+    - Especially
+    - Foundation
+    - Navy
+
 **Download transcripts:** [SRT](../videos/i6fitvV-aO0-incredible-ufo-footage---metapod/transcript.srt) · [VTT](../videos/i6fitvV-aO0-incredible-ufo-footage---metapod/transcript.vtt) · [JSON](../videos/i6fitvV-aO0-incredible-ufo-footage---metapod/transcript.json) · [TSV](../videos/i6fitvV-aO0-incredible-ufo-footage---metapod/transcript.tsv)
+
+---
+
+← Newer: [SOL Foundation: Karl Nell - A Key Figure in UAP Disclosure](video-pages/kKbSIfc7N7Q.md) · Older: [The Origin of the UFO Stigma](video-pages/xKArN8S9bnM.md) →
 
 ## Comments
 

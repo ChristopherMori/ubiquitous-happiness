@@ -1332,7 +1332,86 @@ title: 7/20/24 Discussing Cases and Q&A
     You
     
 
+## Entities
+
+??? info "People (57)"
+
+    - Amazing Thank
+    - Ben One
+    - Bill Moore
+    - Bill Moore He
+    - But Bill Moore
+    - Colt Hart
+    - Costa Rica
+    - Daniel Salter
+    - Ethan Simmons
+    - Gary Nolan
+    - Grant Cameron
+    - Jacques Valet
+    - Japan Okay
+    - Japan So
+    - Jiu Jitsu
+    - Kalahari Desert
+    - Leonard Stringfield
+    - Lou Elizondo
+    - Mack Maeve
+    - Michael Herrera
+    - Michael Schratz Crash
+    - Mufon And
+    - Nagasaki Fat
+    - No Matthew
+    - Okay Basically
+    - Okay Posted
+    - Peru Uh
+    - Please Please
+    - Puerto Rico
+    - Roswell Which
+    - Shawn Kirkpatrick
+    - So All
+    - So Like
+    - So To
+    - So When
+    - So Why
+    - So You
+    - South Africa
+    - Stephen Greer
+    - Twitter So
+    - Uh If
+    - Uh You
+    - Um Back
+    - Um Because
+    - Um Grush
+    - Um Is
+    - Um Kind
+    - Um Right
+    - Um So
+    - Um What
+    - Um Yes
+    - Um You
+    - Yeah Please Uh
+    - Yeah Yes
+    - Yes Lazar
+    - Yes Talked
+    - Yes Yes
+
+??? info "Places (2)"
+
+    - Kingman
+    - Peru
+
+??? info "Organizations (5)"
+
+    - Cincinnati
+    - Especially
+    - Sensational
+    - Since
+    - South African Air Force
+
 **Download transcripts:** [SRT](../videos/1m0oJD59eXQ-72024-discussing-cases-and-qa/transcript.srt) · [VTT](../videos/1m0oJD59eXQ-72024-discussing-cases-and-qa/transcript.vtt) · [JSON](../videos/1m0oJD59eXQ-72024-discussing-cases-and-qa/transcript.json) · [TSV](../videos/1m0oJD59eXQ-72024-discussing-cases-and-qa/transcript.tsv)
+
+---
+
+← Newer: [The 1974 Coyame, Mexico UFO Crash](video-pages/bL3tMByq_WM.md) · Older: [Off-World Technologies Division – UAP Technology Reverse Engineering](video-pages/QJ215I85d5M.md) →
 
 ## Comments
 
