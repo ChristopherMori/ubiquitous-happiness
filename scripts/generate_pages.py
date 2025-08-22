@@ -137,6 +137,9 @@ def build_page(meta, folder: Path, nav: Dict[str, Tuple[str, str]] | None = None
         p = folder / f"transcript{ext}"
         if p.exists():
             dlinks.append(f"[{label}]({rel_from_page(p)})")
+    zip_p = folder / "transcripts.zip"
+    if zip_p.exists():
+        dlinks.append(f"[ZIP]({rel_from_page(zip_p)})")
     if dlinks:
         lines += ["**Download transcripts:** " + " · ".join(dlinks), ""]
 
