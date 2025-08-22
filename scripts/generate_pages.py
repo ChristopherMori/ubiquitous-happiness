@@ -143,19 +143,124 @@ def build_page(meta, folder: Path) -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 def extract_entities(text: str) -> Dict[str, List[str]]:
+    """Extract entities with heuristics and optional overrides to improve categorization.
+
+    Heuristics applied:
+      - Titles like Dr., Sgt, Lt, Maj, Gen → people
+      - Organization keywords (Inc, LLC, University, Agency, Air Force, Navy, CIA, SAIC, etc.) → orgs
+      - Place keywords (AFB, Base, County, Lake, City, specific locations) → places
+      - Ignore very generic terms (UFO, UAP, etc.)
+      - Optional overrides from data/entity_overrides.yml with keys: people, places, orgs, ignore
+    """
     if not _NLP:
         return {"people": [], "places": [], "orgs": []}
+
+    def _normalize(name: str) -> str:
+        name = name.strip().strip('"\'\u201c\u201d').strip()
+        name = re.sub(r"\s+", " ", name)
+        return name
+
+    OVERRIDES_P = ROOT / "data" / "entity_overrides.yml"
+    overrides = {"people": set(), "places": set(), "orgs": set(), "ignore": set()}
+    if OVERRIDES_P.exists():
+        try:
+            raw = yaml.safe_load(OVERRIDES_P.read_text(encoding="utf-8")) or {}
+            for k in overrides.keys():
+                vals = raw.get(k) or []
+                overrides[k] = {v.lower() for v in vals if isinstance(v, str) and v.strip()}
+        except Exception:
+            pass
+
+    TITLE_TOKENS = {"dr", "mr", "mrs", "ms", "sgt", "lt", "maj", "gen", "col", "cmdr", "capt", "prof", "sir"}
+    ORG_KEYWORDS = {
+        "inc", "corp", "llc", "company", "co.", "university", "college", "institute", "laboratories", "labs",
+        "agency", "department", "ministry", "office", "committee", "foundation", "institute", "academy",
+        "air force", "navy", "marine corps", "army", "usaf", "us navy", "us army", "cia", "nsa", "darpa", "nro",
+        "saic", "battelle", "lockheed", "skunk works", "lockheed martin", "northrop", "northrop grumman", "boeing",
+    }
+    PLACE_KEYWORDS = {
+        "afb", "air force base", "base", "county", "city", "lake", "mount", "mountain", "valley", "area",
+        "edwards", "kingman", "kecksburg", "coyame", "peru", "mexico", "italy", "arizona", "texas", "pennsylvania",
+        "dugway proving ground", "magenta", "del rio",
+    }
+    GENERIC_IGNORE = {"ufo", "uap", "ufos", "uaps", "intro"}
+
+    def looks_like_person(name: str) -> bool:
+        t = name.lower()
+        if any(t.startswith(x + " ") for x in TITLE_TOKENS):
+            return True
+        # Simple two-token proper name heuristic
+        parts = name.split()
+        return len(parts) in (2, 3) and all(p[:1].isupper() for p in parts if p)
+
+    def looks_like_org(name: str) -> bool:
+        t = name.lower()
+        return any(k in t for k in ORG_KEYWORDS)
+
+    def looks_like_place(name: str) -> bool:
+        t = name.lower()
+        return any(k in t for k in PLACE_KEYWORDS)
+
     doc = _NLP(text)
-    people = set()
-    places = set()
-    orgs = set()
+    bucket: Dict[str, set] = {"people": set(), "places": set(), "orgs": set()}
+    raw_items: List[Tuple[str, str]] = []
     for ent in doc.ents:
-        if ent.label_ == "PERSON":
-            people.add(ent.text.strip())
-        elif ent.label_ in ("GPE", "LOC", "FAC"):
-            places.add(ent.text.strip())
-        elif ent.label_ == "ORG":
-            orgs.add(ent.text.strip())
+        if ent.label_ not in ("PERSON", "ORG", "GPE", "LOC", "FAC", "NORP"):
+            continue
+        nm = _normalize(ent.text)
+        if not nm or nm.isnumeric():
+            continue
+        raw_items.append((nm, ent.label_))
+
+    # First pass: spaCy mapping
+    for nm, label in raw_items:
+        low = nm.lower()
+        if low in overrides["ignore"] or low in GENERIC_IGNORE:
+            continue
+        if low in overrides["people"]:
+            bucket["people"].add(nm)
+            continue
+        if low in overrides["places"]:
+            bucket["places"].add(nm)
+            continue
+        if low in overrides["orgs"]:
+            bucket["orgs"].add(nm)
+            continue
+        if label == "PERSON":
+            bucket["people"].add(nm)
+        elif label in ("GPE", "LOC", "FAC"):
+            bucket["places"].add(nm)
+        elif label in ("ORG", "NORP"):
+            bucket["orgs"].add(nm)
+
+    # Heuristic corrections
+    def recategorize(names: set) -> Dict[str, set]:
+        out = {"people": set(), "places": set(), "orgs": set()}
+        for nm in names:
+            low = nm.lower()
+            if low in overrides["ignore"] or low in GENERIC_IGNORE:
+                continue
+            if low in overrides["people"]:
+                out["people"].add(nm); continue
+            if low in overrides["places"]:
+                out["places"].add(nm); continue
+            if low in overrides["orgs"]:
+                out["orgs"].add(nm); continue
+            if looks_like_person(nm):
+                out["people"].add(nm)
+            elif looks_like_org(nm):
+                out["orgs"].add(nm)
+            elif looks_like_place(nm):
+                out["places"].add(nm)
+        return out
+
+    # Merge heuristic corrections across buckets to fix mislabels
+    all_names = set().union(*bucket.values())
+    corrected = recategorize(all_names)
+    people = corrected["people"] or bucket["people"]
+    places = corrected["places"] or bucket["places"]
+    orgs = corrected["orgs"] or bucket["orgs"]
+
     def _norm_list(s):
         return sorted({x for x in s if x and not x.isnumeric()})
     return {"people": _norm_list(people), "places": _norm_list(places), "orgs": _norm_list(orgs)}

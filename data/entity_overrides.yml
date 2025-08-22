@@ -1,0 +1,10 @@
+# Optional manual overrides for entity categorization
+# Add items under any of these keys. Matching is case-insensitive.
+
+people: []
+places: []
+orgs: []
+ignore:
+  - ufo
+  - uap
+
