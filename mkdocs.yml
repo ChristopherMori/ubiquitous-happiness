@@ -1,5 +1,7 @@
 site_name: UAP Gerb Archive
 site_url: https://christophermori.github.io/ubiquitous-happiness/
+repo_url: https://github.com/ChristopherMori/ubiquitous-happiness
+edit_uri: edit/main/docs/
 theme:
   name: material
   features:
@@ -11,6 +13,15 @@ theme:
   - search.suggest
   - search.highlight
   - content.action.edit
+  palette:
+  - scheme: default
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+  - scheme: slate
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
 nav:
 - Video Index: video-index.md
 - Entities: entities.md
