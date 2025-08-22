@@ -2,11 +2,31 @@
 from pathlib import Path
 import yaml
 import json
+from jsonschema import validate, ValidationError
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 MKDOCS_YML = ROOT / "mkdocs.yml"
 CATALOG_JSON = ROOT / "data" / "catalog.json"
+CATALOG_SCHEMA = ROOT / "data" / "catalog.schema.json"
+
+def validate_catalog_file():
+    if not CATALOG_JSON.exists():
+        return
+    try:
+        catalog = json.loads(CATALOG_JSON.read_text(encoding="utf-8"))
+    except Exception as exc:
+        raise SystemExit(f"Invalid JSON in {CATALOG_JSON}: {exc}")
+    if CATALOG_SCHEMA.exists():
+        try:
+            schema = json.loads(CATALOG_SCHEMA.read_text(encoding="utf-8"))
+            validate(instance=catalog, schema=schema)
+        except ValidationError as ve:
+            path = "/".join([str(p) for p in ve.path])
+            loc = f" at /{path}" if path else ""
+            raise SystemExit(f"Catalog schema validation failed{loc}: {ve.message}")
+        except Exception as exc:
+            raise SystemExit(f"Failed to load/validate schema: {exc}")
 
 def build_videos_nav():
     if not CATALOG_JSON.exists():
@@ -58,6 +78,7 @@ def ensure_nav_entries():
 def main():
     # Generate pages and indices
     import subprocess, sys
+    validate_catalog_file()
     subprocess.check_call([sys.executable, str(ROOT / "scripts" / "generate_pages.py")])
     ensure_nav_entries()
 
