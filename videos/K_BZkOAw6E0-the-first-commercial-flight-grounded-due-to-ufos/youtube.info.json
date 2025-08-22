@@ -36,7 +36,7 @@
   },
   "videosList": {
     "kind": "youtube#video",
-    "etag": "7QTTDsArxHgRzrOBEikCKO_yl9A",
+    "etag": "EL9gg8L2LRKAqdZ5-5fP1cqAosw",
     "id": "K_BZkOAw6E0",
     "snippet": {
       "publishedAt": "2024-01-22T00:26:40Z",
@@ -73,10 +73,12 @@
       "channelTitle": "UAP Gerb",
       "categoryId": "22",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
       "localized": {
         "title": "The First Commercial Flight Grounded Due to UFOs",
         "description": "Today we are talking about the 1979 Manises Incident - the most famous UFO case in Spain and the first recorded emergency landing of a commercial aircraft due to UFOs! In this documentary, we will review the case, discuss the facts, and relate the anomalous incident to the 1976 Tehran UFO sighting. \n\nMPC Flight Recreations (audio transcript and flight rendering):\nhttps://www.youtube.com/@UCnleKTPNvL2kzBS9F2ryzpA \n\n\n#ufo #iceberg #alien #aliens #uap #uapnukes #icebergexplained #grusch #extraterrestrial #conspiracy #USMC #marines #airplane #jet"
-      }
+      },
+      "defaultAudioLanguage": "en"
     },
     "contentDetails": {
       "duration": "PT16M34S",
@@ -88,8 +90,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "10502",
-      "likeCount": "627",
+      "viewCount": "10506",
+      "likeCount": "628",
       "favoriteCount": "0",
       "commentCount": "158"
     },

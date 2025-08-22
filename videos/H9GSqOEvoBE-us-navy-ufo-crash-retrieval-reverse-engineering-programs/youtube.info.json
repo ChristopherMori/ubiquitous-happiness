@@ -36,7 +36,7 @@
   },
   "videosList": {
     "kind": "youtube#video",
-    "etag": "fsSxfOc71cqns3xOy85kmw9839g",
+    "etag": "ez96iTMJRG3E0klU2iYpZCvSMwI",
     "id": "H9GSqOEvoBE",
     "snippet": {
       "publishedAt": "2025-04-11T23:31:31Z",
@@ -88,8 +88,8 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "115192",
-      "likeCount": "4624",
+      "viewCount": "115309",
+      "likeCount": "4626",
       "favoriteCount": "0",
       "commentCount": "890"
     },

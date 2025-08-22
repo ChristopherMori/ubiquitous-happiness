@@ -36,7 +36,7 @@
   },
   "videosList": {
     "kind": "youtube#video",
-    "etag": "M7SEBlNj05ihu-QM10buB7oRdJ8",
+    "etag": "2F7l6lgDuMZZk9RBRZW4evlQcZQ",
     "id": "hK24ZdkvwN4",
     "snippet": {
       "publishedAt": "2024-01-26T23:46:38Z",
@@ -73,10 +73,12 @@
       "channelTitle": "UAP Gerb",
       "categoryId": "22",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
       "localized": {
         "title": "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies",
         "description": "Dr. Sean Kirkpatrick's controversial op-ed has caused quite a storm in the UFO world this week! Within this opinion piece, the former head of AARO alleges that Grusch and other UFO whistleblowers are either misguided or making unsubstantiated claims. \n\nDr. Kirkpatrick uses his spotlight in Scientific American to make emotional arguments to reason that AARO never found evidence of aliens or extraterrestrials, no mention of non-human intelligence, and those saying otherwise are the enemy of scientific pursuits.\n\nIn today's off-the-cuff rant I am going to expose the lies, mistruths, and purposeful disinformation in the \"UFO Boss's\" opinion piece and lay out the facts as to why Dr. Kirkpatrcik perpetuates the purposeful spread of UFO disinformation while acting as the mouthpiece of the DOD.\n\nScientific American Article:\nhttps://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/\n\nDr. K's Emotional LinkedIn Post:\nhttps://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f\n\nDOD's Admission of Dysfunctional UAP Study:\nhttps://www.dodig.mil/In-the-Spotlight/Article/3656428/press-release-evaluation-of-the-dods-actions-regarding-unidentified-anomalous-p/\n\nSancorp:\nhttps://www.sancorpconsulting.com/ \n\nMusic by the talented https://www.youtube.com/channel/UCz71_7z7NphLPZ0l_7G3Llg"
-      }
+      },
+      "defaultAudioLanguage": "en"
     },
     "contentDetails": {
       "duration": "PT13M14S",
@@ -88,7 +90,7 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "6030",
+      "viewCount": "6034",
       "likeCount": "440",
       "favoriteCount": "0",
       "commentCount": "87"

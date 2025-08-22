@@ -36,7 +36,7 @@
   },
   "videosList": {
     "kind": "youtube#video",
-    "etag": "JP1p6H5gi2IV_98_0OgnV4Z4ylA",
+    "etag": "HSQzR4IPlSeOwqGLknnVPkodJcs",
     "id": "3iWLTyhdyf4",
     "snippet": {
       "publishedAt": "2024-09-08T23:12:27Z",
@@ -73,6 +73,7 @@
       "channelTitle": "UAP Gerb",
       "categoryId": "22",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
       "localized": {
         "title": "9/8/24 Discussing Steven Greer London Live Event",
         "description": "I bought the 9/8/24 Steven Greer London lecture Pay Per View. Let's break it down."
@@ -89,7 +90,7 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "11603",
+      "viewCount": "11607",
       "likeCount": "431",
       "favoriteCount": "0",
       "commentCount": "97"
